@@ -1,0 +1,388 @@
+{
+  "source": {
+    "name": "Western Manual Forms",
+    "path": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms"
+  },
+  "generated_at": "2026-04-02T14:19:57Z",
+  "counts": {
+    "forms": 53,
+    "skipped": 0,
+    "total": 53
+  },
+  "sections": {
+    "manual_forms": [
+      {
+        "title": "307 Pole Barns",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\307 Pole Barns.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\001-307-pole-barns.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "AB Buildings",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\AB Buildings.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\002-ab-buildings.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Accounting Position Daily, Weekly, and Bi-Weekly Expectations",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Accounting Position Daily, Weekly, and Bi-Weekly Expectations.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\003-accounting-position-daily-weekly-and-bi-weekly-expectations.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "ACH Receivable",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\ACH Receivable.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\004-ach-receivable.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Alpine",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Alpine.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\005-alpine.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Answering a phone call",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Answering a phone call.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\006-answering-a-phone-call.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Attaching Truss Files in Paradigm",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Attaching Truss Files in Paradigm.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\007-attaching-truss-files-in-paradigm.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Bad Debt Write Off",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Bad Debt Write Off.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\008-bad-debt-write-off.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Big D_s Fencing and Pole Barns",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Big D_s Fencing and Pole Barns.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\009-big-d-s-fencing-and-pole-barns.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Billy Evans Construction",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Billy Evans Construction.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\010-billy-evans-construction.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Capitol Roofing",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Capitol Roofing.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\011-capitol-roofing.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "changing prepayment to a diff order number or resolve return payment",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\changing prepayment to a diff order number or resolve return payment.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\012-changing-prepayment-to-a-diff-order-number-or-resolve-return-payment.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Charge Account Process",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Charge Account Process.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\013-charge-account-process.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Circle R Steel",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Circle R Steel.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\014-circle-r-steel.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "clock temp form",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\clock temp form.docx",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\015-clock-temp-form.md",
+        "type": "manual-form",
+        "source_ext": ".docx"
+      },
+      {
+        "title": "Credit Application Charge Account",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Credit Application Charge Account.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\016-credit-application-charge-account.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Customer Refund Via Check Process",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Customer Refund Via Check Process.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\017-customer-refund-via-check-process.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Daily - Weekly- Monthly Cleaning Schedule",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Daily - Weekly- Monthly Cleaning Schedule.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\018-daily-weekly-monthly-cleaning-schedule.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "daily invoice and payment review",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\daily invoice and payment review.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\019-daily-invoice-and-payment-review.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Daily Open Purchase Order Review",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Daily Open Purchase Order Review.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\020-daily-open-purchase-order-review.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Daily PIC Worksheet",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Daily PIC Worksheet.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\021-daily-pic-worksheet.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "DGM",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\DGM.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\022-dgm.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Fix R Pro",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Fix R Pro.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\023-fix-r-pro.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "general onboarding",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\general onboarding.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\024-general-onboarding.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Green Vista Roofing",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Green Vista Roofing.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\025-green-vista-roofing.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Homestead Homes",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Homestead Homes.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\026-homestead-homes.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "How to Apply Prepayment",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\How to Apply Prepayment.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\027-how-to-apply-prepayment.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "How to Install Paradigm on Your Desktop",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\How to Install Paradigm on Your Desktop.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\028-how-to-install-paradigm-on-your-desktop.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "How to refund a customer Via Check",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\How to refund a customer Via Check.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\029-how-to-refund-a-customer-via-check.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "If Then Scenarios",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\If Then Scenarios.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\030-if-then-scenarios.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Intro to Western and welcome",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Intro to Western and welcome.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\031-intro-to-western-and-welcome.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Ironwood Builders",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Ironwood Builders.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\032-ironwood-builders.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "JC_s Carpentry",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\JC_s Carpentry.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\033-jc-s-carpentry.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Logging into Paradigm for the First Time",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Logging into Paradigm for the First Time.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\034-logging-into-paradigm-for-the-first-time.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Lunch Break Guidelines - Sales Floor",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Lunch Break Guidelines - Sales Floor.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\035-lunch-break-guidelines-sales-floor.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Mojo Barns",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Mojo Barns.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\036-mojo-barns.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "New Computer Setup",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\New Computer Setup.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\037-new-computer-setup.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Onboarding Offboarding",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Onboarding Offboarding.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\038-onboarding-offboarding.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "OPERATIONS KP IS",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\OPERATIONS KP IS.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\039-operations-kp-is.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Platte River Structures",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Platte River Structures.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\040-platte-river-structures.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Prism Builds",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Prism Builds.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\041-prism-builds.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Purchasing Dept SOP-Vendor Cost Adjustments",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Purchasing Dept SOP-Vendor Cost Adjustments.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\042-purchasing-dept-sop-vendor-cost-adjustments.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Re  start Server and CS Director",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Re  start Server and CS Director.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\043-re-start-server-and-cs-director.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Return a Customer Credit Balance Via Check",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Return a Customer Credit Balance Via Check.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\044-return-a-customer-credit-balance-via-check.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Slack Holiday Post",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Slack Holiday Post.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\045-slack-holiday-post.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "SOP for Submitting Receipts via Paradigm Mobile",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\SOP for Submitting Receipts via Paradigm Mobile.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\046-sop-for-submitting-receipts-via-paradigm-mobile.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Stellar Construction",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Stellar Construction.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\047-stellar-construction.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Structured Internal Communication",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Structured Internal Communication.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\048-structured-internal-communication.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Time off policy",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Time off policy.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\049-time-off-policy.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Weekly AP Task",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Weekly AP Task.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\050-weekly-ap-task.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Weekly Purchasing Metrics",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Weekly Purchasing Metrics.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\051-weekly-purchasing-metrics.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Western Building Supply - Outside Salesmen Travel Policy (Effective 2024)",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Western Building Supply - Outside Salesmen Travel Policy (Effective 2024).pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\052-western-building-supply-outside-salesmen-travel-policy-effective-2024.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      },
+      {
+        "title": "Young Guns",
+        "url": "A:\\westernintel\\Manual Forms-20260202T051211Z-3-001\\Manual Forms\\Young Guns.pdf",
+        "path": "A:\\westernintel\\data\\manual_forms_docs\\forms\\053-young-guns.md",
+        "type": "manual-form",
+        "source_ext": ".pdf"
+      }
+    ]
+  },
+  "skipped": []
+}

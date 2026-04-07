@@ -1,0 +1,536 @@
+# Paradigm ERP Offline Archive
+
+Source: https://docs.goparagon.com/
+
+## Accounting
+Category: https://docs.goparagon.com/kb-category/accounting/
+
+- [General Journal Entries](https://docs.goparagon.com/kb/general-journal-entries/) | data/paradigm_docs/general-journal-entries.md
+- [Return Payments](https://docs.goparagon.com/kb/return-payments/) | data/paradigm_docs/return-payments.md
+- [Cash Payment Rounding Level](https://docs.goparagon.com/kb/cash-payment-rounding-level/) | data/paradigm_docs/cash-payment-rounding-level.md
+- [Month End Close](https://docs.goparagon.com/kb/month-end-close/) | data/paradigm_docs/month-end-close.md
+- [Intercompany Transactions](https://docs.goparagon.com/kb/intercompany-transactions/) | data/paradigm_docs/intercompany-transactions.md
+- [Next Check Number](https://docs.goparagon.com/kb/next-check-number/) | data/paradigm_docs/next-check-number.md
+- [Departments, Entities, And Locations](https://docs.goparagon.com/kb/departments-entities-and-locations/) | data/paradigm_docs/departments-entities-and-locations.md
+- [Receivables](https://docs.goparagon.com/kb/receivables/) | data/paradigm_docs/receivables.md
+- [Factoring Labor Expense Into Finished Good Cost](https://docs.goparagon.com/kb/factoring-labor-expense-into-finished-good-cost/) | data/paradigm_docs/factoring-labor-expense-into-finished-good-cost.md
+- [Return a Customer Credit Balance](https://docs.goparagon.com/kb/return-a-customer-credit-balance/) | data/paradigm_docs/return-a-customer-credit-balance.md
+- [Report List](https://docs.goparagon.com/kb/report-list/) | data/paradigm_docs/report-list.md
+- [Write Off Bad Debts](https://docs.goparagon.com/kb/write-off-bad-debts/) | data/paradigm_docs/write-off-bad-debts.md
+- [Sales Tax Code Set Up](https://docs.goparagon.com/kb/sales-tax-code-setup/) | data/paradigm_docs/sales-tax-code-set-up.md
+- [Financial Analysis Tool](https://docs.goparagon.com/kb/financial-analysis-tool/) | data/paradigm_docs/financial-analysis-tool.md
+- [Positive Pay Export](https://docs.goparagon.com/kb/positive-pay-export/) | data/paradigm_docs/positive-pay-export.md
+- [Bank Feed](https://docs.goparagon.com/kb/bank-feed/) | data/paradigm_docs/bank-feed.md
+- [Payroll Options](https://docs.goparagon.com/kb/payroll-options/) | data/paradigm_docs/payroll-options.md
+- [Bank Reconciliations](https://docs.goparagon.com/kb/bank-reconciliations/) | data/paradigm_docs/bank-reconciliations.md
+- [Recording Cash Back On A Debit Card Transaction](https://docs.goparagon.com/kb/recording-cash-back-on-a-debit-card-transaction/) | data/paradigm_docs/recording-cash-back-on-a-debit-card-transaction.md
+- [Loans](https://docs.goparagon.com/kb/loans/) | data/paradigm_docs/loans.md
+- [Paying Sales Tax](https://docs.goparagon.com/kb/paying-sales-tax/) | data/paradigm_docs/paying-sales-tax.md
+- [Raw Material vs Finished Good Material Inventory Tracking](https://docs.goparagon.com/kb/raw-material-vs-finished-good-material-inventory-tracking/) | data/paradigm_docs/raw-material-vs-finished-good-material-inventory-tracking.md
+- [Vendor Default Expense Account](https://docs.goparagon.com/kb/vendor-default-expense-account/) | data/paradigm_docs/vendor-default-expense-account.md
+- [Bill Entry](https://docs.goparagon.com/kb/bill-entry/) | data/paradigm_docs/bill-entry.md
+- [Depreciation](https://docs.goparagon.com/kb/depreciation/) | data/paradigm_docs/depreciation.md
+- [Cash vs Accrual Accounting Method](https://docs.goparagon.com/kb/cash-vs-accrual-accounting-method/) | data/paradigm_docs/cash-vs-accrual-accounting-method.md
+- [Bank Account Linking](https://docs.goparagon.com/kb/bank-account-linking/) | data/paradigm_docs/bank-account-linking.md
+- [Currency Conversion](https://docs.goparagon.com/kb/currency-conversion/) | data/paradigm_docs/currency-conversion.md
+- [Budgets](https://docs.goparagon.com/kb/budgets/) | data/paradigm_docs/budgets.md
+- [Overpayments](https://docs.goparagon.com/kb/overpayments/) | data/paradigm_docs/overpayments.md
+- [Default GL Accounts](https://docs.goparagon.com/kb/default-gl-accounts/) | data/paradigm_docs/default-gl-accounts.md
+- [Favorited Transactions](https://docs.goparagon.com/kb/favorited-transactions/) | data/paradigm_docs/favorited-transactions.md
+- [Bank Account List](https://docs.goparagon.com/kb/bank-account-list/) | data/paradigm_docs/bank-account-list.md
+- [Import Credit Card Transactions](https://docs.goparagon.com/kb/credit-card-transaction-import/) | data/paradigm_docs/import-credit-card-transactions.md
+- [Credit Card Charges](https://docs.goparagon.com/kb/credit-card-charges/) | data/paradigm_docs/credit-card-charges.md
+- [Writing Off AP balances](https://docs.goparagon.com/kb/writing-off-ap-balances/) | data/paradigm_docs/writing-off-ap-balances.md
+- [GL Recap](https://docs.goparagon.com/kb/gl-recap/) | data/paradigm_docs/gl-recap.md
+- [Track Discounts in GL](https://docs.goparagon.com/kb/track-discounts-in-gl/) | data/paradigm_docs/track-discounts-in-gl.md
+- [Closing A Fiscal Year](https://docs.goparagon.com/kb/closing-a-fiscal-year/) | data/paradigm_docs/closing-a-fiscal-year.md
+- [Create GL Accounts](https://docs.goparagon.com/kb/create-gl-accounts/) | data/paradigm_docs/create-gl-accounts.md
+- [Cost Methods](https://docs.goparagon.com/kb/cost-methods/) | data/paradigm_docs/cost-methods.md
+- [Checks & Withdrawals](https://docs.goparagon.com/kb/checks-withdrawals/) | data/paradigm_docs/checks-withdrawals.md
+- [Average Cost Calculation](https://docs.goparagon.com/kb/average-cost-calculation/) | data/paradigm_docs/average-cost-calculation.md
+- [How to Mark Items as Taxable and Nontaxable](https://docs.goparagon.com/kb/how-to-mark-items-as-taxable-and-nontaxable/) | data/paradigm_docs/how-to-mark-items-as-taxable-and-nontaxable.md
+- [How to Do a Book-to-System Inventory Valuation Adjustment](https://docs.goparagon.com/kb/how-to-do-a-book-to-system-inventory-valuation-adjustment/) | data/paradigm_docs/how-to-do-a-book-to-system-inventory-valuation-adjustment.md
+- [Store Use Items](https://docs.goparagon.com/kb/store-use-items/) | data/paradigm_docs/store-use-items.md
+- [Report Preview](https://docs.goparagon.com/kb/report-preview/) | data/paradigm_docs/report-preview.md
+- [Journal Entry Import Format](https://docs.goparagon.com/kb/journal-entry-import-format/) | data/paradigm_docs/journal-entry-import-format.md
+- [Finance Charges](https://docs.goparagon.com/kb/finance-charges/) | data/paradigm_docs/finance-charges.md
+- [How to Create Bank Deposits](https://docs.goparagon.com/kb/how-to-create-bank-deposits/) | data/paradigm_docs/how-to-create-bank-deposits.md
+- [Vendor Credits Paid Back to Credit Card](https://docs.goparagon.com/kb/vendor-credits-paid-back-to-credit-card/) | data/paradigm_docs/vendor-credits-paid-back-to-credit-card.md
+- [Applying A Contact’s Customer Invoice Towards their Vendor Purchase Invoices](https://docs.goparagon.com/kb/applying-a-contacts-customer-invoice-towards-their-vendor-purchase-invoices/) | data/paradigm_docs/applying-a-contact-s-customer-invoice-towards-their-vendor-purchase-invoices.md
+- [Bookkeeping Tips And Tricks](https://docs.goparagon.com/kb/bookkeeping-tips-and-tricks/) | data/paradigm_docs/bookkeeping-tips-and-tricks.md
+- [1099 Processing](https://docs.goparagon.com/kb/1099-processing/) | data/paradigm_docs/1099-processing.md
+- [Correct a Prepayment Received for the Wrong Customer](https://docs.goparagon.com/kb/correct-a-prepayment-received-for-the-wrong-customer/) | data/paradigm_docs/correct-a-prepayment-received-for-the-wrong-customer.md
+
+## Add-Ons and Integrations
+Category: https://docs.goparagon.com/kb-category/add-ons-integrations/
+
+- [Integrated ACH Payments Addon](https://docs.goparagon.com/kb/integrated-ach-payments-addon/) | data/paradigm_docs/integrated-ach-payments-addon.md
+- [Trim Draw](https://docs.goparagon.com/kb/trim-draw/) | data/paradigm_docs/trim-draw.md
+- [Samsara Integration](https://docs.goparagon.com/kb/samsara-integration/) | data/paradigm_docs/samsara-integration.md
+- [Managing EBizCharge Saved Credit Cards](https://docs.goparagon.com/kb/managing-ebizcharge-saved-credit-cards/) | data/paradigm_docs/managing-ebizcharge-saved-credit-cards.md
+- [DataHub](https://docs.goparagon.com/kb/datahub/) | data/paradigm_docs/datahub.md
+- [AvaTax Integration](https://docs.goparagon.com/kb/avatax-integration/) | data/paradigm_docs/avatax-integration.md
+- [Paradigm Mobile: Overview](https://docs.goparagon.com/kb/paradigm-mobile-overview/) | data/paradigm_docs/paradigm-mobile-overview.md
+- [Paradigm Mobile: Vendor List](https://docs.goparagon.com/kb/paradigm-mobile-vendor-list/) | data/paradigm_docs/paradigm-mobile-vendor-list.md
+- [Paradigm Mobile: Inventory](https://docs.goparagon.com/kb/paradigm-mobile-inventory/) | data/paradigm_docs/paradigm-mobile-inventory.md
+- [Online Payments](https://docs.goparagon.com/kb/online-payments/) | data/paradigm_docs/online-payments.md
+- [Do It Best Integration](https://docs.goparagon.com/kb/do-it-best-integration/) | data/paradigm_docs/do-it-best-integration.md
+- [Configuring A Product For Export to Variobend](https://docs.goparagon.com/kb/configuring-a-product-for-export-to-variobend/) | data/paradigm_docs/configuring-a-product-for-export-to-variobend.md
+- [PARADIGM CONNECTOR END USER LICENSE AGREEMENT](https://docs.goparagon.com/kb/paradigm-connector-end-user-license-agreement/) | data/paradigm_docs/paradigm-connector-end-user-license-agreement.md
+- [Paradigm Mobile: Privacy Policy](https://docs.goparagon.com/kb/paradigm-mobile-privacy-policy/) | data/paradigm_docs/paradigm-mobile-privacy-policy.md
+- [SmartBuild Import On Quotes And Orders](https://docs.goparagon.com/kb/smartbuild-import-on-quotes-and-orders/) | data/paradigm_docs/smartbuild-import-on-quotes-and-orders.md
+- [Paradigm Privacy Policy](https://docs.goparagon.com/kb/paradigm-privacy-policy/) | data/paradigm_docs/paradigm-privacy-policy.md
+- [UPS Worldship Integration](https://docs.goparagon.com/kb/ups-worldship-integration/) | data/paradigm_docs/ups-worldship-integration.md
+- [Motive Integration](https://docs.goparagon.com/kb/motive-integration/) | data/paradigm_docs/motive-integration.md
+- [DataHub: Preferences](https://docs.goparagon.com/kb/datahub-preferences/) | data/paradigm_docs/datahub-preferences.md
+- [DataHub: Pending Purchases](https://docs.goparagon.com/kb/datahub-pending-purchases/) | data/paradigm_docs/datahub-pending-purchases.md
+- [DataHub: Pending Orders](https://docs.goparagon.com/kb/datahub-pending-orders/) | data/paradigm_docs/datahub-pending-orders.md
+- [DataHub: Price Changes and Item Updates](https://docs.goparagon.com/kb/datahub-price-changes-and-item-updates/) | data/paradigm_docs/datahub-price-changes-and-item-updates.md
+- [Paradigm Mobile: Trips](https://docs.goparagon.com/kb/paradigm-mobile-trips/) | data/paradigm_docs/paradigm-mobile-trips.md
+- [Paradigm Mobile: Delivery](https://docs.goparagon.com/kb/paradigm-mobile-delivery/) | data/paradigm_docs/paradigm-mobile-delivery.md
+- [Paradigm Mobile: Customer List](https://docs.goparagon.com/kb/paradigm-mobile-customer-list/) | data/paradigm_docs/paradigm-mobile-customer-list.md
+- [Paradigm Mobile: Settings](https://docs.goparagon.com/kb/paradigm-mobile-settings/) | data/paradigm_docs/paradigm-mobile-settings.md
+- [Paradigm Mobile: Receipt Capture](https://docs.goparagon.com/kb/paradigm-mobile-receipt-capture/) | data/paradigm_docs/paradigm-mobile-receipt-capture.md
+- [Paradigm Mobile: Task List](https://docs.goparagon.com/kb/paradigm-mobile-task-list/) | data/paradigm_docs/paradigm-mobile-task-list.md
+- [Maintenance Tracking Addon](https://docs.goparagon.com/kb/maintenance-tracking-addon/) | data/paradigm_docs/maintenance-tracking-addon.md
+- [Shelf Label Print Tool](https://docs.goparagon.com/kb/shelf-label-printing-tool/) | data/paradigm_docs/shelf-label-print-tool.md
+- [Store Management App](https://docs.goparagon.com/kb/store-management-app/) | data/paradigm_docs/store-management-app.md
+
+## Administration and Setup
+Category: https://docs.goparagon.com/kb-category/administration-and-setup/
+
+- [Credit Card Processing Set Up](https://docs.goparagon.com/kb/credit-card-processing-setup/) | data/paradigm_docs/credit-card-processing-set-up.md
+- [User Groups](https://docs.goparagon.com/kb/user-groups/) | data/paradigm_docs/user-groups.md
+- [Reset A Paradigm ERP User Password](https://docs.goparagon.com/kb/reset-a-paradigm-erp-user-password/) | data/paradigm_docs/reset-a-paradigm-erp-user-password.md
+- [Company Preferences](https://docs.goparagon.com/kb/company-preferences/) | data/paradigm_docs/company-preferences.md
+- [Data Utilities: Update And Delete](https://docs.goparagon.com/kb/data-utilities-update-and-delete/) | data/paradigm_docs/data-utilities-update-and-delete.md
+- [Remaining DB Space](https://docs.goparagon.com/kb/remaining-db-space/) | data/paradigm_docs/remaining-db-space.md
+- [Custom Business Logic](https://docs.goparagon.com/kb/custom-business-logic/) | data/paradigm_docs/custom-business-logic.md
+- [Update/Install Paradigm](https://docs.goparagon.com/kb/update-install-paradigm/) | data/paradigm_docs/update-install-paradigm.md
+- [Creating Users and User Security](https://docs.goparagon.com/kb/creating-users-and-user-security/) | data/paradigm_docs/creating-users-and-user-security.md
+- [Create Employee Web Logins](https://docs.goparagon.com/kb/create-employee-web-logins/) | data/paradigm_docs/create-employee-web-logins.md
+- [Payment Terms](https://docs.goparagon.com/kb/payment-terms/) | data/paradigm_docs/payment-terms.md
+- [Report Security](https://docs.goparagon.com/kb/report-security/) | data/paradigm_docs/report-security.md
+- [Set Up Emailing From Paradigm](https://docs.goparagon.com/kb/setup-emailing-from-paradigm/) | data/paradigm_docs/set-up-emailing-from-paradigm.md
+- [Connect a Credit Card Reader to An EBizCharge Account](https://docs.goparagon.com/kb/connect-a-credit-card-reader-to-an-ebizcharge-account/) | data/paradigm_docs/connect-a-credit-card-reader-to-an-ebizcharge-account.md
+- [Paradigm Dashboards](https://docs.goparagon.com/kb/paradigm-dashboards/) | data/paradigm_docs/paradigm-dashboards.md
+- [Windows Location Access](https://docs.goparagon.com/kb/windows-location-access/) | data/paradigm_docs/windows-location-access.md
+- [Cloud Server Hosting](https://docs.goparagon.com/kb/cloud-server-hosting/) | data/paradigm_docs/cloud-server-hosting.md
+- [Creating Employees](https://docs.goparagon.com/kb/creating-employees/) | data/paradigm_docs/creating-employees.md
+- [Web Browser Failed To Load](https://docs.goparagon.com/kb/web-browser-failed-to-load/) | data/paradigm_docs/web-browser-failed-to-load.md
+- [Paradigm API](https://docs.goparagon.com/kb/paradigm-api/) | data/paradigm_docs/paradigm-api.md
+- [User Preferences](https://docs.goparagon.com/kb/user-preferences/) | data/paradigm_docs/user-preferences.md
+- [ZIP Codes](https://docs.goparagon.com/kb/setting-up-zip-codes/) | data/paradigm_docs/zip-codes.md
+- [Using the Paradigm Payroll Importer](https://docs.goparagon.com/kb/using-the-payroll-import/) | data/paradigm_docs/using-the-paradigm-payroll-importer.md
+- [Payroll Import Set up](https://docs.goparagon.com/kb/payroll-import-setup/) | data/paradigm_docs/payroll-import-set-up.md
+- [Users Logged In](https://docs.goparagon.com/kb/users-logged-in/) | data/paradigm_docs/users-logged-in.md
+- [Activate Receipt Printers and Cash drawers for use in Paradigm](https://docs.goparagon.com/kb/activate-receipt-printers-and-cash-drawers-for-use-in-paradigm/) | data/paradigm_docs/activate-receipt-printers-and-cash-drawers-for-use-in-paradigm.md
+- [How to Set Up an Employee As a Salesperson](https://docs.goparagon.com/kb/how-to-setup-an-employee-as-a-salesperson/) | data/paradigm_docs/how-to-set-up-an-employee-as-a-salesperson.md
+- [Turning Off Payment Prompts](https://docs.goparagon.com/kb/turning-off-payment-prompts/) | data/paradigm_docs/turning-off-payment-prompts.md
+- [How to Copy List Layouts and Saved Filters](https://docs.goparagon.com/kb/how-to-copy-list-layouts-and-saved-filters/) | data/paradigm_docs/how-to-copy-list-layouts-and-saved-filters.md
+- [How to Customize List Layouts](https://docs.goparagon.com/kb/how-to-customize-form-layouts/) | data/paradigm_docs/how-to-customize-list-layouts.md
+- [State and ZIP Sales Tax Codes](https://docs.goparagon.com/kb/state-sales-tax-codes/) | data/paradigm_docs/state-and-zip-sales-tax-codes.md
+- [Paradigm Settings, Preferences, and Security Settings Overview](https://docs.goparagon.com/kb/paradigm-settings-preferences-and-security-settings-overview/) | data/paradigm_docs/paradigm-settings-preferences-and-security-settings-overview.md
+- [Set Up Saved Filters (With Helpful Examples)](https://docs.goparagon.com/kb/setting-up-saved-filters-with-helpful-examples/) | data/paradigm_docs/set-up-saved-filters-with-helpful-examples.md
+- [Admin Tips and Tricks](https://docs.goparagon.com/kb/admin-tips-and-tricks/) | data/paradigm_docs/admin-tips-and-tricks.md
+- [How to Trigger Searches Inside of Paradigm from an External Source](https://docs.goparagon.com/kb/how-to-trigger-searches-inside-of-paradigm-from-an-external-source/) | data/paradigm_docs/how-to-trigger-searches-inside-of-paradigm-from-an-external-source.md
+- [Disallow Manual Price Changes](https://docs.goparagon.com/kb/disallow-manual-price-changes/) | data/paradigm_docs/disallow-manual-price-changes.md
+- [Zebra and SATO Label Printer Set up](https://docs.goparagon.com/kb/zebra-and-sato-label-printer-setup/) | data/paradigm_docs/zebra-and-sato-label-printer-set-up.md
+- [Default Salesperson](https://docs.goparagon.com/kb/default-salesperson/) | data/paradigm_docs/default-salesperson.md
+- [Auto Attach](https://docs.goparagon.com/kb/auto-attach/) | data/paradigm_docs/auto-attach.md
+- [Installing Topaz Signature Pad](https://docs.goparagon.com/kb/installing-topaz-signature-pad/) | data/paradigm_docs/installing-topaz-signature-pad.md
+- [Restore Deleted Transactions](https://docs.goparagon.com/kb/restore-deleted-transactions/) | data/paradigm_docs/restore-deleted-transactions.md
+- [Paradigm Shortcut – Auto Sign In](https://docs.goparagon.com/kb/paradigm-shortcut/) | data/paradigm_docs/paradigm-shortcut-auto-sign-in.md
+- [Default Printer](https://docs.goparagon.com/kb/default-printer/) | data/paradigm_docs/default-printer.md
+
+## Fulfillment Pro
+Category: https://docs.goparagon.com/kb-category/fulfillment-pro/
+
+- [Fulfillment Pro: Employee Filters and Settings](https://docs.goparagon.com/kb/fulfillment-pro-employee-filters-and-settings/) | data/paradigm_docs/fulfillment-pro-employee-filters-and-settings.md
+- [Fulfillment Pro: Pulling (Picking)](https://docs.goparagon.com/kb/fulfillment-pro-pulling-picking/) | data/paradigm_docs/fulfillment-pro-pulling-picking.md
+- [Fulfillment Pro: Filtering](https://docs.goparagon.com/kb/fulfillment-pro-filtering/) | data/paradigm_docs/fulfillment-pro-filtering.md
+- [Fulfillment Pro: Shipping](https://docs.goparagon.com/kb/fulfillment-pro-shipping/) | data/paradigm_docs/fulfillment-pro-shipping.md
+- [Fulfillment Pro: Set Up](https://docs.goparagon.com/kb/fulfillment-pro-set-up/) | data/paradigm_docs/fulfillment-pro-set-up.md
+- [Fulfillment Pro: Receiving](https://docs.goparagon.com/kb/fulfillment-pro-receiving/) | data/paradigm_docs/fulfillment-pro-receiving.md
+- [Fulfillment Pro: Company Set Up](https://docs.goparagon.com/kb/fulfillment-pro-company-set-up/) | data/paradigm_docs/fulfillment-pro-company-set-up.md
+- [Fulfillment Pro: Quality Control](https://docs.goparagon.com/kb/fulfillment-pro-quality-control/) | data/paradigm_docs/fulfillment-pro-quality-control.md
+- [Fulfillment Pro: Import From Vendor](https://docs.goparagon.com/kb/fulfillment-pro-import-from-vendor/) | data/paradigm_docs/fulfillment-pro-import-from-vendor.md
+- [Why Is This Order Not Showing In Fulfillment Pro?](https://docs.goparagon.com/kb/why-is-this-order-not-showing-in-fulfillment-pro/) | data/paradigm_docs/why-is-this-order-not-showing-in-fulfillment-pro.md
+- [Fulfillment Pro: Unlocking](https://docs.goparagon.com/kb/fulfillment-pro-unlocking/) | data/paradigm_docs/fulfillment-pro-unlocking.md
+- [Fulfillment Pro: Pulled By Salesperson](https://docs.goparagon.com/kb/fulfillment-pro-pulled-by-salesperson/) | data/paradigm_docs/fulfillment-pro-pulled-by-salesperson.md
+- [Fulfillment Pro: Keyboard Shortcuts](https://docs.goparagon.com/kb/fulfillment-pro-keyboard-shortcuts/) | data/paradigm_docs/fulfillment-pro-keyboard-shortcuts.md
+- [Fulfillment Pro: Popup Number Pad](https://docs.goparagon.com/kb/fulfillment-pro-number-pad/) | data/paradigm_docs/fulfillment-pro-popup-number-pad.md
+- [Fulfillment Pro: Dashboard](https://docs.goparagon.com/kb/fulfillment-pro-dashboard/) | data/paradigm_docs/fulfillment-pro-dashboard.md
+- [Fulfillment Pro: Browser Settings](https://docs.goparagon.com/kb/fulfillment-pro-browser-settings/) | data/paradigm_docs/fulfillment-pro-browser-settings.md
+- [Fulfillment Pro: Back Ordering](https://docs.goparagon.com/kb/fulfillment-pro-back-ordering/) | data/paradigm_docs/fulfillment-pro-back-ordering.md
+- [Fulfillment Pro: Lots](https://docs.goparagon.com/kb/fulfillment-pro-lots/) | data/paradigm_docs/fulfillment-pro-lots.md
+- [Fulfillment Pro: Location Claiming](https://docs.goparagon.com/kb/fulfillment-pro-location-claiming/) | data/paradigm_docs/fulfillment-pro-location-claiming.md
+- [Fulfillment Pro: Lookup](https://docs.goparagon.com/kb/fulfillment-pro-lookup/) | data/paradigm_docs/fulfillment-pro-lookup.md
+- [Fulfillment Pro: Kiosk Printing](https://docs.goparagon.com/kb/fulfillment-pro-kiosk-printing/) | data/paradigm_docs/fulfillment-pro-kiosk-printing.md
+- [Fulfillment Pro: Transfers](https://docs.goparagon.com/kb/fulfillment-pro-transfers/) | data/paradigm_docs/fulfillment-pro-transfers.md
+- [Fulfillment Pro: Priority Orders](https://docs.goparagon.com/kb/fulfillment-pro-priority-orders/) | data/paradigm_docs/fulfillment-pro-priority-orders.md
+- [Fulfillment Pro: Advanced Dropdown](https://docs.goparagon.com/kb/fulfillment-pro-advanced-dropdown/) | data/paradigm_docs/fulfillment-pro-advanced-dropdown.md
+- [Fulfillment Pro: Tracking Progress In Paradigm](https://docs.goparagon.com/kb/fulfillment-pro-tracking-progress-in-paradigm/) | data/paradigm_docs/fulfillment-pro-tracking-progress-in-paradigm.md
+- [Fulfillment Pro: Miscellaneous](https://docs.goparagon.com/kb/fulfillment-pro-miscellaneous/) | data/paradigm_docs/fulfillment-pro-miscellaneous.md
+- [Fulfillment Pro: Packing](https://docs.goparagon.com/kb/fulfillment-pro-packing/) | data/paradigm_docs/fulfillment-pro-packing.md
+- [Fulfillment Pro: Label Splitting](https://docs.goparagon.com/kb/fulfillment-pro-label-splitting/) | data/paradigm_docs/fulfillment-pro-label-splitting.md
+- [Fulfillment Pro: Staging Areas](https://docs.goparagon.com/kb/fulfillment-pro-staging-areas/) | data/paradigm_docs/fulfillment-pro-staging-areas.md
+- [Fulfillment Pro: Enabling Tablet Camera](https://docs.goparagon.com/kb/enable-chrome-camera-on-tablets/) | data/paradigm_docs/fulfillment-pro-enabling-tablet-camera.md
+
+## General
+Category: https://docs.goparagon.com/kb-category/general/
+
+- [Emailing From Paradigm](https://docs.goparagon.com/kb/emailing-from-paradigm/) | data/paradigm_docs/emailing-from-paradigm.md
+- [Conversations](https://docs.goparagon.com/kb/conversations/) | data/paradigm_docs/conversations.md
+- [File Management & Attachments](https://docs.goparagon.com/kb/file-management-attachments/) | data/paradigm_docs/file-management-attachments.md
+- [Themes](https://docs.goparagon.com/kb/themes/) | data/paradigm_docs/themes.md
+- [Reset the Directory for Paradigm](https://docs.goparagon.com/kb/reset-the-directory-for-paradigm/) | data/paradigm_docs/reset-the-directory-for-paradigm.md
+- [Paradigm Log Files](https://docs.goparagon.com/kb/paradigm-log-files/) | data/paradigm_docs/paradigm-log-files.md
+- [Exporting From QuickBooks](https://docs.goparagon.com/kb/exporting-from-quickbooks/) | data/paradigm_docs/exporting-from-quickbooks.md
+- [Transaction List Summary Columns](https://docs.goparagon.com/kb/transaction-list-summary-columns/) | data/paradigm_docs/transaction-list-summary-columns.md
+- [Paradigm Update Blocked](https://docs.goparagon.com/kb/paradigm-update-blocked/) | data/paradigm_docs/paradigm-update-blocked.md
+- [Right Click Options](https://docs.goparagon.com/kb/right-click-list-options/) | data/paradigm_docs/right-click-options.md
+- [Customize Column Layouts](https://docs.goparagon.com/kb/columns/) | data/paradigm_docs/customize-column-layouts.md
+- [Record Duplication](https://docs.goparagon.com/kb/record-duplication/) | data/paradigm_docs/record-duplication.md
+- [Error – Posting Aborted to Prevent Double Posting](https://docs.goparagon.com/kb/error-posting-aborted-to-prevent-double-posting/) | data/paradigm_docs/error-posting-aborted-to-prevent-double-posting.md
+- [Audit Trail](https://docs.goparagon.com/kb/audit-trail/) | data/paradigm_docs/audit-trail.md
+- [Tab Controls](https://docs.goparagon.com/kb/tab-controls/) | data/paradigm_docs/tab-controls.md
+- [Keyboard Shortcuts](https://docs.goparagon.com/kb/keyboard-shortcuts/) | data/paradigm_docs/keyboard-shortcuts.md
+- [File Dropdown](https://docs.goparagon.com/kb/file-dropdown/) | data/paradigm_docs/file-dropdown.md
+- [Log And Tasks](https://docs.goparagon.com/kb/log-and-tasks/) | data/paradigm_docs/log-and-tasks.md
+- [Paradigm Transaction Numbering](https://docs.goparagon.com/kb/paradigm-transaction-numbering/) | data/paradigm_docs/paradigm-transaction-numbering.md
+- [Exporting from Lists](https://docs.goparagon.com/kb/exporting-from-lists/) | data/paradigm_docs/exporting-from-lists.md
+- [Reminder List](https://docs.goparagon.com/kb/reminder-list/) | data/paradigm_docs/reminder-list.md
+- [Paragon Support](https://docs.goparagon.com/kb/paragon-support/) | data/paradigm_docs/paragon-support.md
+- [Training Videos](https://docs.goparagon.com/kb/training-videos/) | data/paradigm_docs/training-videos.md
+- [Custom Company Branding](https://docs.goparagon.com/kb/custom-company-branding/) | data/paradigm_docs/custom-company-branding.md
+- [How to Void A Check](https://docs.goparagon.com/kb/how-to-void-a-check/) | data/paradigm_docs/how-to-void-a-check.md
+- [Printing A Range of Checks](https://docs.goparagon.com/kb/printing-a-range-of-checks/) | data/paradigm_docs/printing-a-range-of-checks.md
+- [Data Utilities](https://docs.goparagon.com/kb/data-utilities/) | data/paradigm_docs/data-utilities.md
+- [Reimbursing An Employee](https://docs.goparagon.com/kb/reimbursing-an-employee/) | data/paradigm_docs/reimbursing-an-employee.md
+- [Message to Print Presets](https://docs.goparagon.com/kb/message-to-print-presets/) | data/paradigm_docs/message-to-print-presets.md
+- [Advanced List Sorting](https://docs.goparagon.com/kb/advanced-list-sorting/) | data/paradigm_docs/advanced-list-sorting.md
+- [Why Does the Total from the Sales Reports Not Agree with the Profit and Loss?](https://docs.goparagon.com/kb/why-does-the-total-from-the-sales-reports-not-agree-with-the-profit-and-loss/) | data/paradigm_docs/why-does-the-total-from-the-sales-reports-not-agree-with-the-profit-and-loss.md
+- [Server Requirements](https://docs.goparagon.com/kb/server-requirements/) | data/paradigm_docs/server-requirements.md
+- [List Search Shows The Same Line Multiple Times (PO & RFQ Lists)](https://docs.goparagon.com/kb/list-search-shows-the-same-line-multiple-times-po-rfq-lists/) | data/paradigm_docs/list-search-shows-the-same-line-multiple-times-po-rfq-lists.md
+- [Receipts And Cash Drawers](https://docs.goparagon.com/kb/receipts-and-cash-drawers/) | data/paradigm_docs/receipts-and-cash-drawers.md
+- [Paradigm Print Servers](https://docs.goparagon.com/kb/paradigm-print-servers/) | data/paradigm_docs/paradigm-print-servers.md
+- [Cancel and Void](https://docs.goparagon.com/kb/cancel-and-void/) | data/paradigm_docs/cancel-and-void.md
+- [How Paradigm Counts Users](https://docs.goparagon.com/kb/how-paradigm-counts-users/) | data/paradigm_docs/how-paradigm-counts-users.md
+- [SmartBuild](https://docs.goparagon.com/kb/smartbuild/) | data/paradigm_docs/smartbuild.md
+- [Employee Commission](https://docs.goparagon.com/kb/employee-commission/) | data/paradigm_docs/employee-commission.md
+- [Printing Reports From Lists](https://docs.goparagon.com/kb/printing-from-lists/) | data/paradigm_docs/printing-reports-from-lists.md
+- [Custom Attributes](https://docs.goparagon.com/kb/custom-attributes/) | data/paradigm_docs/custom-attributes.md
+- [Inactive Customers and Vendors](https://docs.goparagon.com/kb/inactive-customer-and-vendors/) | data/paradigm_docs/inactive-customers-and-vendors.md
+- [Summary Tab](https://docs.goparagon.com/kb/summary-tab/) | data/paradigm_docs/summary-tab.md
+- [Email Batch Form](https://docs.goparagon.com/kb/email-batch-form/) | data/paradigm_docs/email-batch-form.md
+- [Email Queue](https://docs.goparagon.com/kb/email-queue/) | data/paradigm_docs/email-queue.md
+- [Workstation Minimum Requirements](https://docs.goparagon.com/kb/workstation-minimum-requirements/) | data/paradigm_docs/workstation-minimum-requirements.md
+- [Automated Functions in Paradigm](https://docs.goparagon.com/kb/automated-functions-in-paradigm/) | data/paradigm_docs/automated-functions-in-paradigm.md
+- [Transaction Header Tab Stops](https://docs.goparagon.com/kb/transaction-header-tab-stops/) | data/paradigm_docs/transaction-header-tab-stops.md
+- [View Related](https://docs.goparagon.com/kb/view-related/) | data/paradigm_docs/view-related.md
+- [Email Templates](https://docs.goparagon.com/kb/email-templates/) | data/paradigm_docs/email-templates.md
+- [Paradigm Search All](https://docs.goparagon.com/kb/paradigm-search-all/) | data/paradigm_docs/paradigm-search-all.md
+- [Paradigm Pricing Overview](https://docs.goparagon.com/kb/paradigm-pricing-overview/) | data/paradigm_docs/paradigm-pricing-overview.md
+- [Wildcards](https://docs.goparagon.com/kb/wildcards/) | data/paradigm_docs/wildcards.md
+- [General/Misc Tips and Tricks](https://docs.goparagon.com/kb/general-misc-tips-and-tricks/) | data/paradigm_docs/general-misc-tips-and-tricks.md
+- [How to Use the Task List](https://docs.goparagon.com/kb/how-to-use-the-task-list/) | data/paradigm_docs/how-to-use-the-task-list.md
+- [Favorite Tabs](https://docs.goparagon.com/kb/favorite-tabs/) | data/paradigm_docs/favorite-tabs.md
+- [Customize Transaction Form Layouts](https://docs.goparagon.com/kb/customize-transaction-form-layouts/) | data/paradigm_docs/customize-transaction-form-layouts.md
+
+## Inventory and Pricing
+Category: https://docs.goparagon.com/kb-category/inventory-and-pricing/
+
+- [Inventory Import: Inventory Item Images](https://docs.goparagon.com/kb/inventory-import-inventory-item-images/) | data/paradigm_docs/inventory-import-inventory-item-images.md
+- [Item Images](https://docs.goparagon.com/kb/item-images/) | data/paradigm_docs/item-images.md
+- [Open Hem Mapping](https://docs.goparagon.com/kb/open-hem-mapping/) | data/paradigm_docs/open-hem-mapping.md
+- [Special Trim Set Up](https://docs.goparagon.com/kb/special-trim-setup/) | data/paradigm_docs/special-trim-set-up.md
+- [How To Do A Physical Inventory](https://docs.goparagon.com/kb/how-to-do-a-physical-inventory/) | data/paradigm_docs/how-to-do-a-physical-inventory.md
+- [Physical Inventory Count with Lots](https://docs.goparagon.com/kb/physical-inventory-count-with-lots/) | data/paradigm_docs/physical-inventory-count-with-lots.md
+- [Excel Imports On Physical Count Worksheets](https://docs.goparagon.com/kb/excel-imports-on-physical-count-worksheets/) | data/paradigm_docs/excel-imports-on-physical-count-worksheets.md
+- [Receiving Material](https://docs.goparagon.com/kb/receiving-material/) | data/paradigm_docs/receiving-material.md
+- [Inventory Import & Export](https://docs.goparagon.com/kb/inventory-import-export/) | data/paradigm_docs/inventory-import-export.md
+- [Set Inventory Standard Cost](https://docs.goparagon.com/kb/set-inventory-standard-cost/) | data/paradigm_docs/set-inventory-standard-cost.md
+- [Inventory Quick Adjust](https://docs.goparagon.com/kb/inventory-quick-adjust/) | data/paradigm_docs/inventory-quick-adjust.md
+- [Change A Batch Of Items To Stock Or Non-Stock](https://docs.goparagon.com/kb/change-a-batch-of-items-to-stock-or-non-stock/) | data/paradigm_docs/change-a-batch-of-items-to-stock-or-non-stock.md
+- [Custom Options](https://docs.goparagon.com/kb/custom-options/) | data/paradigm_docs/custom-options.md
+- [Change an Item’s Average Cost](https://docs.goparagon.com/kb/changing-an-items-average-cost/) | data/paradigm_docs/change-an-item-s-average-cost.md
+- [Edit Pricing](https://docs.goparagon.com/kb/edit-pricing/) | data/paradigm_docs/edit-pricing.md
+- [Edit Pricing Levels](https://docs.goparagon.com/kb/edit-pricing-levels/) | data/paradigm_docs/edit-pricing-levels.md
+- [How to Create a “Manufactured to Order” Inventory Item](https://docs.goparagon.com/kb/how-to-create-a-manufactured-to-order-inventory-item/) | data/paradigm_docs/how-to-create-a-manufactured-to-order-inventory-item.md
+- [How should Inventory Price Levels be set up and how do they work?](https://docs.goparagon.com/kb/how-should-inventory-price-levels-be-set-up-and-how-do-they-work/) | data/paradigm_docs/how-should-inventory-price-levels-be-set-up-and-how-do-they-work.md
+- [Inventory Component Substitution](https://docs.goparagon.com/kb/inventory-component-substitution/) | data/paradigm_docs/inventory-component-substitution.md
+- [Lot-Based Inventory (Track Coil Inventory By Coil ID)](https://docs.goparagon.com/kb/lot-based-inventory-track-coil-inventory-by-coil-id/) | data/paradigm_docs/lot-based-inventory-track-coil-inventory-by-coil-id.md
+- [SWI Coil Maintenance](https://docs.goparagon.com/kb/swi-coil-maintenance/) | data/paradigm_docs/swi-coil-maintenance.md
+- [How To Manage Manufactured Item Pricing](https://docs.goparagon.com/kb/how-to-manage-manufactured-item-pricing/) | data/paradigm_docs/how-to-manage-manufactured-item-pricing.md
+- [Warehouses](https://docs.goparagon.com/kb/warehouses/) | data/paradigm_docs/warehouses.md
+- [Managing Customer Favorite Trim Drawings](https://docs.goparagon.com/kb/managing-customer-favorite-trim-drawings/) | data/paradigm_docs/managing-customer-favorite-trim-drawings.md
+- [How to Create an Inventory Item](https://docs.goparagon.com/kb/how-to-create-an-inventory-item/) | data/paradigm_docs/how-to-create-an-inventory-item.md
+- [Pricing Methods](https://docs.goparagon.com/kb/pricing-methods/) | data/paradigm_docs/pricing-methods.md
+- [Company Standard Trims](https://docs.goparagon.com/kb/company-standard-trims/) | data/paradigm_docs/company-standard-trims.md
+- [Inventory Color List](https://docs.goparagon.com/kb/inventory-color-list/) | data/paradigm_docs/inventory-color-list.md
+- [Import New Item Colors](https://docs.goparagon.com/kb/import-new-item-colors/) | data/paradigm_docs/import-new-item-colors.md
+- [Inventory Turnover](https://docs.goparagon.com/kb/inventory-turnover/) | data/paradigm_docs/inventory-turnover.md
+- [Charts](https://docs.goparagon.com/kb/charts/) | data/paradigm_docs/charts.md
+- [Inventory Import: Inventory Groups](https://docs.goparagon.com/kb/inventory-import-inventory-groups/) | data/paradigm_docs/inventory-import-inventory-groups.md
+- [Lock/Unlock Prices](https://docs.goparagon.com/kb/lock-unlock-prices/) | data/paradigm_docs/lock-unlock-prices.md
+- [Slit Coils](https://docs.goparagon.com/kb/slit-coils/) | data/paradigm_docs/slit-coils.md
+- [Short Length Panels](https://docs.goparagon.com/kb/short-length-panels/) | data/paradigm_docs/short-length-panels.md
+- [Duplicate Price Levels](https://docs.goparagon.com/kb/duplicate-price-level/) | data/paradigm_docs/duplicate-price-levels.md
+- [Inventory Import: Inventory Attributes](https://docs.goparagon.com/kb/inventory-import-inventory-attributes/) | data/paradigm_docs/inventory-import-inventory-attributes.md
+- [Updating Trim Stretchouts](https://docs.goparagon.com/kb/updating-trim-stretchouts/) | data/paradigm_docs/updating-trim-stretchouts.md
+- [Import New Profiles](https://docs.goparagon.com/kb/import-new-profiles/) | data/paradigm_docs/import-new-profiles.md
+- [Addon Product](https://docs.goparagon.com/kb/addon-product/) | data/paradigm_docs/addon-product.md
+- [Shelf Information Preview](https://docs.goparagon.com/kb/shelf-information-button-preview/) | data/paradigm_docs/shelf-information-preview.md
+- [Low Stock Formatting](https://docs.goparagon.com/kb/low-stock-formatting/) | data/paradigm_docs/low-stock-formatting.md
+- [Inventory Import: Inventory Vendor](https://docs.goparagon.com/kb/inventory-import-inventory-vendor/) | data/paradigm_docs/inventory-import-inventory-vendor.md
+- [Color Sets](https://docs.goparagon.com/kb/color-sets/) | data/paradigm_docs/color-sets.md
+- [Inventory Import: Substitution](https://docs.goparagon.com/kb/inventory-import-substitution/) | data/paradigm_docs/inventory-import-substitution.md
+- [Inventory Import: Alias](https://docs.goparagon.com/kb/inventory-import-alias/) | data/paradigm_docs/inventory-import-alias.md
+- [Inventory Import: Production Default](https://docs.goparagon.com/kb/inventory-import-production-default/) | data/paradigm_docs/inventory-import-production-default.md
+- [Inventory Import: Production](https://docs.goparagon.com/kb/inventory-import-production/) | data/paradigm_docs/inventory-import-production.md
+- [Inventory Import: Special Prices](https://docs.goparagon.com/kb/inventory-import-special-prices/) | data/paradigm_docs/inventory-import-special-prices.md
+- [Inventory Import: Price Levels](https://docs.goparagon.com/kb/inventory-import-price-levels/) | data/paradigm_docs/inventory-import-price-levels.md
+- [Inventory Import: Unit Measure](https://docs.goparagon.com/kb/inventory-import-unit-measure/) | data/paradigm_docs/inventory-import-unit-measure.md
+- [Inventory Import: Assembly](https://docs.goparagon.com/kb/inventory-import-assembly/) | data/paradigm_docs/inventory-import-assembly.md
+- [Inventory Import: Inventory By Warehouse](https://docs.goparagon.com/kb/inventory-import-inventory-by-warehouse/) | data/paradigm_docs/inventory-import-inventory-by-warehouse.md
+- [Cascading Costs from Purchases to Sales for Nonstock Products](https://docs.goparagon.com/kb/cascading-costs-from-purchases-to-sales-for-nonstock-products/) | data/paradigm_docs/cascading-costs-from-purchases-to-sales-for-nonstock-products.md
+- [Rounding Precision](https://docs.goparagon.com/kb/rounding-precision/) | data/paradigm_docs/rounding-precision.md
+- [Inventory By Warehouse](https://docs.goparagon.com/kb/inventory-by-warehouse/) | data/paradigm_docs/inventory-by-warehouse.md
+- [Category and Subcategory](https://docs.goparagon.com/kb/category-and-subcategory/) | data/paradigm_docs/category-and-subcategory.md
+- [How to Track Mistake Run or Returned Manufactured Items](https://docs.goparagon.com/kb/how-to-track-mistake-run-or-returned-manufactured-items/) | data/paradigm_docs/how-to-track-mistake-run-or-returned-manufactured-items.md
+- [How to Track CondenStop and DripStop](https://docs.goparagon.com/kb/how-to-track-condenstop-and-dripstop/) | data/paradigm_docs/how-to-track-condenstop-and-dripstop.md
+- [Prioritize Exclusive Pricing Level Even If Price Is Greater](https://docs.goparagon.com/kb/prioritize-exclusive-pricing-level-even-if-price-is-greater/) | data/paradigm_docs/prioritize-exclusive-pricing-level-even-if-price-is-greater.md
+- [Pick Up Preferred](https://docs.goparagon.com/kb/pick-up-preferred/) | data/paradigm_docs/pick-up-preferred.md
+- [Default Lengths](https://docs.goparagon.com/kb/default-lengths/) | data/paradigm_docs/default-lengths.md
+- [Disallow Release](https://docs.goparagon.com/kb/disallow-release/) | data/paradigm_docs/disallow-release.md
+- [Multi Warehouse](https://docs.goparagon.com/kb/multi-warehouse/) | data/paradigm_docs/multi-warehouse.md
+- [LM2 Rounding On Price Levels](https://docs.goparagon.com/kb/lm2-rounding-on-price-levels/) | data/paradigm_docs/lm2-rounding-on-price-levels.md
+- [Sensitivity Codes](https://docs.goparagon.com/kb/sensitivity-codes/) | data/paradigm_docs/sensitivity-codes.md
+- [How to Discontinue a Batch of Items](https://docs.goparagon.com/kb/how-to-discontinue-a-batch-of-items/) | data/paradigm_docs/how-to-discontinue-a-batch-of-items.md
+- [Price Change History](https://docs.goparagon.com/kb/price-change-history/) | data/paradigm_docs/price-change-history.md
+- [Inventory Count Columns (Warehouse Quantities)](https://docs.goparagon.com/kb/inventory-count-columns/) | data/paradigm_docs/inventory-count-columns-warehouse-quantities.md
+- [Item Classes](https://docs.goparagon.com/kb/item-classes/) | data/paradigm_docs/item-classes.md
+- [How to Create Model Attachments](https://docs.goparagon.com/kb/how-to-create-model-attachments/) | data/paradigm_docs/how-to-create-model-attachments.md
+- [Inventory Transfers](https://docs.goparagon.com/kb/inventory-transfers/) | data/paradigm_docs/inventory-transfers.md
+- [How to Fix out of Sync Lot Quantities](https://docs.goparagon.com/kb/how-to-fix-out-of-sync-lot-quantities/) | data/paradigm_docs/how-to-fix-out-of-sync-lot-quantities.md
+- [How do Inventory Special Prices Work?](https://docs.goparagon.com/kb/how-do-inventory-special-prices-work/) | data/paradigm_docs/how-do-inventory-special-prices-work.md
+- [Promotions](https://docs.goparagon.com/kb/promotions/) | data/paradigm_docs/promotions.md
+- [Inventory Pricing Columns](https://docs.goparagon.com/kb/inventory-pricing-columns/) | data/paradigm_docs/inventory-pricing-columns.md
+- [Inventory Warehouse Fields](https://docs.goparagon.com/kb/inventory-warehouse-fields/) | data/paradigm_docs/inventory-warehouse-fields.md
+- [Unit of Measure Column Names](https://docs.goparagon.com/kb/inventory-units-of-measure/) | data/paradigm_docs/unit-of-measure-column-names.md
+- [Column Names for Inventory](https://docs.goparagon.com/kb/column-names-for-inventory/) | data/paradigm_docs/column-names-for-inventory.md
+- [Inventory Tables](https://docs.goparagon.com/kb/inventory-tables/) | data/paradigm_docs/inventory-tables.md
+- [Value Added Manufacturing Set up (VAM)](https://docs.goparagon.com/kb/value-added-manufacturing-setup/) | data/paradigm_docs/value-added-manufacturing-set-up-vam.md
+- [Nonexclusive Pricing Levels (Quantity Discounts)](https://docs.goparagon.com/kb/nonexclusive-pricing-levels-quantity-discounts/) | data/paradigm_docs/nonexclusive-pricing-levels-quantity-discounts.md
+- [Product Finder](https://docs.goparagon.com/kb/product-finder/) | data/paradigm_docs/product-finder.md
+- [Receive Inventory](https://docs.goparagon.com/kb/receive-inventory/) | data/paradigm_docs/receive-inventory.md
+- [Minimum Acceptable Margin](https://docs.goparagon.com/kb/minimum-acceptable-margin/) | data/paradigm_docs/minimum-acceptable-margin.md
+- [Inventory Tips and Tricks](https://docs.goparagon.com/kb/inventory-tips-and-tricks/) | data/paradigm_docs/inventory-tips-and-tricks.md
+- [Inventory Quick Build](https://docs.goparagon.com/kb/inventory-quick-build/) | data/paradigm_docs/inventory-quick-build.md
+- [Inventory Item Assembly Types](https://docs.goparagon.com/kb/inventory-item-assembly-types/) | data/paradigm_docs/inventory-item-assembly-types.md
+- [Inventory Discard](https://docs.goparagon.com/kb/inventory-discard/) | data/paradigm_docs/inventory-discard.md
+- [How To Add Locations To A Warehouse](https://docs.goparagon.com/kb/how-to-add-locations-to-a-warehouse/) | data/paradigm_docs/how-to-add-locations-to-a-warehouse.md
+- [Discontinued Items](https://docs.goparagon.com/kb/discontinued-items/) | data/paradigm_docs/discontinued-items.md
+- [Set up UPC Codes For Barcodes and Aliases](https://docs.goparagon.com/kb/set-up-upc-codes-and-aliases/) | data/paradigm_docs/set-up-upc-codes-for-barcodes-and-aliases.md
+- [TIP (Trim in Process) Unit of Measure](https://docs.goparagon.com/kb/tip-trim-in-process-unit-of-measure/) | data/paradigm_docs/tip-trim-in-process-unit-of-measure.md
+- [Minimum and Maximum Length](https://docs.goparagon.com/kb/min-and-max-length/) | data/paradigm_docs/minimum-and-maximum-length.md
+- [Change the Base Unit of Measure Quantity](https://docs.goparagon.com/kb/change-the-base-unit-of-measure/) | data/paradigm_docs/change-the-base-unit-of-measure-quantity.md
+- [Unit of Measure Set Up](https://docs.goparagon.com/kb/unit-of-measure-setup/) | data/paradigm_docs/unit-of-measure-set-up.md
+
+## Job Costing
+Category: https://docs.goparagon.com/kb-category/job-costing/
+
+- [Billable Job Expenses](https://docs.goparagon.com/kb/billable-job-expenses/) | data/paradigm_docs/billable-job-expenses.md
+- [Job Custom Fields](https://docs.goparagon.com/kb/job-custom-fields/) | data/paradigm_docs/job-custom-fields.md
+- [Job Refunds](https://docs.goparagon.com/kb/job-refunds/) | data/paradigm_docs/job-refunds.md
+- [Accounting Flow For The Cost of A WIP Job](https://docs.goparagon.com/kb/accounting-flow-for-the-cost-of-a-wip-job/) | data/paradigm_docs/accounting-flow-for-the-cost-of-a-wip-job.md
+- [Reassign Purchases to a Different Job](https://docs.goparagon.com/kb/reassign-purchases-to-a-different-job/) | data/paradigm_docs/reassign-purchases-to-a-different-job.md
+- [Create A Job Transfer for A Purchase Invoice](https://docs.goparagon.com/kb/create-a-job-transfer-for-a-purchase-invoice/) | data/paradigm_docs/create-a-job-transfer-for-a-purchase-invoice.md
+- [Admin Create Purchase Invoice for Job Transfer](https://docs.goparagon.com/kb/admin-create-purchase-invoice-for-job-transfer/) | data/paradigm_docs/admin-create-purchase-invoice-for-job-transfer.md
+- [Job Progress Posting](https://docs.goparagon.com/kb/job-progress-posting/) | data/paradigm_docs/job-progress-posting.md
+- [Job Dashboard](https://docs.goparagon.com/kb/job-dashboard/) | data/paradigm_docs/job-dashboard.md
+- [Job Classes](https://docs.goparagon.com/kb/job-classes/) | data/paradigm_docs/job-classes.md
+- [Job Completion And Billing](https://docs.goparagon.com/kb/job-completion-and-billing/) | data/paradigm_docs/job-completion-and-billing.md
+- [Adding Cost to A Completed Job](https://docs.goparagon.com/kb/adding-cost-to-a-completed-job/) | data/paradigm_docs/adding-cost-to-a-completed-job.md
+- [Creating And Converting Job Orders](https://docs.goparagon.com/kb/creating-and-converting-job-orders/) | data/paradigm_docs/creating-and-converting-job-orders.md
+- [Job Prepayments](https://docs.goparagon.com/kb/job-prepayments/) | data/paradigm_docs/job-prepayments.md
+- [Job Returns](https://docs.goparagon.com/kb/job-returns/) | data/paradigm_docs/job-returns.md
+- [Creating A Job](https://docs.goparagon.com/kb/creating-a-job/) | data/paradigm_docs/creating-a-job.md
+
+## Order Entry and Customers
+Category: https://docs.goparagon.com/kb-category/order-entry-and-customers/
+
+- [Customer Portal: Create Customer Web Logins](https://docs.goparagon.com/kb/customer-portal-create-customer-web-logins/) | data/paradigm_docs/customer-portal-create-customer-web-logins.md
+- [Customer Portal: Creating Quotes and Orders](https://docs.goparagon.com/kb/customer-portal-creating-quotes-and-orders/) | data/paradigm_docs/customer-portal-creating-quotes-and-orders.md
+- [Credit Card Surcharges](https://docs.goparagon.com/kb/credit-card-surcharges/) | data/paradigm_docs/credit-card-surcharges.md
+- [Mileage Calculator/Trip Optimizer](https://docs.goparagon.com/kb/mileage-calculator-trip-optimizer/) | data/paradigm_docs/mileage-calculator-trip-optimizer.md
+- [Vendor & Customer History](https://docs.goparagon.com/kb/vendor-customer-history/) | data/paradigm_docs/vendor-customer-history.md
+- [Prepayment Splitting – Customer Statement Report Changes](https://docs.goparagon.com/kb/prepayment-splitting-customer-statement-report-changes/) | data/paradigm_docs/prepayment-splitting-customer-statement-report-changes.md
+- [Transaction Line Summaries](https://docs.goparagon.com/kb/transaction-line-summaries/) | data/paradigm_docs/transaction-line-summaries.md
+- [Online Payments and Confirmations](https://docs.goparagon.com/kb/online-payments-and-confirmations/) | data/paradigm_docs/online-payments-and-confirmations.md
+- [Row Statuses on Order Detail](https://docs.goparagon.com/kb/row-statuses-on-order-detail/) | data/paradigm_docs/row-statuses-on-order-detail.md
+- [Customer Credit Holds](https://docs.goparagon.com/kb/customer-credit-holds/) | data/paradigm_docs/customer-credit-holds.md
+- [Customer Pricing Types](https://docs.goparagon.com/kb/customer-pricing-types/) | data/paradigm_docs/customer-pricing-types.md
+- [Order Entry and Customer Tips and Tricks](https://docs.goparagon.com/kb/order-entry-and-customer-tips-and-tricks/) | data/paradigm_docs/order-entry-and-customer-tips-and-tricks.md
+- [Transaction Entry Calculations](https://docs.goparagon.com/kb/transaction-entry-calculations/) | data/paradigm_docs/transaction-entry-calculations.md
+- [Leads And Opportunities](https://docs.goparagon.com/kb/leads-and-opportunities/) | data/paradigm_docs/leads-and-opportunities.md
+- [Edit Locks](https://docs.goparagon.com/kb/edit-locks/) | data/paradigm_docs/edit-locks.md
+- [MBS Import](https://docs.goparagon.com/kb/mbs-import/) | data/paradigm_docs/mbs-import.md
+- [Customer Map](https://docs.goparagon.com/kb/customer-map/) | data/paradigm_docs/customer-map.md
+- [Template Quotes And Orders](https://docs.goparagon.com/kb/template-quotes-and-orders/) | data/paradigm_docs/template-quotes-and-orders.md
+- [Order Banner Colors](https://docs.goparagon.com/kb/order-banner-colors/) | data/paradigm_docs/order-banner-colors.md
+- [Clear Locks](https://docs.goparagon.com/kb/clear-locks/) | data/paradigm_docs/clear-locks.md
+- [Equipment Rental](https://docs.goparagon.com/kb/equipment-rental/) | data/paradigm_docs/equipment-rental.md
+- [Unposting Paid Invoices](https://docs.goparagon.com/kb/unposting-paid-invoices/) | data/paradigm_docs/unposting-paid-invoices.md
+- [Edit Released Orders](https://docs.goparagon.com/kb/edit-released-orders/) | data/paradigm_docs/edit-released-orders.md
+- [Un-Release Orders](https://docs.goparagon.com/kb/un-release-orders/) | data/paradigm_docs/un-release-orders.md
+- [Restocking Fees](https://docs.goparagon.com/kb/restocking-fees/) | data/paradigm_docs/restocking-fees.md
+- [Customer Detail Requirements And Limits](https://docs.goparagon.com/kb/customer-detail-requirement-limits/) | data/paradigm_docs/customer-detail-requirements-and-limits.md
+- [Partial Invoices](https://docs.goparagon.com/kb/partial-invoices/) | data/paradigm_docs/partial-invoices.md
+- [Back Ordering](https://docs.goparagon.com/kb/back-ordering/) | data/paradigm_docs/back-ordering.md
+- [Recording Customer Discounts When Receiving A Payment](https://docs.goparagon.com/kb/recording-customer-discounts-when-receiving-a-payment/) | data/paradigm_docs/recording-customer-discounts-when-receiving-a-payment.md
+- [Manufacture Order](https://docs.goparagon.com/kb/manufacture-order/) | data/paradigm_docs/manufacture-order.md
+- [Customer PO Total Required](https://docs.goparagon.com/kb/customer-po-total-required/) | data/paradigm_docs/customer-po-total-required.md
+- [Color Switcher](https://docs.goparagon.com/kb/color-switcher/) | data/paradigm_docs/color-switcher.md
+- [Adding A New Customer](https://docs.goparagon.com/kb/adding-a-new-customer/) | data/paradigm_docs/adding-a-new-customer.md
+- [Converting An Invoice To An Order](https://docs.goparagon.com/kb/converting-an-invoice-to-an-order/) | data/paradigm_docs/converting-an-invoice-to-an-order.md
+- [Bulk Product Add](https://docs.goparagon.com/kb/bulk-product-add/) | data/paradigm_docs/bulk-product-add.md
+- [Paradigm ERP Sales User Training Topics](https://docs.goparagon.com/kb/paradigm-erp-sales-user-training-topics/) | data/paradigm_docs/paradigm-erp-sales-user-training-topics.md
+- [Point of Sale: Customer Display](https://docs.goparagon.com/kb/point-of-sale-customer-display/) | data/paradigm_docs/point-of-sale-customer-display.md
+- [Customer Prepayments](https://docs.goparagon.com/kb/customer-prepayments/) | data/paradigm_docs/customer-prepayments.md
+- [Splitting Orders And Quotes](https://docs.goparagon.com/kb/splitting-orders-and-quotes/) | data/paradigm_docs/splitting-orders-and-quotes.md
+- [Overdue Invoices](https://docs.goparagon.com/kb/overdue-invoices/) | data/paradigm_docs/overdue-invoices.md
+- [Customer Portal: Custom Navbar](https://docs.goparagon.com/kb/customer-portal-custom-navbar/) | data/paradigm_docs/customer-portal-custom-navbar.md
+- [Customer Portal: Invoices](https://docs.goparagon.com/kb/customer-portal-invoices/) | data/paradigm_docs/customer-portal-invoices.md
+- [Customer Portal: Adding Subaccounts](https://docs.goparagon.com/kb/customer-portal-adding-subaccounts/) | data/paradigm_docs/customer-portal-adding-subaccounts.md
+- [Customer Portal: Searching for Items](https://docs.goparagon.com/kb/customer-portal-searching-for-items/) | data/paradigm_docs/customer-portal-searching-for-items.md
+- [Customer Portal: Importing An Order From An Excel File](https://docs.goparagon.com/kb/customer-portal-importing-an-order-from-an-excel-file/) | data/paradigm_docs/customer-portal-importing-an-order-from-an-excel-file.md
+- [Customer Portal: Payments](https://docs.goparagon.com/kb/customer-portal-payments/) | data/paradigm_docs/customer-portal-payments.md
+- [Transfers for An Order](https://docs.goparagon.com/kb/transfers-for-an-order/) | data/paradigm_docs/transfers-for-an-order.md
+- [Running Customer Statements](https://docs.goparagon.com/kb/running-customer-statements/) | data/paradigm_docs/running-customer-statements.md
+- [Standard Discount Selection](https://docs.goparagon.com/kb/standard-discount-selection/) | data/paradigm_docs/standard-discount-selection.md
+- [Drop Shipping](https://docs.goparagon.com/kb/drop-shipping/) | data/paradigm_docs/drop-shipping.md
+- [Receipt Capture](https://docs.goparagon.com/kb/receipt-capture/) | data/paradigm_docs/receipt-capture.md
+- [Merging Orders And Quotes](https://docs.goparagon.com/kb/merging-orders-and-quotes/) | data/paradigm_docs/merging-orders-and-quotes.md
+- [Credit Memos](https://docs.goparagon.com/kb/credit-memos/) | data/paradigm_docs/credit-memos.md
+- [Columns for Order Detail](https://docs.goparagon.com/kb/columns-for-order-detail/) | data/paradigm_docs/columns-for-order-detail.md
+- [Batch Post Invoices](https://docs.goparagon.com/kb/batch-post-invoices/) | data/paradigm_docs/batch-post-invoices.md
+- [How to Refund Tax That was Mistakenly Charged](https://docs.goparagon.com/kb/how-to-refund-tax-that-was-mistakenly-charged/) | data/paradigm_docs/how-to-refund-tax-that-was-mistakenly-charged.md
+- [Importing A List of Orders](https://docs.goparagon.com/kb/importing-a-list-of-orders/) | data/paradigm_docs/importing-a-list-of-orders.md
+- [Import Lines Into A Transaction](https://docs.goparagon.com/kb/import-lines-into-a-transaction/) | data/paradigm_docs/import-lines-into-a-transaction.md
+- [Bundle and Comment Lines](https://docs.goparagon.com/kb/bundle-and-comment-lines/) | data/paradigm_docs/bundle-and-comment-lines.md
+- [Posting a Transaction With a Zero Dollar Line](https://docs.goparagon.com/kb/posting-a-transaction-with-a-zero-dollar-line/) | data/paradigm_docs/posting-a-transaction-with-a-zero-dollar-line.md
+- [Apply Credits](https://docs.goparagon.com/kb/apply-credits/) | data/paradigm_docs/apply-credits.md
+- [Auto Freight](https://docs.goparagon.com/kb/auto-freight/) | data/paradigm_docs/auto-freight.md
+- [Require Ship to Addresses](https://docs.goparagon.com/kb/require-ship-to-addresses/) | data/paradigm_docs/require-ship-to-addresses.md
+- [Require a Signature for a Customer](https://docs.goparagon.com/kb/require-a-signature-for-a-customer/) | data/paradigm_docs/require-a-signature-for-a-customer.md
+- [Collect Customer Signatures](https://docs.goparagon.com/kb/collect-customer-signatures/) | data/paradigm_docs/collect-customer-signatures.md
+- [Customer Saved Ship to Addresses](https://docs.goparagon.com/kb/customer-saved-ship-to-addresses/) | data/paradigm_docs/customer-saved-ship-to-addresses.md
+- [Customer Special Pricing](https://docs.goparagon.com/kb/customer-special-pricing/) | data/paradigm_docs/customer-special-pricing.md
+- [Prepay An Order (Simple)](https://docs.goparagon.com/kb/prepay-an-order-simple/) | data/paradigm_docs/prepay-an-order-simple.md
+- [Receive/Make Payments Tips and Tricks](https://docs.goparagon.com/kb/receiving-making-payments-tips-and-tricks/) | data/paradigm_docs/receive-make-payments-tips-and-tricks.md
+- [Customer Contacts](https://docs.goparagon.com/kb/customer-contacts/) | data/paradigm_docs/customer-contacts.md
+- [Statuses And Types](https://docs.goparagon.com/kb/statuses-and-types/) | data/paradigm_docs/statuses-and-types.md
+- [Update Order and Quote Prices](https://docs.goparagon.com/kb/update-order-and-quote-prices/) | data/paradigm_docs/update-order-and-quote-prices.md
+- [Units Buildable](https://docs.goparagon.com/kb/units-buildable/) | data/paradigm_docs/units-buildable.md
+- [Lock a Shipping Price](https://docs.goparagon.com/kb/lock-shipping-price/) | data/paradigm_docs/lock-a-shipping-price.md
+- [Calculate Sales Price From a Given Margin](https://docs.goparagon.com/kb/calculate-sales-price-from-a-given-margin/) | data/paradigm_docs/calculate-sales-price-from-a-given-margin.md
+- [Lot Selection Form On Orders](https://docs.goparagon.com/kb/lot-selection-form-on-orders/) | data/paradigm_docs/lot-selection-form-on-orders.md
+- [Gift Cards](https://docs.goparagon.com/kb/gift-cards/) | data/paradigm_docs/gift-cards.md
+- [Receive Payments](https://docs.goparagon.com/kb/receive-payments/) | data/paradigm_docs/receive-payments.md
+- [Point Of Sale (POS)](https://docs.goparagon.com/kb/point-of-sale/) | data/paradigm_docs/point-of-sale-pos.md
+
+## Purchase Order and Vendors
+Category: https://docs.goparagon.com/kb-category/purchase-order-and-vendors/
+
+- [Splitting Purchase Orders And Purchase Invoices](https://docs.goparagon.com/kb/splitting-purchase-orders-and-purchase-invoices/) | data/paradigm_docs/splitting-purchase-orders-and-purchase-invoices.md
+- [Create Purchase Orders by Default](https://docs.goparagon.com/kb/create-purchase-orders-by-default/) | data/paradigm_docs/create-purchase-orders-by-default.md
+- [Special Order Purchasing](https://docs.goparagon.com/kb/special-order-purchasing-screen/) | data/paradigm_docs/special-order-purchasing.md
+- [How to Deposit a Check or Reimbursement from a Vendor](https://docs.goparagon.com/kb/how-to-deposit-a-check-or-reimbursement-from-a-vendor/) | data/paradigm_docs/how-to-deposit-a-check-or-reimbursement-from-a-vendor.md
+- [Purchasing Agent and Reorder Points](https://docs.goparagon.com/kb/purchasing-agent-and-reorder-points/) | data/paradigm_docs/purchasing-agent-and-reorder-points.md
+- [Voucher Lot Receive Import](https://docs.goparagon.com/kb/voucher-lot-receiving-import/) | data/paradigm_docs/voucher-lot-receive-import.md
+- [Debit Memos](https://docs.goparagon.com/kb/debit-memos/) | data/paradigm_docs/debit-memos.md
+- [Pay Bills Multi-Vendor](https://docs.goparagon.com/kb/pay-bills-multi-vendor/) | data/paradigm_docs/pay-bills-multi-vendor.md
+- [Vendor Preferred Payment Methods](https://docs.goparagon.com/kb/vendor-preferred-payment-methods/) | data/paradigm_docs/vendor-preferred-payment-methods.md
+- [Voucher Receive Import](https://docs.goparagon.com/kb/voucher-receive-import/) | data/paradigm_docs/voucher-receive-import.md
+- [Vendor Prepayments](https://docs.goparagon.com/kb/vendor-prepayments/) | data/paradigm_docs/vendor-prepayments.md
+- [Purchasing Tips and Tricks](https://docs.goparagon.com/kb/purchasing-tips-and-tricks/) | data/paradigm_docs/purchasing-tips-and-tricks.md
+- [Adding A New Vendor](https://docs.goparagon.com/kb/adding-a-new-vendor/) | data/paradigm_docs/adding-a-new-vendor.md
+- [How to Use Current Cost Instead of Standard Cost on POs and Purchase Invoices](https://docs.goparagon.com/kb/how-to-use-current-cost-instead-of-standard-cost-on-pos-and-purchase-invoices/) | data/paradigm_docs/how-to-use-current-cost-instead-of-standard-cost-on-pos-and-purchase-invoices.md
+- [Distribute Freight or Other](https://docs.goparagon.com/kb/distribute-freight-or-other/) | data/paradigm_docs/distribute-freight-or-other.md
+- [Freight Charges to A Different Vendor](https://docs.goparagon.com/kb/freight-charges-to-a-different-vendor/) | data/paradigm_docs/freight-charges-to-a-different-vendor.md
+- [Vendor To Remit Address](https://docs.goparagon.com/kb/vendor-to-remit-address/) | data/paradigm_docs/vendor-to-remit-address.md
+- [Transfer Cost From Order to PO](https://docs.goparagon.com/kb/transfer-cost-from-order-to-po/) | data/paradigm_docs/transfer-cost-from-order-to-po.md
+- [How to Receive Inventory Items By Scanning Them](https://docs.goparagon.com/kb/how-to-receive-inventory-items-by-scanning-them/) | data/paradigm_docs/how-to-receive-inventory-items-by-scanning-them.md
+- [Set Up Alternate Vendors](https://docs.goparagon.com/kb/set-up-alternate-vendors/) | data/paradigm_docs/set-up-alternate-vendors.md
+
+## Production
+Category: https://docs.goparagon.com/kb-category/production/
+
+- [Assign To Different Machine](https://docs.goparagon.com/kb/assign-to-different-machine/) | data/paradigm_docs/assign-to-different-machine.md
+- [Machine List](https://docs.goparagon.com/kb/machine-list/) | data/paradigm_docs/machine-list.md
+- [Remove A Build From Production](https://docs.goparagon.com/kb/remove-a-build-from-production/) | data/paradigm_docs/remove-a-build-from-production.md
+- [Machine Groups](https://docs.goparagon.com/kb/machine-groups/) | data/paradigm_docs/machine-groups.md
+- [Pull Item From Stock in Production](https://docs.goparagon.com/kb/pull-item-from-stock-in-production/) | data/paradigm_docs/pull-item-from-stock-in-production.md
+- [Configuring a Product for Export to Connex](https://docs.goparagon.com/kb/configuring-a-product-for-export-to-connex/) | data/paradigm_docs/configuring-a-product-for-export-to-connex.md
+- [Production Settings](https://docs.goparagon.com/kb/production-settings/) | data/paradigm_docs/production-settings.md
+- [Production Screens](https://docs.goparagon.com/kb/production-screens/) | data/paradigm_docs/production-screens.md
+- [Manufactured To Order Items With Low Stock](https://docs.goparagon.com/kb/manufactured-to-order-items-with-low-stock/) | data/paradigm_docs/manufactured-to-order-items-with-low-stock.md
+- [Machine Options](https://docs.goparagon.com/kb/machine-options/) | data/paradigm_docs/machine-options.md
+- [Production: Lock Build when Printing](https://docs.goparagon.com/kb/production-lock-build-when-printing/) | data/paradigm_docs/production-lock-build-when-printing.md
+- [Edit Production Dates](https://docs.goparagon.com/kb/edit-production-dates/) | data/paradigm_docs/edit-production-dates.md
+- [Production Lines Added to A Bundle](https://docs.goparagon.com/kb/production-lines-added-to-a-bundle/) | data/paradigm_docs/production-lines-added-to-a-bundle.md
+- [Configuring a Product For Export To Eclipse](https://docs.goparagon.com/kb/configuring-a-product-for-export-to-eclipse/) | data/paradigm_docs/configuring-a-product-for-export-to-eclipse.md
+- [Changing Pieces Ordered](https://docs.goparagon.com/kb/changing-pieces-ordered/) | data/paradigm_docs/changing-pieces-ordered.md
+- [Capture Coil](https://docs.goparagon.com/kb/capture-coil/) | data/paradigm_docs/capture-coil.md
+- [Purging a Job From Beck/Connex or AMS/Eclipse](https://docs.goparagon.com/kb/purging-a-job-from-beck-connex-or-ams-eclipse/) | data/paradigm_docs/purging-a-job-from-beck-connex-or-ams-eclipse.md
+- [Scrap Calculations](https://docs.goparagon.com/kb/scrap-calculations/) | data/paradigm_docs/scrap-calculations.md
+- [Multi-Stage Production](https://docs.goparagon.com/kb/multi-stage-production/) | data/paradigm_docs/multi-stage-production.md
+- [Assigning Staging Areas In Production](https://docs.goparagon.com/kb/assigning-staging-areas-in-production/) | data/paradigm_docs/assigning-staging-areas-in-production.md
+- [Production Lead Days](https://docs.goparagon.com/kb/production-lead-days/) | data/paradigm_docs/production-lead-days.md
+- [Component Tree](https://docs.goparagon.com/kb/component-tree/) | data/paradigm_docs/component-tree.md
+- [Production: Export Button](https://docs.goparagon.com/kb/production-export-button/) | data/paradigm_docs/production-export-button.md
+- [Production: Recently Completed](https://docs.goparagon.com/kb/production-recently-completed/) | data/paradigm_docs/production-recently-completed.md
+- [Production: Coil History](https://docs.goparagon.com/kb/production-coil-history/) | data/paradigm_docs/production-coil-history.md
+- [Production By Piece](https://docs.goparagon.com/kb/production-by-piece/) | data/paradigm_docs/production-by-piece.md
+- [Production: One Label Per Build](https://docs.goparagon.com/kb/production-one-label-per-build/) | data/paradigm_docs/production-one-label-per-build.md
+- [Work Order List Filter/Sort Options](https://docs.goparagon.com/kb/work-order-list-filter-sort-options/) | data/paradigm_docs/work-order-list-filter-sort-options.md
+- [Production Scan Tab](https://docs.goparagon.com/kb/production-scan-tab/) | data/paradigm_docs/production-scan-tab.md
+- [Production: Line Split](https://docs.goparagon.com/kb/production-line-splitting/) | data/paradigm_docs/production-line-split.md
+- [Production: Line Split By Label](https://docs.goparagon.com/kb/production-line-split-by-labels/) | data/paradigm_docs/production-line-split-by-label.md
+- [Show/Hide Locked Builds](https://docs.goparagon.com/kb/show-hide-locked-builds/) | data/paradigm_docs/show-hide-locked-builds.md
+- [Production Coil Split](https://docs.goparagon.com/kb/production-coil-split/) | data/paradigm_docs/production-coil-split.md
+- [Production Tips and Tricks](https://docs.goparagon.com/kb/production-tips-and-tricks/) | data/paradigm_docs/production-tips-and-tricks.md
+- [Adding/Deleting Bundles From Production](https://docs.goparagon.com/kb/adding-deleting-bundles-from-production/) | data/paradigm_docs/adding-deleting-bundles-from-production.md
+- [Production Multi-Build Printing](https://docs.goparagon.com/kb/production-multi-build-printing/) | data/paradigm_docs/production-multi-build-printing.md
+- [Production Batching](https://docs.goparagon.com/kb/production-batching/) | data/paradigm_docs/production-batching.md
+
+## Dispatching
+Category: https://docs.goparagon.com/kb-category/dispatching/
+
+- [Daily Deliveries](https://docs.goparagon.com/kb/daily-deliveries/) | data/paradigm_docs/daily-deliveries.md
+- [Samsara Integration](https://docs.goparagon.com/kb/samsara-integration/) | data/paradigm_docs/samsara-integration.md
+- [Trip Info](https://docs.goparagon.com/kb/trip-info/) | data/paradigm_docs/trip-info.md
+- [Address List](https://docs.goparagon.com/kb/address-list/) | data/paradigm_docs/address-list.md
+- [Fulfillment Pro: Trip Is Full](https://docs.goparagon.com/kb/fulfillment-pro-trip-is-full/) | data/paradigm_docs/fulfillment-pro-trip-is-full.md
+- [Multiple Orders](https://docs.goparagon.com/kb/multiple-orders/) | data/paradigm_docs/multiple-orders.md
+- [Dispatching Settings](https://docs.goparagon.com/kb/dispatching-settings/) | data/paradigm_docs/dispatching-settings.md
+- [Dispatching Map](https://docs.goparagon.com/kb/dispatching-map/) | data/paradigm_docs/dispatching-map.md
+- [Transfer Lead Times](https://docs.goparagon.com/kb/transfer-lead-times/) | data/paradigm_docs/transfer-lead-times.md
+- [Trip History](https://docs.goparagon.com/kb/trip-history/) | data/paradigm_docs/trip-history.md
+- [Delivery Notification](https://docs.goparagon.com/kb/delivery-notification/) | data/paradigm_docs/delivery-notification.md
+- [Outside Deliveries](https://docs.goparagon.com/kb/outside-deliveries/) | data/paradigm_docs/outside-deliveries.md
+- [Dispatching: Product Exclusions from the Length Check](https://docs.goparagon.com/kb/dispatching-product-exclusions-from-the-length-check/) | data/paradigm_docs/dispatching-product-exclusions-from-the-length-check.md
+- [Truck Summary](https://docs.goparagon.com/kb/truck-summary/) | data/paradigm_docs/truck-summary.md
+- [Trip Statuses](https://docs.goparagon.com/kb/trip-statuses/) | data/paradigm_docs/trip-statuses.md
+- [Why does the same order show up on Multiple Lines in Daily Deliveries?](https://docs.goparagon.com/kb/why-does-the-same-order-show-up-on-multiple-lines-in-daily-deliveries/) | data/paradigm_docs/why-does-the-same-order-show-up-on-multiple-lines-in-daily-deliveries.md
+- [Daily Pickups](https://docs.goparagon.com/kb/daily-pickups/) | data/paradigm_docs/daily-pickups.md
+- [Max Length Categories](https://docs.goparagon.com/kb/max-length-categories/) | data/paradigm_docs/max-length-categories.md
+- [Trailer List](https://docs.goparagon.com/kb/trailer-list/) | data/paradigm_docs/trailer-list.md
+- [Driver List](https://docs.goparagon.com/kb/driver-list/) | data/paradigm_docs/driver-list.md
+- [Truck List](https://docs.goparagon.com/kb/truck-list/) | data/paradigm_docs/truck-list.md
+- [Trips List](https://docs.goparagon.com/kb/trips-list/) | data/paradigm_docs/trips-list.md
+- [Ship Vias](https://docs.goparagon.com/kb/ship-vias/) | data/paradigm_docs/ship-vias.md
+- [Create Dispatching Filters](https://docs.goparagon.com/kb/creating-dispatching-filters/) | data/paradigm_docs/create-dispatching-filters.md
+

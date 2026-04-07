@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' http://*:* https://*:* ws://*:* wss://*:*; font-src 'self';">
+    <title>Western Intelligence - Support Agent</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="login-overlay" class="login-overlay">
+        <div class="login-card">
+            <h2>Sign In</h2>
+            <p>Sign in with your Google LDAP credentials or generic admin account.</p>
+            <label for="login-identifier">Email or Username</label>
+            <input type="text" id="login-identifier" placeholder="name@company.com" autocomplete="username" />
+            <label for="login-password">Password</label>
+            <input type="password" id="login-password" placeholder="Password" autocomplete="current-password" />
+            <button id="login-submit" class="primary-btn">Sign In</button>
+            <p id="login-status" class="form-hint"></p>
+            <p class="form-hint">Generic admin: <strong>admin</strong> / <strong>Admin@123</strong></p>
+        </div>
+    </div>
+
+    <div id="lm-reconnect-modal" class="modal">
+        <div class="modal-content">
+            <h2>AI Server Connection Required</h2>
+            <p>Western Intelligence cannot reach the AI endpoint. Enter the LM Studio server IP or URL to reconnect.</p>
+            <label for="lm-reconnect-url">LM Studio IP or Base URL</label>
+            <input type="text" id="lm-reconnect-url" placeholder="192.168.1.50 or http://192.168.1.50:1234" spellcheck="false" />
+            <div class="admin-actions">
+                <button id="lm-reconnect-save" class="primary-btn">Save & Reconnect</button>
+                <button id="lm-reconnect-skip" class="secondary-btn">Continue Offline</button>
+            </div>
+            <p id="lm-reconnect-status" class="form-hint"></p>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="logo">⚙️</div>
+                    <div class="header-text">
+                        <div class="erp-title-row">
+                            <h1>Western Intelligence</h1>
+                            <div class="erp-launcher-bar">
+                                <button id="launch-erp-btn" class="secondary-btn erp-header-btn">Launch ERP</button>
+                                <button id="update-app-btn" class="secondary-btn erp-header-btn">Update App</button>
+                                <span id="erp-launcher-status" class="erp-launcher-status">ERP launcher ready</span>
+                            </div>
+                        </div>
+                        <p>Paradigm ERP Support Agent</p>
+                    </div>
+                </div>
+                <div class="status-indicator">
+                    <span id="lm-status" class="status-dot disconnected"></span>
+                    <span id="lm-text">Checking LM Studio...</span>
+                    <div class="assistant-mode-wrap">
+                        <span id="assistant-mode-label" class="assistant-mode-label">Mode: Auto Hybrid</span>
+                        <div id="assistant-mode-switch" class="assistant-mode-switch" role="radiogroup" aria-label="Assistant response mode">
+                            <span class="mode-track" aria-hidden="true"></span>
+                            <button type="button" class="mode-node mode-node-top active" data-assistant-mode="hybrid" role="radio" aria-checked="true" title="Auto Hybrid: adapt between AI and WBS grounding">Auto</button>
+                            <button type="button" class="mode-node mode-node-left" data-assistant-mode="assistant" role="radio" aria-checked="false" title="AI Assistant: normal assistant without forced WBS grounding">AI</button>
+                            <button type="button" class="mode-node mode-node-right" data-assistant-mode="wbs" role="radio" aria-checked="false" title="WBS Grounded: prioritize WBS knowledge and sources">WBS</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="auth-indicator">
+                    <span id="auth-user-label">Not signed in</span>
+                    <button id="logout-btn" class="secondary-btn">Logout</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-section">
+                    <h3>Contractor Focus</h3>
+                    <label class="contractor-selector-label" for="contractor-select">Route contractor questions through the right preference set</label>
+                    <select id="contractor-select" class="contractor-select" aria-label="Select a contractor profile">
+                        <option value="">All Contractors</option>
+                    </select>
+                    <div class="contractor-actions">
+                        <button id="contractor-favorite-btn" class="secondary-btn contractor-action-btn" type="button">☆ Favorite On This PC</button>
+                        <button id="contractor-sync-btn" class="secondary-btn contractor-action-btn" type="button">Sync Contractor Sheet</button>
+                    </div>
+                    <p id="contractor-selection-status" class="contractor-selection-status">No contractor selected. Contractor questions search the full contractor library.</p>
+                    <p id="contractor-sync-status" class="contractor-sync-status"></p>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Tell Me About</h3>
+                    <div class="quick-links-tabs" role="tablist" aria-label="Quick Links Categories">
+                        <button id="quick-tab-paradigm" class="quick-tab active" data-quick-tab="paradigm" role="tab" aria-selected="true" aria-controls="quick-links-paradigm">Paradigm</button>
+                        <button id="quick-tab-smartbuild" class="quick-tab" data-quick-tab="smartbuild" role="tab" aria-selected="false" aria-controls="quick-links-smartbuild">SmartBuild</button>
+                    </div>
+
+                    <ul id="quick-links-paradigm" class="quick-links" data-quick-links="paradigm">
+                        <li><a href="#" data-paradigm-topic="Customer Orders">Customer Orders</a></li>
+                        <li><a href="#" data-paradigm-topic="Inventory">Inventory</a></li>
+                        <li><a href="#" data-paradigm-topic="Purchasing">Purchasing</a></li>
+                        <li><a href="#" data-paradigm-topic="Accounting">Accounting</a></li>
+                        <li><a href="#" data-paradigm-topic="Production">Production</a></li>
+                        <li><a href="#" data-paradigm-topic="Job Costing">Job Costing</a></li>
+                        <li><a href="#" data-paradigm-topic="Fulfillment">Fulfillment</a></li>
+                        <li><a href="#" data-paradigm-topic="Dispatching">Dispatching</a></li>
+                        <li><a href="#" data-paradigm-topic="Administration">Administration</a></li>
+                        <li><a href="#" data-paradigm-topic="General Features">General Features</a></li>
+                        <li><a href="#" data-paradigm-topic="Integrations">Integrations</a></li>
+                    </ul>
+
+                    <ul id="quick-links-smartbuild" class="quick-links quick-links-hidden" data-quick-links="smartbuild" aria-hidden="true">
+                        <li><a href="#" data-smartbuild-topic="Installation & Setup">Installation & Setup</a></li>
+                        <li><a href="#" data-smartbuild-topic="Design Workflows">Design Workflows</a></li>
+                        <li><a href="#" data-smartbuild-topic="Estimator & Pricing">Estimator & Pricing</a></li>
+                        <li><a href="#" data-smartbuild-topic="Materials & Components">Materials & Components</a></li>
+                        <li><a href="#" data-smartbuild-topic="Order Processing">Order Processing</a></li>
+                        <li><a href="#" data-smartbuild-topic="Production & Fabrication">Production & Fabrication</a></li>
+                        <li><a href="#" data-smartbuild-topic="Delivery & Field Execution">Delivery & Field Execution</a></li>
+                        <li><a href="#" data-smartbuild-topic="Integrations & Data Exchange">Integrations & Data Exchange</a></li>
+                        <li><a href="#" data-smartbuild-topic="Troubleshooting & Error Resolution">Troubleshooting & Error Resolution</a></li>
+                        <li><a href="#" data-smartbuild-topic="Admin, Permissions & Best Practices">Admin, Permissions & Best Practices</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Common Tasks</h3>
+                    <ul class="common-tasks">
+                        <li><a href="#" class="task-link">Create Customer Order</a></li>
+                        <li><a href="#" class="task-link">Update Inventory</a></li>
+                        <li><a href="#" class="task-link">Create Purchase Order</a></li>
+                        <li><a href="#" class="task-link">Record Transaction</a></li>
+                        <li><a href="#" class="task-link">Generate Report</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Resources</h3>
+                    <ul class="resources">
+                        <li><a href="#" id="kb-link">📖 Knowledge Base</a></li>
+                        <li><a href="#" id="ingest-link">➕ Add Content</a></li>
+                        <li><a href="#" id="admin-link">🛡️ Admin Console</a></li>
+                        <li><a href="#" id="coming-soon-link">🧭 Coming Soon</a></li>
+                        <li><a href="#" id="contact-link">📞 Contact Info</a></li>
+                        <li><a href="#" id="about-link">ℹ️ About</a></li>
+                    </ul>
+                </div>
+            </aside>
+
+            <!-- Chat Area -->
+            <div class="chat-container">
+                <!-- Welcome Message -->
+                <div id="welcome" class="welcome-message">
+                    <div class="welcome-card">
+                        <h2>Welcome to Western Intelligence</h2>
+                        <p>Your AI-powered support agent for Paradigm ERP at Western Building Supply</p>
+                        <div class="welcome-features">
+                            <div class="feature">
+                                <span class="icon">🤖</span>
+                                <h4>AI-Powered Support</h4>
+                                <p>Instant answers powered by LM Studio</p>
+                            </div>
+                            <div class="feature">
+                                <span class="icon">📚</span>
+                                <h4>Knowledge Base</h4>
+                                <p id="welcome-indexed-summary">478 Paradigm articles + SmartBuild content indexed</p>
+                            </div>
+                            <div class="feature">
+                                <span class="icon">🔧</span>
+                                <h4>Workflows</h4>
+                                <p>11 complete business workflows</p>
+                            </div>
+                            <div class="feature">
+                                <span class="icon">🏗️</span>
+                                <h4>Building Focus</h4>
+                                <p>Western Building Supply context</p>
+                            </div>
+                        </div>
+                        <p id="contractor-welcome-note" class="hint">Contractor subsystem ready. Select a contractor on the left to prioritize their preferences.</p>
+                        <p class="hint">Ask me anything about Paradigm ERP, Western procedures, or your workflows!</p>
+                    </div>
+                </div>
+
+                <!-- Messages -->
+                <div id="messages" class="messages"></div>
+
+                <!-- Input Area -->
+                <div class="input-area">
+                    <div class="input-wrapper">
+                        <input 
+                            type="text" 
+                            id="query-input" 
+                            placeholder="Ask about Paradigm ERP, workflows, or Western procedures..."
+                            autocomplete="off"
+                        >
+                        <button id="send-btn" class="send-btn" title="Send Query (Enter)">
+                            <span>📧</span>
+                        </button>
+                    </div>
+                    <div class="input-hints">
+                        <span id="query-hint-text">💡 Examples: "How do I create a customer order?", "What is the job costing workflow?", "What does AB Buildings prefer for trim?"</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <!-- Floating Team Chat Bubble -->
+    <button id="team-chat-bubble" class="team-chat-bubble" title="Team Chat">
+        💬
+        <span id="unread-badge" class="unread-badge">0</span>
+    </button>
+
+    <!-- Team Chat Window (Bottom Right) -->
+    <div id="team-chat-window" class="team-chat-window">
+        <div class="team-chat-header">
+            <h3>🏢 Team Chat</h3>
+            <button id="minimize-chat-btn" class="minimize-btn">−</button>
+        </div>
+
+        <div class="team-chat-body">
+            <!-- Lunch Status Bar -->
+            <div id="lunch-status-bar" class="lunch-status-bar">
+                <strong>🍽️ On Lunch:</strong>
+                <span id="lunch-list">Nobody is on lunch</span>
+            </div>
+
+            <!-- Registration Form (shows if not registered) -->
+            <div id="registration-form" class="registration-form">
+                <label for="username-input">Enter Your Name (Required):</label>
+                <input type="text" id="username-input" placeholder="Your name..." maxlength="30" required>
+                <button id="register-btn" class="primary-btn">Join Chat</button>
+                <p class="form-hint">Your name will be visible to other team members</p>
+            </div>
+
+            <!-- Chat Interface (shows after registration) -->
+            <div id="chat-interface" class="chat-interface">
+                <!-- User Info Bar -->
+                <div class="user-info-bar">
+                    <span>Logged in as: <strong id="current-user-display"></strong></span>
+                    <button id="change-name-btn" class="change-name-btn">Change Name</button>
+                </div>
+
+                <!-- Load History Button -->
+                <button id="load-history-btn" class="load-history-btn">📜 Load Full Chat History</button>
+
+                <!-- Chat Messages (Scrollable) -->
+                <div id="team-messages" class="team-messages"></div>
+
+                <!-- Chat Input -->
+                <div class="chat-input-container">
+                    <button id="lunch-toggle-btn" class="lunch-btn">Go to Lunch</button>
+                    <input type="text" id="team-message-input" placeholder="Type your message..." maxlength="500">
+                    <button id="team-send-btn" class="send-btn" title="Send team message" aria-label="Send team message">
+                        <span>📧</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal for Knowledge Base -->
+    <div id="kb-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Knowledge Base</h2>
+            <p>Western Intelligence's Paradigm ERP Knowledgebase is available here.</p>
+            <div class="about-info">
+                <h4>Indexed Data Snapshot</h4>
+                <ul>
+                    <li>Paradigm Articles: <strong id="kb-paradigm-count">478</strong></li>
+                    <li>SmartBuild Support Articles: <strong id="kb-smartbuild-support-count">0</strong></li>
+                    <li>SmartBuild YouTube Videos: <strong id="kb-smartbuild-videos-count">0</strong></li>
+                    <li>SmartBuild Total: <strong id="kb-smartbuild-total-count">0</strong></li>
+                    <li>Manual Forms Total: <strong id="kb-manual-forms-total-count">0</strong></li>
+                    <li>Total Indexed Items: <strong id="kb-total-indexed-count">478</strong></li>
+                </ul>
+            </div>
+            <button id="open-kb-btn" class="primary-btn">Open Knowledge Base File</button>
+        </div>
+    </div>
+
+    <!-- Modal for Ingesting Content -->
+    <div id="ingest-modal" class="modal">
+        <div class="modal-content ingest-modal">
+            <span class="close">&times;</span>
+            <h2>➕ Add Content to RAG</h2>
+            <p>Add a file or link, review the extracted text, then approve to append it to the knowledge base.</p>
+
+            <div class="admin-section">
+                <h3>Source</h3>
+                <div class="ingest-source-row">
+                    <button id="ingest-file-btn" class="secondary-btn">Select File</button>
+                    <span id="ingest-file-name" class="form-hint">No file selected</span>
+                </div>
+                <div class="ingest-source-row">
+                    <button id="ingest-smartbuild-folder-btn" class="secondary-btn">Import SmartBuild Folder</button>
+                    <span id="ingest-smartbuild-folder" class="form-hint">No SmartBuild folder selected</span>
+                </div>
+                <label for="ingest-url">Or paste a link</label>
+                <input type="text" id="ingest-url" placeholder="https://..." spellcheck="false" />
+            </div>
+
+            <div class="admin-section">
+                <h3>Category</h3>
+                <label for="ingest-category">Choose a category</label>
+                <select id="ingest-category">
+                    <option value="company-info">Company Information</option>
+                    <option value="csdirector">CSDirector</option>
+                    <option value="smartbuild">SmartBuild</option>
+                    <option value="western">Western Building Supply</option>
+                    <option value="paradigm">Paradigm</option>
+                </select>
+                <label for="ingest-title">Title (optional)</label>
+                <input type="text" id="ingest-title" placeholder="Short title for this entry" spellcheck="false" />
+            </div>
+
+            <div class="admin-section">
+                <h3>Preview</h3>
+                <button id="ingest-preview-btn" class="primary-btn">Extract & Preview</button>
+                <p id="ingest-status" class="form-hint"></p>
+                <textarea id="ingest-preview" class="ingest-preview" rows="8" aria-label="Extracted content preview"></textarea>
+            </div>
+
+            <div class="admin-section">
+                <div class="admin-toggle">
+                    <input type="checkbox" id="ingest-approve-check" />
+                    <label for="ingest-approve-check">I have reviewed this content and approve adding it to the knowledge base</label>
+                </div>
+                <div class="admin-actions">
+                    <button id="ingest-approve-btn" class="danger-btn" disabled>Approve & Add</button>
+                    <button id="ingest-reset-btn" class="secondary-btn">Reset</button>
+                </div>
+            </div>
+
+            <div class="admin-section">
+                <h3>Manage Existing Ingest Entries</h3>
+                <label for="ingest-existing-select">Existing entries (newest first)</label>
+                <select id="ingest-existing-select"></select>
+                <div class="admin-actions">
+                    <button id="ingest-refresh-btn" class="secondary-btn">Refresh List</button>
+                    <button id="ingest-load-btn" class="secondary-btn">Load Selected</button>
+                    <button id="ingest-save-edit-btn" class="primary-btn" disabled>Save Edit</button>
+                </div>
+                <div class="admin-actions">
+                    <button id="ingest-delete-btn" class="danger-btn">Delete Selected</button>
+                    <button id="ingest-undo-btn" class="secondary-btn">Undo Last Add</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Admin Console -->
+    <div id="admin-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>🛡️ Admin Console</h2>
+            <div class="admin-section">
+                <h3>LM Studio Connection</h3>
+                <label for="admin-lm-url">LM Studio Base URL</label>
+                <input type="text" id="admin-lm-url" placeholder="http://127.0.0.1:1234" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-lm-save" class="primary-btn">Save LM Studio</button>
+                    <button id="admin-lm-test" class="secondary-btn">Test</button>
+                </div>
+                <p id="admin-lm-status" class="form-hint"></p>
+            </div>
+
+            <div class="admin-section">
+                <h3>Team Chat</h3>
+                <label for="admin-chat-url">Chat Server URL</label>
+                <input type="text" id="admin-chat-url" placeholder="http://192.168.1.100:3000" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-chat-save" class="primary-btn">Save Chat URL</button>
+                    <button id="admin-chat-setup" class="secondary-btn">Set Up This PC</button>
+                </div>
+                <div class="admin-toggle">
+                    <input type="checkbox" id="admin-chat-enabled" />
+                    <label for="admin-chat-enabled">Run chat server on this PC</label>
+                </div>
+                <p id="admin-chat-status" class="form-hint"></p>
+            </div>
+
+            <div class="admin-section">
+                <h3>ERP Launcher Paths</h3>
+                <label for="admin-erp-client-path">Paradigm Client Executable Path</label>
+                <input type="text" id="admin-erp-client-path" placeholder="C:\ProgramData\Paragon Computing Solutions\Paradigm Accounting\Paradigm_Client\ParadigmClient.exe" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-erp-client-browse" class="secondary-btn">Browse Client EXE</button>
+                </div>
+
+                <label for="admin-erp-updater-path">Paradigm Updater Executable Path</label>
+                <input type="text" id="admin-erp-updater-path" placeholder="C:\ProgramData\Paragon Computing Solutions\Paradigm Accounting\Paradigm_Client\Update\Paradigm_Update.exe" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-erp-updater-browse" class="secondary-btn">Browse Updater EXE</button>
+                    <button id="admin-erp-save" class="primary-btn">Save ERP Paths</button>
+                </div>
+                <p id="admin-erp-status" class="form-hint"></p>
+            </div>
+
+            <div class="admin-section">
+                <h3>Startup</h3>
+                <div class="admin-toggle">
+                    <input type="checkbox" id="admin-auto-launch" />
+                    <label for="admin-auto-launch">Start app at login</label>
+                </div>
+            </div>
+
+            <div class="admin-section">
+                <h3>Google Secure LDAP <span id="admin-ldap-mode-badge" class="mode-badge mode-badge-secure">Secure</span></h3>
+                <div class="admin-toggle">
+                    <input type="checkbox" id="admin-ldap-enabled" />
+                    <label for="admin-ldap-enabled">Enable Google LDAP</label>
+                </div>
+                <div class="admin-toggle">
+                    <input type="checkbox" id="admin-ldap-secure-mode" checked />
+                    <label for="admin-ldap-secure-mode">Secure TLS Mode (certificate validation ON)</label>
+                </div>
+                <p class="form-hint">Turn Secure TLS Mode off only for temporary troubleshooting.</p>
+                <label for="admin-ldap-url">LDAP URL</label>
+                <input type="text" id="admin-ldap-url" placeholder="ldaps://ldap.google.com:636" spellcheck="false" />
+                <label for="admin-ldap-base-dn">Base DN</label>
+                <input type="text" id="admin-ldap-base-dn" placeholder="dc=example,dc=com" spellcheck="false" />
+                <label for="admin-ldap-bind-dn">Bind DN</label>
+                <input type="text" id="admin-ldap-bind-dn" placeholder="uid=ldap-service,ou=Users,dc=example,dc=com" spellcheck="false" />
+                <label for="admin-ldap-bind-password">Bind Password</label>
+                <input type="password" id="admin-ldap-bind-password" placeholder="Leave blank to keep saved value" spellcheck="false" />
+                <label for="admin-ldap-user-base-dn">User Base DN (optional)</label>
+                <input type="text" id="admin-ldap-user-base-dn" placeholder="ou=Users,dc=example,dc=com" spellcheck="false" />
+                <label for="admin-ldap-group-base-dn">Group Base DN (optional)</label>
+                <input type="text" id="admin-ldap-group-base-dn" placeholder="ou=Groups,dc=example,dc=com" spellcheck="false" />
+                <label for="admin-ldap-required-group">Required Group Email (optional)</label>
+                <input type="text" id="admin-ldap-required-group" placeholder="it-support@example.com" spellcheck="false" />
+                <label for="admin-ldap-ca-cert-path">CA Cert Path (optional)</label>
+                <input type="text" id="admin-ldap-ca-cert-path" placeholder="C:\\certs\\google-ldap-ca.pem" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-browse-ca-cert" class="secondary-btn">Browse CA Cert</button>
+                </div>
+                <label for="admin-ldap-client-cert-path">Client Cert Path (.crt)</label>
+                <input type="text" id="admin-ldap-client-cert-path" placeholder="C:\\certs\\Google_2029_02_18_62287.crt" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-browse-client-cert" class="secondary-btn">Browse Client Cert</button>
+                </div>
+                <label for="admin-ldap-client-key-path">Client Key Path (.key)</label>
+                <input type="text" id="admin-ldap-client-key-path" placeholder="C:\\certs\\Google_2029_02_18_62287.key" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-browse-client-key" class="secondary-btn">Browse Client Key</button>
+                </div>
+                <label for="admin-ldap-client-key-passphrase">Client Key Passphrase (optional)</label>
+                <input type="password" id="admin-ldap-client-key-passphrase" placeholder="Leave blank to keep saved value" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-save" class="primary-btn">Save LDAP</button>
+                    <button id="admin-ldap-test" class="secondary-btn">Test LDAP</button>
+                </div>
+                <p id="admin-ldap-status" class="form-hint"></p>
+            </div>
+
+            <div class="admin-section">
+                <h3>Directory Lookup & Sync</h3>
+                <label for="admin-ldap-search">Search users/groups</label>
+                <input type="text" id="admin-ldap-search" placeholder="name, email, or uid" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-search-btn" class="secondary-btn">Search LDAP</button>
+                    <button id="admin-ldap-sync-btn" class="primary-btn">Sync LDAP Snapshot</button>
+                </div>
+                <label for="admin-ldap-auth-user">Validate user login (identifier)</label>
+                <input type="text" id="admin-ldap-auth-user" placeholder="user@example.com" spellcheck="false" />
+                <label for="admin-ldap-auth-password">Validate user login (password)</label>
+                <input type="password" id="admin-ldap-auth-password" placeholder="User password" spellcheck="false" />
+                <div class="admin-actions">
+                    <button id="admin-ldap-auth-btn" class="secondary-btn">Test User Auth</button>
+                </div>
+                <textarea id="admin-ldap-results" rows="8" aria-label="LDAP operation results" placeholder="Search and sync results appear here"></textarea>
+            </div>
+
+            <div class="admin-section">
+                <h3>Admin Controls</h3>
+                <button id="admin-open-dev-tools" class="secondary-btn">Open Developer Tools</button>
+                <button id="admin-vpn-diagnostics" class="secondary-btn">Run VPN Diagnostics</button>
+                <button id="admin-clear-chat" class="danger-btn">Clear Chat History</button>
+                <p id="admin-tools-status" class="form-hint"></p>
+                <p class="form-hint">Clears in-app chat history for all users.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Coming Soon -->
+    <div id="coming-soon-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>🧭 Coming Soon</h2>
+            <p>These support areas are planned next:</p>
+            <ul class="coming-soon-list">
+                <li>SATO troubleshooting</li>
+                <li>CSDirector</li>
+                <li>Device Troubleshooting</li>
+                <li>Google/Microsoft Products</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Modal for About -->
+    <div id="about-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>About Western Intelligence</h2>
+            <p class="about-lead">
+                Western Intelligence is the internal AI support workspace for Western Building Supply.
+                It combines local AI, indexed operations knowledge, and technician workflows in one desktop app.
+            </p>
+            <div class="about-kv-grid">
+                <div class="about-kv-item">
+                    <span class="about-kv-label">Version</span>
+                    <span id="about-version" class="about-kv-value">1.0.0</span>
+                </div>
+                <div class="about-kv-item">
+                    <span class="about-kv-label">Platform</span>
+                    <span id="about-platform" class="about-kv-value">Windows</span>
+                </div>
+                <div class="about-kv-item">
+                    <span class="about-kv-label">Runtime</span>
+                    <span id="about-runtime" class="about-kv-value">Electron</span>
+                </div>
+                <div class="about-kv-item">
+                    <span class="about-kv-label">Session</span>
+                    <span id="about-auth" class="about-kv-value">Not signed in</span>
+                </div>
+            </div>
+            <div class="about-info">
+                <h4>System Snapshot</h4>
+                <ul>
+                    <li>Assistant mode: <span id="about-assistant-mode">Auto Hybrid</span></li>
+                    <li>LM Studio: <span id="about-lm-status">Checking...</span></li>
+                    <li>Last refresh: <span id="about-last-refresh">--</span></li>
+                </ul>
+            </div>
+            <div class="about-info">
+                <h4>Knowledge Coverage</h4>
+                <ul>
+                    <li>Local AI processing (privacy-first)</li>
+                    <li><span id="about-paradigm-count">478</span> Paradigm ERP articles</li>
+                    <li><span id="about-smartbuild-total-count">0</span> SmartBuild indexed items</li>
+                    <li><span id="about-manual-forms-total-count">0</span> Manual Forms indexed items</li>
+                    <li>11 integrated business workflows</li>
+                    <li>Western Building Supply context</li>
+                    <li>Offline capability</li>
+                </ul>
+            </div>
+            <div class="about-info">
+                <h4>Technology Stack</h4>
+                <ul>
+                    <li>Frontend: Electron + HTML/CSS/JavaScript</li>
+                    <li>Backend: Node.js IPC + local services</li>
+                    <li>AI Engine: LM Studio (local)</li>
+                    <li>RAG: Custom indexed knowledge base integration</li>
+                </ul>
+            </div>
+            <p class="about-copyright">© 2026 Western Building Supply</p>
+        </div>
+    </div>
+    <!-- Modal for Contact Info -->
+    <div id="contact-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>📞 Contact Information</h2>
+            
+            <div class="contact-section">
+                <h3>🛠️ Application Tech Support</h3>
+                <p>For issues with the Western Intelligence application:</p>
+                <div class="contact-card">
+                    <strong>Jon Ward</strong><br>
+                    📧 <a href="mailto:Jward@wbswyo.com">Jward@wbswyo.com</a><br>
+                    📞 <a href="tel:3073318407">(307) 331-8407</a>
+                </div>
+            </div>
+
+            <div class="contact-section">
+                <h3>🏢 Company Information Updates</h3>
+                <p>For updates to company information, knowledge base content, or data corrections, contact:</p>
+                <div class="contact-card">
+                    <strong>Jon Ward</strong><br>
+                    📧 <a href="mailto:Jward@wbswyo.com">Jward@wbswyo.com</a><br>
+                    📞 <a href="tel:3073318407">(307) 331-8407</a>
+                </div>
+                <div class="contact-card">
+                    <strong>Bruce Hilty</strong><br>
+                    📧 <a href="mailto:bhilty@wbswyo.com">bhilty@wbswyo.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="socket.io.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

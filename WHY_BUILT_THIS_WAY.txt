@@ -1,0 +1,50 @@
+﻿Western Intelligence: Why It Is Built This Way
+
+Date: 2026-04-06
+Audience: Operations, IT, and technicians
+
+1) Problem We Solved
+The original project accumulated non-runtime artifacts that increased operational risk,
+confused deployments, and made troubleshooting inconsistent.
+
+2) Rebuild Goal
+Create a clean operational baseline that preserves production functionality while removing
+historical clutter and non-essential repository noise.
+
+3) Guiding Principles
+- Keep all active app runtime behavior.
+- Keep all critical knowledge domains used by real users.
+- Exclude anything not required to run, deploy, or troubleshoot.
+- Prefer deterministic startup and clear operator workflows.
+
+4) Why These Data Sets Were Kept
+- SmartBuild docs: active product and support guidance used by users.
+- Manual Forms and contractor docs: critical for contractor workflow assistance.
+- Paradigm docs: core ERP knowledge required by the assistant.
+- Primary knowledge base markdown: canonical merged context layer.
+
+5) Why Other Content Was Excluded
+Recovery snapshots, legacy copies, ad-hoc notes, and historical logs do not improve
+runtime capability. They increase confusion, package size, and support drift.
+
+6) Runtime Architecture Rationale
+- Electron app keeps desktop deployment simple for operations.
+- LM Studio endpoint abstraction supports local and remote model hosting.
+- LDAP integration supports enterprise authentication requirements.
+- Data folders are explicit and separable for easier maintenance.
+
+7) Deployment and Support Benefits
+- Faster onboarding for technicians.
+- Lower chance of launching wrong scripts or stale copies.
+- Clear source of truth for runtime and knowledge assets.
+- Cleaner troubleshooting path and faster incident triage.
+
+8) Tradeoffs
+- Historical artifacts are not present in this clean package.
+- Rebuild favors operational clarity over archival completeness.
+
+9) Recommendation
+Treat this clean package as the new baseline, and evolve with disciplined change control,
+validation checklists, and periodic dependency and data refresh.
+
+End of document.

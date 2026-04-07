@@ -1,0 +1,35 @@
+diff --git a/node_modules/@develar/schema-utils/dist/validate.js b/node_modules/@develar/schema-utils/dist/validate.js
+index 21f43d0..d0ac93f 100644
+--- a/node_modules/@develar/schema-utils/dist/validate.js
++++ b/node_modules/@develar/schema-utils/dist/validate.js
+@@ -44,9 +44,28 @@ const ajv = new _ajv.default({
+   allErrors: true,
+   verbose: true,
+   $data: true,
+-  coerceTypes: true
++  coerceTypes: true,
++  strict: false,
++  strictSchema: false
+ });
+-(0, _ajvKeywords.default)(ajv, ['instanceof', 'formatMinimum', 'formatMaximum', 'patternRequired']); // Custom keywords
++try {
++  (0, _ajvKeywords.default)(ajv, ['instanceof', 'formatMinimum', 'formatMaximum', 'patternRequired']);
++} catch (error) {
++  const message = error && error.message ? error.message : '';
++
++  if (message.includes('Unknown keyword formatMinimum') || message.includes('Unknown keyword formatMaximum')) {
++    try {
++      const ajvFormats = require('ajv-formats');
++      ajvFormats(ajv, {
++        keywords: true
++      });
++    } catch (formatError) {}
++
++    (0, _ajvKeywords.default)(ajv, ['patternRequired']);
++  } else {
++    throw error;
++  }
++} // Custom keywords
+ 
+ (0, _absolutePath.default)(ajv);
+ /**

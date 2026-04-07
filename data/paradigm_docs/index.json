@@ -1,0 +1,2500 @@
+{
+  "source": "https://docs.goparagon.com/",
+  "categories": {
+    "Accounting": {
+      "url": "https://docs.goparagon.com/kb-category/accounting/",
+      "articles": [
+        {
+          "title": "General Journal Entries",
+          "url": "https://docs.goparagon.com/kb/general-journal-entries/",
+          "path": "data/paradigm_docs/general-journal-entries.md"
+        },
+        {
+          "title": "Return Payments",
+          "url": "https://docs.goparagon.com/kb/return-payments/",
+          "path": "data/paradigm_docs/return-payments.md"
+        },
+        {
+          "title": "Cash Payment Rounding Level",
+          "url": "https://docs.goparagon.com/kb/cash-payment-rounding-level/",
+          "path": "data/paradigm_docs/cash-payment-rounding-level.md"
+        },
+        {
+          "title": "Month End Close",
+          "url": "https://docs.goparagon.com/kb/month-end-close/",
+          "path": "data/paradigm_docs/month-end-close.md"
+        },
+        {
+          "title": "Intercompany Transactions",
+          "url": "https://docs.goparagon.com/kb/intercompany-transactions/",
+          "path": "data/paradigm_docs/intercompany-transactions.md"
+        },
+        {
+          "title": "Next Check Number",
+          "url": "https://docs.goparagon.com/kb/next-check-number/",
+          "path": "data/paradigm_docs/next-check-number.md"
+        },
+        {
+          "title": "Departments, Entities, And Locations",
+          "url": "https://docs.goparagon.com/kb/departments-entities-and-locations/",
+          "path": "data/paradigm_docs/departments-entities-and-locations.md"
+        },
+        {
+          "title": "Receivables",
+          "url": "https://docs.goparagon.com/kb/receivables/",
+          "path": "data/paradigm_docs/receivables.md"
+        },
+        {
+          "title": "Factoring Labor Expense Into Finished Good Cost",
+          "url": "https://docs.goparagon.com/kb/factoring-labor-expense-into-finished-good-cost/",
+          "path": "data/paradigm_docs/factoring-labor-expense-into-finished-good-cost.md"
+        },
+        {
+          "title": "Return a Customer Credit Balance",
+          "url": "https://docs.goparagon.com/kb/return-a-customer-credit-balance/",
+          "path": "data/paradigm_docs/return-a-customer-credit-balance.md"
+        },
+        {
+          "title": "Report List",
+          "url": "https://docs.goparagon.com/kb/report-list/",
+          "path": "data/paradigm_docs/report-list.md"
+        },
+        {
+          "title": "Write Off Bad Debts",
+          "url": "https://docs.goparagon.com/kb/write-off-bad-debts/",
+          "path": "data/paradigm_docs/write-off-bad-debts.md"
+        },
+        {
+          "title": "Sales Tax Code Set Up",
+          "url": "https://docs.goparagon.com/kb/sales-tax-code-setup/",
+          "path": "data/paradigm_docs/sales-tax-code-set-up.md"
+        },
+        {
+          "title": "Financial Analysis Tool",
+          "url": "https://docs.goparagon.com/kb/financial-analysis-tool/",
+          "path": "data/paradigm_docs/financial-analysis-tool.md"
+        },
+        {
+          "title": "Positive Pay Export",
+          "url": "https://docs.goparagon.com/kb/positive-pay-export/",
+          "path": "data/paradigm_docs/positive-pay-export.md"
+        },
+        {
+          "title": "Bank Feed",
+          "url": "https://docs.goparagon.com/kb/bank-feed/",
+          "path": "data/paradigm_docs/bank-feed.md"
+        },
+        {
+          "title": "Payroll Options",
+          "url": "https://docs.goparagon.com/kb/payroll-options/",
+          "path": "data/paradigm_docs/payroll-options.md"
+        },
+        {
+          "title": "Bank Reconciliations",
+          "url": "https://docs.goparagon.com/kb/bank-reconciliations/",
+          "path": "data/paradigm_docs/bank-reconciliations.md"
+        },
+        {
+          "title": "Recording Cash Back On A Debit Card Transaction",
+          "url": "https://docs.goparagon.com/kb/recording-cash-back-on-a-debit-card-transaction/",
+          "path": "data/paradigm_docs/recording-cash-back-on-a-debit-card-transaction.md"
+        },
+        {
+          "title": "Loans",
+          "url": "https://docs.goparagon.com/kb/loans/",
+          "path": "data/paradigm_docs/loans.md"
+        },
+        {
+          "title": "Paying Sales Tax",
+          "url": "https://docs.goparagon.com/kb/paying-sales-tax/",
+          "path": "data/paradigm_docs/paying-sales-tax.md"
+        },
+        {
+          "title": "Raw Material vs Finished Good Material Inventory Tracking",
+          "url": "https://docs.goparagon.com/kb/raw-material-vs-finished-good-material-inventory-tracking/",
+          "path": "data/paradigm_docs/raw-material-vs-finished-good-material-inventory-tracking.md"
+        },
+        {
+          "title": "Vendor Default Expense Account",
+          "url": "https://docs.goparagon.com/kb/vendor-default-expense-account/",
+          "path": "data/paradigm_docs/vendor-default-expense-account.md"
+        },
+        {
+          "title": "Bill Entry",
+          "url": "https://docs.goparagon.com/kb/bill-entry/",
+          "path": "data/paradigm_docs/bill-entry.md"
+        },
+        {
+          "title": "Depreciation",
+          "url": "https://docs.goparagon.com/kb/depreciation/",
+          "path": "data/paradigm_docs/depreciation.md"
+        },
+        {
+          "title": "Cash vs Accrual Accounting Method",
+          "url": "https://docs.goparagon.com/kb/cash-vs-accrual-accounting-method/",
+          "path": "data/paradigm_docs/cash-vs-accrual-accounting-method.md"
+        },
+        {
+          "title": "Bank Account Linking",
+          "url": "https://docs.goparagon.com/kb/bank-account-linking/",
+          "path": "data/paradigm_docs/bank-account-linking.md"
+        },
+        {
+          "title": "Currency Conversion",
+          "url": "https://docs.goparagon.com/kb/currency-conversion/",
+          "path": "data/paradigm_docs/currency-conversion.md"
+        },
+        {
+          "title": "Budgets",
+          "url": "https://docs.goparagon.com/kb/budgets/",
+          "path": "data/paradigm_docs/budgets.md"
+        },
+        {
+          "title": "Overpayments",
+          "url": "https://docs.goparagon.com/kb/overpayments/",
+          "path": "data/paradigm_docs/overpayments.md"
+        },
+        {
+          "title": "Default GL Accounts",
+          "url": "https://docs.goparagon.com/kb/default-gl-accounts/",
+          "path": "data/paradigm_docs/default-gl-accounts.md"
+        },
+        {
+          "title": "Favorited Transactions",
+          "url": "https://docs.goparagon.com/kb/favorited-transactions/",
+          "path": "data/paradigm_docs/favorited-transactions.md"
+        },
+        {
+          "title": "Bank Account List",
+          "url": "https://docs.goparagon.com/kb/bank-account-list/",
+          "path": "data/paradigm_docs/bank-account-list.md"
+        },
+        {
+          "title": "Import Credit Card Transactions",
+          "url": "https://docs.goparagon.com/kb/credit-card-transaction-import/",
+          "path": "data/paradigm_docs/import-credit-card-transactions.md"
+        },
+        {
+          "title": "Credit Card Charges",
+          "url": "https://docs.goparagon.com/kb/credit-card-charges/",
+          "path": "data/paradigm_docs/credit-card-charges.md"
+        },
+        {
+          "title": "Writing Off AP balances",
+          "url": "https://docs.goparagon.com/kb/writing-off-ap-balances/",
+          "path": "data/paradigm_docs/writing-off-ap-balances.md"
+        },
+        {
+          "title": "GL Recap",
+          "url": "https://docs.goparagon.com/kb/gl-recap/",
+          "path": "data/paradigm_docs/gl-recap.md"
+        },
+        {
+          "title": "Track Discounts in GL",
+          "url": "https://docs.goparagon.com/kb/track-discounts-in-gl/",
+          "path": "data/paradigm_docs/track-discounts-in-gl.md"
+        },
+        {
+          "title": "Closing A Fiscal Year",
+          "url": "https://docs.goparagon.com/kb/closing-a-fiscal-year/",
+          "path": "data/paradigm_docs/closing-a-fiscal-year.md"
+        },
+        {
+          "title": "Create GL Accounts",
+          "url": "https://docs.goparagon.com/kb/create-gl-accounts/",
+          "path": "data/paradigm_docs/create-gl-accounts.md"
+        },
+        {
+          "title": "Cost Methods",
+          "url": "https://docs.goparagon.com/kb/cost-methods/",
+          "path": "data/paradigm_docs/cost-methods.md"
+        },
+        {
+          "title": "Checks & Withdrawals",
+          "url": "https://docs.goparagon.com/kb/checks-withdrawals/",
+          "path": "data/paradigm_docs/checks-withdrawals.md"
+        },
+        {
+          "title": "Average Cost Calculation",
+          "url": "https://docs.goparagon.com/kb/average-cost-calculation/",
+          "path": "data/paradigm_docs/average-cost-calculation.md"
+        },
+        {
+          "title": "How to Mark Items as Taxable and Nontaxable",
+          "url": "https://docs.goparagon.com/kb/how-to-mark-items-as-taxable-and-nontaxable/",
+          "path": "data/paradigm_docs/how-to-mark-items-as-taxable-and-nontaxable.md"
+        },
+        {
+          "title": "How to Do a Book-to-System Inventory Valuation Adjustment",
+          "url": "https://docs.goparagon.com/kb/how-to-do-a-book-to-system-inventory-valuation-adjustment/",
+          "path": "data/paradigm_docs/how-to-do-a-book-to-system-inventory-valuation-adjustment.md"
+        },
+        {
+          "title": "Store Use Items",
+          "url": "https://docs.goparagon.com/kb/store-use-items/",
+          "path": "data/paradigm_docs/store-use-items.md"
+        },
+        {
+          "title": "Report Preview",
+          "url": "https://docs.goparagon.com/kb/report-preview/",
+          "path": "data/paradigm_docs/report-preview.md"
+        },
+        {
+          "title": "Journal Entry Import Format",
+          "url": "https://docs.goparagon.com/kb/journal-entry-import-format/",
+          "path": "data/paradigm_docs/journal-entry-import-format.md"
+        },
+        {
+          "title": "Finance Charges",
+          "url": "https://docs.goparagon.com/kb/finance-charges/",
+          "path": "data/paradigm_docs/finance-charges.md"
+        },
+        {
+          "title": "How to Create Bank Deposits",
+          "url": "https://docs.goparagon.com/kb/how-to-create-bank-deposits/",
+          "path": "data/paradigm_docs/how-to-create-bank-deposits.md"
+        },
+        {
+          "title": "Vendor Credits Paid Back to Credit Card",
+          "url": "https://docs.goparagon.com/kb/vendor-credits-paid-back-to-credit-card/",
+          "path": "data/paradigm_docs/vendor-credits-paid-back-to-credit-card.md"
+        },
+        {
+          "title": "Applying A Contact\u2019s Customer Invoice Towards their Vendor Purchase Invoices",
+          "url": "https://docs.goparagon.com/kb/applying-a-contacts-customer-invoice-towards-their-vendor-purchase-invoices/",
+          "path": "data/paradigm_docs/applying-a-contact-s-customer-invoice-towards-their-vendor-purchase-invoices.md"
+        },
+        {
+          "title": "Bookkeeping Tips And Tricks",
+          "url": "https://docs.goparagon.com/kb/bookkeeping-tips-and-tricks/",
+          "path": "data/paradigm_docs/bookkeeping-tips-and-tricks.md"
+        },
+        {
+          "title": "1099 Processing",
+          "url": "https://docs.goparagon.com/kb/1099-processing/",
+          "path": "data/paradigm_docs/1099-processing.md"
+        },
+        {
+          "title": "Correct a Prepayment Received for the Wrong Customer",
+          "url": "https://docs.goparagon.com/kb/correct-a-prepayment-received-for-the-wrong-customer/",
+          "path": "data/paradigm_docs/correct-a-prepayment-received-for-the-wrong-customer.md"
+        }
+      ]
+    },
+    "Add-Ons and Integrations": {
+      "url": "https://docs.goparagon.com/kb-category/add-ons-integrations/",
+      "articles": [
+        {
+          "title": "Integrated ACH Payments Addon",
+          "url": "https://docs.goparagon.com/kb/integrated-ach-payments-addon/",
+          "path": "data/paradigm_docs/integrated-ach-payments-addon.md"
+        },
+        {
+          "title": "Trim Draw",
+          "url": "https://docs.goparagon.com/kb/trim-draw/",
+          "path": "data/paradigm_docs/trim-draw.md"
+        },
+        {
+          "title": "Samsara Integration",
+          "url": "https://docs.goparagon.com/kb/samsara-integration/",
+          "path": "data/paradigm_docs/samsara-integration.md"
+        },
+        {
+          "title": "Managing EBizCharge Saved Credit Cards",
+          "url": "https://docs.goparagon.com/kb/managing-ebizcharge-saved-credit-cards/",
+          "path": "data/paradigm_docs/managing-ebizcharge-saved-credit-cards.md"
+        },
+        {
+          "title": "DataHub",
+          "url": "https://docs.goparagon.com/kb/datahub/",
+          "path": "data/paradigm_docs/datahub.md"
+        },
+        {
+          "title": "AvaTax Integration",
+          "url": "https://docs.goparagon.com/kb/avatax-integration/",
+          "path": "data/paradigm_docs/avatax-integration.md"
+        },
+        {
+          "title": "Paradigm Mobile: Overview",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-overview/",
+          "path": "data/paradigm_docs/paradigm-mobile-overview.md"
+        },
+        {
+          "title": "Paradigm Mobile: Vendor List",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-vendor-list/",
+          "path": "data/paradigm_docs/paradigm-mobile-vendor-list.md"
+        },
+        {
+          "title": "Paradigm Mobile: Inventory",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-inventory/",
+          "path": "data/paradigm_docs/paradigm-mobile-inventory.md"
+        },
+        {
+          "title": "Online Payments",
+          "url": "https://docs.goparagon.com/kb/online-payments/",
+          "path": "data/paradigm_docs/online-payments.md"
+        },
+        {
+          "title": "Do It Best Integration",
+          "url": "https://docs.goparagon.com/kb/do-it-best-integration/",
+          "path": "data/paradigm_docs/do-it-best-integration.md"
+        },
+        {
+          "title": "Configuring A Product For Export to Variobend",
+          "url": "https://docs.goparagon.com/kb/configuring-a-product-for-export-to-variobend/",
+          "path": "data/paradigm_docs/configuring-a-product-for-export-to-variobend.md"
+        },
+        {
+          "title": "PARADIGM CONNECTOR END USER LICENSE AGREEMENT",
+          "url": "https://docs.goparagon.com/kb/paradigm-connector-end-user-license-agreement/",
+          "path": "data/paradigm_docs/paradigm-connector-end-user-license-agreement.md"
+        },
+        {
+          "title": "Paradigm Mobile: Privacy Policy",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-privacy-policy/",
+          "path": "data/paradigm_docs/paradigm-mobile-privacy-policy.md"
+        },
+        {
+          "title": "SmartBuild Import On Quotes And Orders",
+          "url": "https://docs.goparagon.com/kb/smartbuild-import-on-quotes-and-orders/",
+          "path": "data/paradigm_docs/smartbuild-import-on-quotes-and-orders.md"
+        },
+        {
+          "title": "Paradigm Privacy Policy",
+          "url": "https://docs.goparagon.com/kb/paradigm-privacy-policy/",
+          "path": "data/paradigm_docs/paradigm-privacy-policy.md"
+        },
+        {
+          "title": "UPS Worldship Integration",
+          "url": "https://docs.goparagon.com/kb/ups-worldship-integration/",
+          "path": "data/paradigm_docs/ups-worldship-integration.md"
+        },
+        {
+          "title": "Motive Integration",
+          "url": "https://docs.goparagon.com/kb/motive-integration/",
+          "path": "data/paradigm_docs/motive-integration.md"
+        },
+        {
+          "title": "DataHub: Preferences",
+          "url": "https://docs.goparagon.com/kb/datahub-preferences/",
+          "path": "data/paradigm_docs/datahub-preferences.md"
+        },
+        {
+          "title": "DataHub: Pending Purchases",
+          "url": "https://docs.goparagon.com/kb/datahub-pending-purchases/",
+          "path": "data/paradigm_docs/datahub-pending-purchases.md"
+        },
+        {
+          "title": "DataHub: Pending Orders",
+          "url": "https://docs.goparagon.com/kb/datahub-pending-orders/",
+          "path": "data/paradigm_docs/datahub-pending-orders.md"
+        },
+        {
+          "title": "DataHub: Price Changes and Item Updates",
+          "url": "https://docs.goparagon.com/kb/datahub-price-changes-and-item-updates/",
+          "path": "data/paradigm_docs/datahub-price-changes-and-item-updates.md"
+        },
+        {
+          "title": "Paradigm Mobile: Trips",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-trips/",
+          "path": "data/paradigm_docs/paradigm-mobile-trips.md"
+        },
+        {
+          "title": "Paradigm Mobile: Delivery",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-delivery/",
+          "path": "data/paradigm_docs/paradigm-mobile-delivery.md"
+        },
+        {
+          "title": "Paradigm Mobile: Customer List",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-customer-list/",
+          "path": "data/paradigm_docs/paradigm-mobile-customer-list.md"
+        },
+        {
+          "title": "Paradigm Mobile: Settings",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-settings/",
+          "path": "data/paradigm_docs/paradigm-mobile-settings.md"
+        },
+        {
+          "title": "Paradigm Mobile: Receipt Capture",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-receipt-capture/",
+          "path": "data/paradigm_docs/paradigm-mobile-receipt-capture.md"
+        },
+        {
+          "title": "Paradigm Mobile: Task List",
+          "url": "https://docs.goparagon.com/kb/paradigm-mobile-task-list/",
+          "path": "data/paradigm_docs/paradigm-mobile-task-list.md"
+        },
+        {
+          "title": "Maintenance Tracking Addon",
+          "url": "https://docs.goparagon.com/kb/maintenance-tracking-addon/",
+          "path": "data/paradigm_docs/maintenance-tracking-addon.md"
+        },
+        {
+          "title": "Shelf Label Print Tool",
+          "url": "https://docs.goparagon.com/kb/shelf-label-printing-tool/",
+          "path": "data/paradigm_docs/shelf-label-print-tool.md"
+        },
+        {
+          "title": "Store Management App",
+          "url": "https://docs.goparagon.com/kb/store-management-app/",
+          "path": "data/paradigm_docs/store-management-app.md"
+        }
+      ]
+    },
+    "Administration and Setup": {
+      "url": "https://docs.goparagon.com/kb-category/administration-and-setup/",
+      "articles": [
+        {
+          "title": "Credit Card Processing Set Up",
+          "url": "https://docs.goparagon.com/kb/credit-card-processing-setup/",
+          "path": "data/paradigm_docs/credit-card-processing-set-up.md"
+        },
+        {
+          "title": "User Groups",
+          "url": "https://docs.goparagon.com/kb/user-groups/",
+          "path": "data/paradigm_docs/user-groups.md"
+        },
+        {
+          "title": "Reset A Paradigm ERP User Password",
+          "url": "https://docs.goparagon.com/kb/reset-a-paradigm-erp-user-password/",
+          "path": "data/paradigm_docs/reset-a-paradigm-erp-user-password.md"
+        },
+        {
+          "title": "Company Preferences",
+          "url": "https://docs.goparagon.com/kb/company-preferences/",
+          "path": "data/paradigm_docs/company-preferences.md"
+        },
+        {
+          "title": "Data Utilities: Update And Delete",
+          "url": "https://docs.goparagon.com/kb/data-utilities-update-and-delete/",
+          "path": "data/paradigm_docs/data-utilities-update-and-delete.md"
+        },
+        {
+          "title": "Remaining DB Space",
+          "url": "https://docs.goparagon.com/kb/remaining-db-space/",
+          "path": "data/paradigm_docs/remaining-db-space.md"
+        },
+        {
+          "title": "Custom Business Logic",
+          "url": "https://docs.goparagon.com/kb/custom-business-logic/",
+          "path": "data/paradigm_docs/custom-business-logic.md"
+        },
+        {
+          "title": "Update/Install Paradigm",
+          "url": "https://docs.goparagon.com/kb/update-install-paradigm/",
+          "path": "data/paradigm_docs/update-install-paradigm.md"
+        },
+        {
+          "title": "Creating Users and User Security",
+          "url": "https://docs.goparagon.com/kb/creating-users-and-user-security/",
+          "path": "data/paradigm_docs/creating-users-and-user-security.md"
+        },
+        {
+          "title": "Create Employee Web Logins",
+          "url": "https://docs.goparagon.com/kb/create-employee-web-logins/",
+          "path": "data/paradigm_docs/create-employee-web-logins.md"
+        },
+        {
+          "title": "Payment Terms",
+          "url": "https://docs.goparagon.com/kb/payment-terms/",
+          "path": "data/paradigm_docs/payment-terms.md"
+        },
+        {
+          "title": "Report Security",
+          "url": "https://docs.goparagon.com/kb/report-security/",
+          "path": "data/paradigm_docs/report-security.md"
+        },
+        {
+          "title": "Set Up Emailing From Paradigm",
+          "url": "https://docs.goparagon.com/kb/setup-emailing-from-paradigm/",
+          "path": "data/paradigm_docs/set-up-emailing-from-paradigm.md"
+        },
+        {
+          "title": "Connect a Credit Card Reader to An EBizCharge Account",
+          "url": "https://docs.goparagon.com/kb/connect-a-credit-card-reader-to-an-ebizcharge-account/",
+          "path": "data/paradigm_docs/connect-a-credit-card-reader-to-an-ebizcharge-account.md"
+        },
+        {
+          "title": "Paradigm Dashboards",
+          "url": "https://docs.goparagon.com/kb/paradigm-dashboards/",
+          "path": "data/paradigm_docs/paradigm-dashboards.md"
+        },
+        {
+          "title": "Windows Location Access",
+          "url": "https://docs.goparagon.com/kb/windows-location-access/",
+          "path": "data/paradigm_docs/windows-location-access.md"
+        },
+        {
+          "title": "Cloud Server Hosting",
+          "url": "https://docs.goparagon.com/kb/cloud-server-hosting/",
+          "path": "data/paradigm_docs/cloud-server-hosting.md"
+        },
+        {
+          "title": "Creating Employees",
+          "url": "https://docs.goparagon.com/kb/creating-employees/",
+          "path": "data/paradigm_docs/creating-employees.md"
+        },
+        {
+          "title": "Web Browser Failed To Load",
+          "url": "https://docs.goparagon.com/kb/web-browser-failed-to-load/",
+          "path": "data/paradigm_docs/web-browser-failed-to-load.md"
+        },
+        {
+          "title": "Paradigm API",
+          "url": "https://docs.goparagon.com/kb/paradigm-api/",
+          "path": "data/paradigm_docs/paradigm-api.md"
+        },
+        {
+          "title": "User Preferences",
+          "url": "https://docs.goparagon.com/kb/user-preferences/",
+          "path": "data/paradigm_docs/user-preferences.md"
+        },
+        {
+          "title": "ZIP Codes",
+          "url": "https://docs.goparagon.com/kb/setting-up-zip-codes/",
+          "path": "data/paradigm_docs/zip-codes.md"
+        },
+        {
+          "title": "Using the Paradigm Payroll Importer",
+          "url": "https://docs.goparagon.com/kb/using-the-payroll-import/",
+          "path": "data/paradigm_docs/using-the-paradigm-payroll-importer.md"
+        },
+        {
+          "title": "Payroll Import Set up",
+          "url": "https://docs.goparagon.com/kb/payroll-import-setup/",
+          "path": "data/paradigm_docs/payroll-import-set-up.md"
+        },
+        {
+          "title": "Users Logged In",
+          "url": "https://docs.goparagon.com/kb/users-logged-in/",
+          "path": "data/paradigm_docs/users-logged-in.md"
+        },
+        {
+          "title": "Activate Receipt Printers and Cash drawers for use in Paradigm",
+          "url": "https://docs.goparagon.com/kb/activate-receipt-printers-and-cash-drawers-for-use-in-paradigm/",
+          "path": "data/paradigm_docs/activate-receipt-printers-and-cash-drawers-for-use-in-paradigm.md"
+        },
+        {
+          "title": "How to Set Up an Employee As a Salesperson",
+          "url": "https://docs.goparagon.com/kb/how-to-setup-an-employee-as-a-salesperson/",
+          "path": "data/paradigm_docs/how-to-set-up-an-employee-as-a-salesperson.md"
+        },
+        {
+          "title": "Turning Off Payment Prompts",
+          "url": "https://docs.goparagon.com/kb/turning-off-payment-prompts/",
+          "path": "data/paradigm_docs/turning-off-payment-prompts.md"
+        },
+        {
+          "title": "How to Copy List Layouts and Saved Filters",
+          "url": "https://docs.goparagon.com/kb/how-to-copy-list-layouts-and-saved-filters/",
+          "path": "data/paradigm_docs/how-to-copy-list-layouts-and-saved-filters.md"
+        },
+        {
+          "title": "How to Customize List Layouts",
+          "url": "https://docs.goparagon.com/kb/how-to-customize-form-layouts/",
+          "path": "data/paradigm_docs/how-to-customize-list-layouts.md"
+        },
+        {
+          "title": "State and ZIP Sales Tax Codes",
+          "url": "https://docs.goparagon.com/kb/state-sales-tax-codes/",
+          "path": "data/paradigm_docs/state-and-zip-sales-tax-codes.md"
+        },
+        {
+          "title": "Paradigm Settings, Preferences, and Security Settings Overview",
+          "url": "https://docs.goparagon.com/kb/paradigm-settings-preferences-and-security-settings-overview/",
+          "path": "data/paradigm_docs/paradigm-settings-preferences-and-security-settings-overview.md"
+        },
+        {
+          "title": "Set Up Saved Filters (With Helpful Examples)",
+          "url": "https://docs.goparagon.com/kb/setting-up-saved-filters-with-helpful-examples/",
+          "path": "data/paradigm_docs/set-up-saved-filters-with-helpful-examples.md"
+        },
+        {
+          "title": "Admin Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/admin-tips-and-tricks/",
+          "path": "data/paradigm_docs/admin-tips-and-tricks.md"
+        },
+        {
+          "title": "How to Trigger Searches Inside of Paradigm from an External Source",
+          "url": "https://docs.goparagon.com/kb/how-to-trigger-searches-inside-of-paradigm-from-an-external-source/",
+          "path": "data/paradigm_docs/how-to-trigger-searches-inside-of-paradigm-from-an-external-source.md"
+        },
+        {
+          "title": "Disallow Manual Price Changes",
+          "url": "https://docs.goparagon.com/kb/disallow-manual-price-changes/",
+          "path": "data/paradigm_docs/disallow-manual-price-changes.md"
+        },
+        {
+          "title": "Zebra and SATO Label Printer Set up",
+          "url": "https://docs.goparagon.com/kb/zebra-and-sato-label-printer-setup/",
+          "path": "data/paradigm_docs/zebra-and-sato-label-printer-set-up.md"
+        },
+        {
+          "title": "Default Salesperson",
+          "url": "https://docs.goparagon.com/kb/default-salesperson/",
+          "path": "data/paradigm_docs/default-salesperson.md"
+        },
+        {
+          "title": "Auto Attach",
+          "url": "https://docs.goparagon.com/kb/auto-attach/",
+          "path": "data/paradigm_docs/auto-attach.md"
+        },
+        {
+          "title": "Installing Topaz Signature Pad",
+          "url": "https://docs.goparagon.com/kb/installing-topaz-signature-pad/",
+          "path": "data/paradigm_docs/installing-topaz-signature-pad.md"
+        },
+        {
+          "title": "Restore Deleted Transactions",
+          "url": "https://docs.goparagon.com/kb/restore-deleted-transactions/",
+          "path": "data/paradigm_docs/restore-deleted-transactions.md"
+        },
+        {
+          "title": "Paradigm Shortcut \u2013 Auto Sign In",
+          "url": "https://docs.goparagon.com/kb/paradigm-shortcut/",
+          "path": "data/paradigm_docs/paradigm-shortcut-auto-sign-in.md"
+        },
+        {
+          "title": "Default Printer",
+          "url": "https://docs.goparagon.com/kb/default-printer/",
+          "path": "data/paradigm_docs/default-printer.md"
+        }
+      ]
+    },
+    "Fulfillment Pro": {
+      "url": "https://docs.goparagon.com/kb-category/fulfillment-pro/",
+      "articles": [
+        {
+          "title": "Fulfillment Pro: Employee Filters and Settings",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-employee-filters-and-settings/",
+          "path": "data/paradigm_docs/fulfillment-pro-employee-filters-and-settings.md"
+        },
+        {
+          "title": "Fulfillment Pro: Pulling (Picking)",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-pulling-picking/",
+          "path": "data/paradigm_docs/fulfillment-pro-pulling-picking.md"
+        },
+        {
+          "title": "Fulfillment Pro: Filtering",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-filtering/",
+          "path": "data/paradigm_docs/fulfillment-pro-filtering.md"
+        },
+        {
+          "title": "Fulfillment Pro: Shipping",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-shipping/",
+          "path": "data/paradigm_docs/fulfillment-pro-shipping.md"
+        },
+        {
+          "title": "Fulfillment Pro: Set Up",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-set-up/",
+          "path": "data/paradigm_docs/fulfillment-pro-set-up.md"
+        },
+        {
+          "title": "Fulfillment Pro: Receiving",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-receiving/",
+          "path": "data/paradigm_docs/fulfillment-pro-receiving.md"
+        },
+        {
+          "title": "Fulfillment Pro: Company Set Up",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-company-set-up/",
+          "path": "data/paradigm_docs/fulfillment-pro-company-set-up.md"
+        },
+        {
+          "title": "Fulfillment Pro: Quality Control",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-quality-control/",
+          "path": "data/paradigm_docs/fulfillment-pro-quality-control.md"
+        },
+        {
+          "title": "Fulfillment Pro: Import From Vendor",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-import-from-vendor/",
+          "path": "data/paradigm_docs/fulfillment-pro-import-from-vendor.md"
+        },
+        {
+          "title": "Why Is This Order Not Showing In Fulfillment Pro?",
+          "url": "https://docs.goparagon.com/kb/why-is-this-order-not-showing-in-fulfillment-pro/",
+          "path": "data/paradigm_docs/why-is-this-order-not-showing-in-fulfillment-pro.md"
+        },
+        {
+          "title": "Fulfillment Pro: Unlocking",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-unlocking/",
+          "path": "data/paradigm_docs/fulfillment-pro-unlocking.md"
+        },
+        {
+          "title": "Fulfillment Pro: Pulled By Salesperson",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-pulled-by-salesperson/",
+          "path": "data/paradigm_docs/fulfillment-pro-pulled-by-salesperson.md"
+        },
+        {
+          "title": "Fulfillment Pro: Keyboard Shortcuts",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-keyboard-shortcuts/",
+          "path": "data/paradigm_docs/fulfillment-pro-keyboard-shortcuts.md"
+        },
+        {
+          "title": "Fulfillment Pro: Popup Number Pad",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-number-pad/",
+          "path": "data/paradigm_docs/fulfillment-pro-popup-number-pad.md"
+        },
+        {
+          "title": "Fulfillment Pro: Dashboard",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-dashboard/",
+          "path": "data/paradigm_docs/fulfillment-pro-dashboard.md"
+        },
+        {
+          "title": "Fulfillment Pro: Browser Settings",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-browser-settings/",
+          "path": "data/paradigm_docs/fulfillment-pro-browser-settings.md"
+        },
+        {
+          "title": "Fulfillment Pro: Back Ordering",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-back-ordering/",
+          "path": "data/paradigm_docs/fulfillment-pro-back-ordering.md"
+        },
+        {
+          "title": "Fulfillment Pro: Lots",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-lots/",
+          "path": "data/paradigm_docs/fulfillment-pro-lots.md"
+        },
+        {
+          "title": "Fulfillment Pro: Location Claiming",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-location-claiming/",
+          "path": "data/paradigm_docs/fulfillment-pro-location-claiming.md"
+        },
+        {
+          "title": "Fulfillment Pro: Lookup",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-lookup/",
+          "path": "data/paradigm_docs/fulfillment-pro-lookup.md"
+        },
+        {
+          "title": "Fulfillment Pro: Kiosk Printing",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-kiosk-printing/",
+          "path": "data/paradigm_docs/fulfillment-pro-kiosk-printing.md"
+        },
+        {
+          "title": "Fulfillment Pro: Transfers",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-transfers/",
+          "path": "data/paradigm_docs/fulfillment-pro-transfers.md"
+        },
+        {
+          "title": "Fulfillment Pro: Priority Orders",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-priority-orders/",
+          "path": "data/paradigm_docs/fulfillment-pro-priority-orders.md"
+        },
+        {
+          "title": "Fulfillment Pro: Advanced Dropdown",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-advanced-dropdown/",
+          "path": "data/paradigm_docs/fulfillment-pro-advanced-dropdown.md"
+        },
+        {
+          "title": "Fulfillment Pro: Tracking Progress In Paradigm",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-tracking-progress-in-paradigm/",
+          "path": "data/paradigm_docs/fulfillment-pro-tracking-progress-in-paradigm.md"
+        },
+        {
+          "title": "Fulfillment Pro: Miscellaneous",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-miscellaneous/",
+          "path": "data/paradigm_docs/fulfillment-pro-miscellaneous.md"
+        },
+        {
+          "title": "Fulfillment Pro: Packing",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-packing/",
+          "path": "data/paradigm_docs/fulfillment-pro-packing.md"
+        },
+        {
+          "title": "Fulfillment Pro: Label Splitting",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-label-splitting/",
+          "path": "data/paradigm_docs/fulfillment-pro-label-splitting.md"
+        },
+        {
+          "title": "Fulfillment Pro: Staging Areas",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-staging-areas/",
+          "path": "data/paradigm_docs/fulfillment-pro-staging-areas.md"
+        },
+        {
+          "title": "Fulfillment Pro: Enabling Tablet Camera",
+          "url": "https://docs.goparagon.com/kb/enable-chrome-camera-on-tablets/",
+          "path": "data/paradigm_docs/fulfillment-pro-enabling-tablet-camera.md"
+        }
+      ]
+    },
+    "General": {
+      "url": "https://docs.goparagon.com/kb-category/general/",
+      "articles": [
+        {
+          "title": "Emailing From Paradigm",
+          "url": "https://docs.goparagon.com/kb/emailing-from-paradigm/",
+          "path": "data/paradigm_docs/emailing-from-paradigm.md"
+        },
+        {
+          "title": "Conversations",
+          "url": "https://docs.goparagon.com/kb/conversations/",
+          "path": "data/paradigm_docs/conversations.md"
+        },
+        {
+          "title": "File Management & Attachments",
+          "url": "https://docs.goparagon.com/kb/file-management-attachments/",
+          "path": "data/paradigm_docs/file-management-attachments.md"
+        },
+        {
+          "title": "Themes",
+          "url": "https://docs.goparagon.com/kb/themes/",
+          "path": "data/paradigm_docs/themes.md"
+        },
+        {
+          "title": "Reset the Directory for Paradigm",
+          "url": "https://docs.goparagon.com/kb/reset-the-directory-for-paradigm/",
+          "path": "data/paradigm_docs/reset-the-directory-for-paradigm.md"
+        },
+        {
+          "title": "Paradigm Log Files",
+          "url": "https://docs.goparagon.com/kb/paradigm-log-files/",
+          "path": "data/paradigm_docs/paradigm-log-files.md"
+        },
+        {
+          "title": "Exporting From QuickBooks",
+          "url": "https://docs.goparagon.com/kb/exporting-from-quickbooks/",
+          "path": "data/paradigm_docs/exporting-from-quickbooks.md"
+        },
+        {
+          "title": "Transaction List Summary Columns",
+          "url": "https://docs.goparagon.com/kb/transaction-list-summary-columns/",
+          "path": "data/paradigm_docs/transaction-list-summary-columns.md"
+        },
+        {
+          "title": "Paradigm Update Blocked",
+          "url": "https://docs.goparagon.com/kb/paradigm-update-blocked/",
+          "path": "data/paradigm_docs/paradigm-update-blocked.md"
+        },
+        {
+          "title": "Right Click Options",
+          "url": "https://docs.goparagon.com/kb/right-click-list-options/",
+          "path": "data/paradigm_docs/right-click-options.md"
+        },
+        {
+          "title": "Customize Column Layouts",
+          "url": "https://docs.goparagon.com/kb/columns/",
+          "path": "data/paradigm_docs/customize-column-layouts.md"
+        },
+        {
+          "title": "Record Duplication",
+          "url": "https://docs.goparagon.com/kb/record-duplication/",
+          "path": "data/paradigm_docs/record-duplication.md"
+        },
+        {
+          "title": "Error \u2013 Posting Aborted to Prevent Double Posting",
+          "url": "https://docs.goparagon.com/kb/error-posting-aborted-to-prevent-double-posting/",
+          "path": "data/paradigm_docs/error-posting-aborted-to-prevent-double-posting.md"
+        },
+        {
+          "title": "Audit Trail",
+          "url": "https://docs.goparagon.com/kb/audit-trail/",
+          "path": "data/paradigm_docs/audit-trail.md"
+        },
+        {
+          "title": "Tab Controls",
+          "url": "https://docs.goparagon.com/kb/tab-controls/",
+          "path": "data/paradigm_docs/tab-controls.md"
+        },
+        {
+          "title": "Keyboard Shortcuts",
+          "url": "https://docs.goparagon.com/kb/keyboard-shortcuts/",
+          "path": "data/paradigm_docs/keyboard-shortcuts.md"
+        },
+        {
+          "title": "File Dropdown",
+          "url": "https://docs.goparagon.com/kb/file-dropdown/",
+          "path": "data/paradigm_docs/file-dropdown.md"
+        },
+        {
+          "title": "Log And Tasks",
+          "url": "https://docs.goparagon.com/kb/log-and-tasks/",
+          "path": "data/paradigm_docs/log-and-tasks.md"
+        },
+        {
+          "title": "Paradigm Transaction Numbering",
+          "url": "https://docs.goparagon.com/kb/paradigm-transaction-numbering/",
+          "path": "data/paradigm_docs/paradigm-transaction-numbering.md"
+        },
+        {
+          "title": "Exporting from Lists",
+          "url": "https://docs.goparagon.com/kb/exporting-from-lists/",
+          "path": "data/paradigm_docs/exporting-from-lists.md"
+        },
+        {
+          "title": "Reminder List",
+          "url": "https://docs.goparagon.com/kb/reminder-list/",
+          "path": "data/paradigm_docs/reminder-list.md"
+        },
+        {
+          "title": "Paragon Support",
+          "url": "https://docs.goparagon.com/kb/paragon-support/",
+          "path": "data/paradigm_docs/paragon-support.md"
+        },
+        {
+          "title": "Training Videos",
+          "url": "https://docs.goparagon.com/kb/training-videos/",
+          "path": "data/paradigm_docs/training-videos.md"
+        },
+        {
+          "title": "Custom Company Branding",
+          "url": "https://docs.goparagon.com/kb/custom-company-branding/",
+          "path": "data/paradigm_docs/custom-company-branding.md"
+        },
+        {
+          "title": "How to Void A Check",
+          "url": "https://docs.goparagon.com/kb/how-to-void-a-check/",
+          "path": "data/paradigm_docs/how-to-void-a-check.md"
+        },
+        {
+          "title": "Printing A Range of Checks",
+          "url": "https://docs.goparagon.com/kb/printing-a-range-of-checks/",
+          "path": "data/paradigm_docs/printing-a-range-of-checks.md"
+        },
+        {
+          "title": "Data Utilities",
+          "url": "https://docs.goparagon.com/kb/data-utilities/",
+          "path": "data/paradigm_docs/data-utilities.md"
+        },
+        {
+          "title": "Reimbursing An Employee",
+          "url": "https://docs.goparagon.com/kb/reimbursing-an-employee/",
+          "path": "data/paradigm_docs/reimbursing-an-employee.md"
+        },
+        {
+          "title": "Message to Print Presets",
+          "url": "https://docs.goparagon.com/kb/message-to-print-presets/",
+          "path": "data/paradigm_docs/message-to-print-presets.md"
+        },
+        {
+          "title": "Advanced List Sorting",
+          "url": "https://docs.goparagon.com/kb/advanced-list-sorting/",
+          "path": "data/paradigm_docs/advanced-list-sorting.md"
+        },
+        {
+          "title": "Why Does the Total from the Sales Reports Not Agree with the Profit and Loss?",
+          "url": "https://docs.goparagon.com/kb/why-does-the-total-from-the-sales-reports-not-agree-with-the-profit-and-loss/",
+          "path": "data/paradigm_docs/why-does-the-total-from-the-sales-reports-not-agree-with-the-profit-and-loss.md"
+        },
+        {
+          "title": "Server Requirements",
+          "url": "https://docs.goparagon.com/kb/server-requirements/",
+          "path": "data/paradigm_docs/server-requirements.md"
+        },
+        {
+          "title": "List Search Shows The Same Line Multiple Times (PO & RFQ Lists)",
+          "url": "https://docs.goparagon.com/kb/list-search-shows-the-same-line-multiple-times-po-rfq-lists/",
+          "path": "data/paradigm_docs/list-search-shows-the-same-line-multiple-times-po-rfq-lists.md"
+        },
+        {
+          "title": "Receipts And Cash Drawers",
+          "url": "https://docs.goparagon.com/kb/receipts-and-cash-drawers/",
+          "path": "data/paradigm_docs/receipts-and-cash-drawers.md"
+        },
+        {
+          "title": "Paradigm Print Servers",
+          "url": "https://docs.goparagon.com/kb/paradigm-print-servers/",
+          "path": "data/paradigm_docs/paradigm-print-servers.md"
+        },
+        {
+          "title": "Cancel and Void",
+          "url": "https://docs.goparagon.com/kb/cancel-and-void/",
+          "path": "data/paradigm_docs/cancel-and-void.md"
+        },
+        {
+          "title": "How Paradigm Counts Users",
+          "url": "https://docs.goparagon.com/kb/how-paradigm-counts-users/",
+          "path": "data/paradigm_docs/how-paradigm-counts-users.md"
+        },
+        {
+          "title": "SmartBuild",
+          "url": "https://docs.goparagon.com/kb/smartbuild/",
+          "path": "data/paradigm_docs/smartbuild.md"
+        },
+        {
+          "title": "Employee Commission",
+          "url": "https://docs.goparagon.com/kb/employee-commission/",
+          "path": "data/paradigm_docs/employee-commission.md"
+        },
+        {
+          "title": "Printing Reports From Lists",
+          "url": "https://docs.goparagon.com/kb/printing-from-lists/",
+          "path": "data/paradigm_docs/printing-reports-from-lists.md"
+        },
+        {
+          "title": "Custom Attributes",
+          "url": "https://docs.goparagon.com/kb/custom-attributes/",
+          "path": "data/paradigm_docs/custom-attributes.md"
+        },
+        {
+          "title": "Inactive Customers and Vendors",
+          "url": "https://docs.goparagon.com/kb/inactive-customer-and-vendors/",
+          "path": "data/paradigm_docs/inactive-customers-and-vendors.md"
+        },
+        {
+          "title": "Summary Tab",
+          "url": "https://docs.goparagon.com/kb/summary-tab/",
+          "path": "data/paradigm_docs/summary-tab.md"
+        },
+        {
+          "title": "Email Batch Form",
+          "url": "https://docs.goparagon.com/kb/email-batch-form/",
+          "path": "data/paradigm_docs/email-batch-form.md"
+        },
+        {
+          "title": "Email Queue",
+          "url": "https://docs.goparagon.com/kb/email-queue/",
+          "path": "data/paradigm_docs/email-queue.md"
+        },
+        {
+          "title": "Workstation Minimum Requirements",
+          "url": "https://docs.goparagon.com/kb/workstation-minimum-requirements/",
+          "path": "data/paradigm_docs/workstation-minimum-requirements.md"
+        },
+        {
+          "title": "Automated Functions in Paradigm",
+          "url": "https://docs.goparagon.com/kb/automated-functions-in-paradigm/",
+          "path": "data/paradigm_docs/automated-functions-in-paradigm.md"
+        },
+        {
+          "title": "Transaction Header Tab Stops",
+          "url": "https://docs.goparagon.com/kb/transaction-header-tab-stops/",
+          "path": "data/paradigm_docs/transaction-header-tab-stops.md"
+        },
+        {
+          "title": "View Related",
+          "url": "https://docs.goparagon.com/kb/view-related/",
+          "path": "data/paradigm_docs/view-related.md"
+        },
+        {
+          "title": "Email Templates",
+          "url": "https://docs.goparagon.com/kb/email-templates/",
+          "path": "data/paradigm_docs/email-templates.md"
+        },
+        {
+          "title": "Paradigm Search All",
+          "url": "https://docs.goparagon.com/kb/paradigm-search-all/",
+          "path": "data/paradigm_docs/paradigm-search-all.md"
+        },
+        {
+          "title": "Paradigm Pricing Overview",
+          "url": "https://docs.goparagon.com/kb/paradigm-pricing-overview/",
+          "path": "data/paradigm_docs/paradigm-pricing-overview.md"
+        },
+        {
+          "title": "Wildcards",
+          "url": "https://docs.goparagon.com/kb/wildcards/",
+          "path": "data/paradigm_docs/wildcards.md"
+        },
+        {
+          "title": "General/Misc Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/general-misc-tips-and-tricks/",
+          "path": "data/paradigm_docs/general-misc-tips-and-tricks.md"
+        },
+        {
+          "title": "How to Use the Task List",
+          "url": "https://docs.goparagon.com/kb/how-to-use-the-task-list/",
+          "path": "data/paradigm_docs/how-to-use-the-task-list.md"
+        },
+        {
+          "title": "Favorite Tabs",
+          "url": "https://docs.goparagon.com/kb/favorite-tabs/",
+          "path": "data/paradigm_docs/favorite-tabs.md"
+        },
+        {
+          "title": "Customize Transaction Form Layouts",
+          "url": "https://docs.goparagon.com/kb/customize-transaction-form-layouts/",
+          "path": "data/paradigm_docs/customize-transaction-form-layouts.md"
+        }
+      ]
+    },
+    "Inventory and Pricing": {
+      "url": "https://docs.goparagon.com/kb-category/inventory-and-pricing/",
+      "articles": [
+        {
+          "title": "Inventory Import: Inventory Item Images",
+          "url": "https://docs.goparagon.com/kb/inventory-import-inventory-item-images/",
+          "path": "data/paradigm_docs/inventory-import-inventory-item-images.md"
+        },
+        {
+          "title": "Item Images",
+          "url": "https://docs.goparagon.com/kb/item-images/",
+          "path": "data/paradigm_docs/item-images.md"
+        },
+        {
+          "title": "Open Hem Mapping",
+          "url": "https://docs.goparagon.com/kb/open-hem-mapping/",
+          "path": "data/paradigm_docs/open-hem-mapping.md"
+        },
+        {
+          "title": "Special Trim Set Up",
+          "url": "https://docs.goparagon.com/kb/special-trim-setup/",
+          "path": "data/paradigm_docs/special-trim-set-up.md"
+        },
+        {
+          "title": "How To Do A Physical Inventory",
+          "url": "https://docs.goparagon.com/kb/how-to-do-a-physical-inventory/",
+          "path": "data/paradigm_docs/how-to-do-a-physical-inventory.md"
+        },
+        {
+          "title": "Physical Inventory Count with Lots",
+          "url": "https://docs.goparagon.com/kb/physical-inventory-count-with-lots/",
+          "path": "data/paradigm_docs/physical-inventory-count-with-lots.md"
+        },
+        {
+          "title": "Excel Imports On Physical Count Worksheets",
+          "url": "https://docs.goparagon.com/kb/excel-imports-on-physical-count-worksheets/",
+          "path": "data/paradigm_docs/excel-imports-on-physical-count-worksheets.md"
+        },
+        {
+          "title": "Receiving Material",
+          "url": "https://docs.goparagon.com/kb/receiving-material/",
+          "path": "data/paradigm_docs/receiving-material.md"
+        },
+        {
+          "title": "Inventory Import & Export",
+          "url": "https://docs.goparagon.com/kb/inventory-import-export/",
+          "path": "data/paradigm_docs/inventory-import-export.md"
+        },
+        {
+          "title": "Set Inventory Standard Cost",
+          "url": "https://docs.goparagon.com/kb/set-inventory-standard-cost/",
+          "path": "data/paradigm_docs/set-inventory-standard-cost.md"
+        },
+        {
+          "title": "Inventory Quick Adjust",
+          "url": "https://docs.goparagon.com/kb/inventory-quick-adjust/",
+          "path": "data/paradigm_docs/inventory-quick-adjust.md"
+        },
+        {
+          "title": "Change A Batch Of Items To Stock Or Non-Stock",
+          "url": "https://docs.goparagon.com/kb/change-a-batch-of-items-to-stock-or-non-stock/",
+          "path": "data/paradigm_docs/change-a-batch-of-items-to-stock-or-non-stock.md"
+        },
+        {
+          "title": "Custom Options",
+          "url": "https://docs.goparagon.com/kb/custom-options/",
+          "path": "data/paradigm_docs/custom-options.md"
+        },
+        {
+          "title": "Change an Item\u2019s Average Cost",
+          "url": "https://docs.goparagon.com/kb/changing-an-items-average-cost/",
+          "path": "data/paradigm_docs/change-an-item-s-average-cost.md"
+        },
+        {
+          "title": "Edit Pricing",
+          "url": "https://docs.goparagon.com/kb/edit-pricing/",
+          "path": "data/paradigm_docs/edit-pricing.md"
+        },
+        {
+          "title": "Edit Pricing Levels",
+          "url": "https://docs.goparagon.com/kb/edit-pricing-levels/",
+          "path": "data/paradigm_docs/edit-pricing-levels.md"
+        },
+        {
+          "title": "How to Create a \u201cManufactured to Order\u201d Inventory Item",
+          "url": "https://docs.goparagon.com/kb/how-to-create-a-manufactured-to-order-inventory-item/",
+          "path": "data/paradigm_docs/how-to-create-a-manufactured-to-order-inventory-item.md"
+        },
+        {
+          "title": "How should Inventory Price Levels be set up and how do they work?",
+          "url": "https://docs.goparagon.com/kb/how-should-inventory-price-levels-be-set-up-and-how-do-they-work/",
+          "path": "data/paradigm_docs/how-should-inventory-price-levels-be-set-up-and-how-do-they-work.md"
+        },
+        {
+          "title": "Inventory Component Substitution",
+          "url": "https://docs.goparagon.com/kb/inventory-component-substitution/",
+          "path": "data/paradigm_docs/inventory-component-substitution.md"
+        },
+        {
+          "title": "Lot-Based Inventory (Track Coil Inventory By Coil ID)",
+          "url": "https://docs.goparagon.com/kb/lot-based-inventory-track-coil-inventory-by-coil-id/",
+          "path": "data/paradigm_docs/lot-based-inventory-track-coil-inventory-by-coil-id.md"
+        },
+        {
+          "title": "SWI Coil Maintenance",
+          "url": "https://docs.goparagon.com/kb/swi-coil-maintenance/",
+          "path": "data/paradigm_docs/swi-coil-maintenance.md"
+        },
+        {
+          "title": "How To Manage Manufactured Item Pricing",
+          "url": "https://docs.goparagon.com/kb/how-to-manage-manufactured-item-pricing/",
+          "path": "data/paradigm_docs/how-to-manage-manufactured-item-pricing.md"
+        },
+        {
+          "title": "Warehouses",
+          "url": "https://docs.goparagon.com/kb/warehouses/",
+          "path": "data/paradigm_docs/warehouses.md"
+        },
+        {
+          "title": "Managing Customer Favorite Trim Drawings",
+          "url": "https://docs.goparagon.com/kb/managing-customer-favorite-trim-drawings/",
+          "path": "data/paradigm_docs/managing-customer-favorite-trim-drawings.md"
+        },
+        {
+          "title": "How to Create an Inventory Item",
+          "url": "https://docs.goparagon.com/kb/how-to-create-an-inventory-item/",
+          "path": "data/paradigm_docs/how-to-create-an-inventory-item.md"
+        },
+        {
+          "title": "Pricing Methods",
+          "url": "https://docs.goparagon.com/kb/pricing-methods/",
+          "path": "data/paradigm_docs/pricing-methods.md"
+        },
+        {
+          "title": "Company Standard Trims",
+          "url": "https://docs.goparagon.com/kb/company-standard-trims/",
+          "path": "data/paradigm_docs/company-standard-trims.md"
+        },
+        {
+          "title": "Inventory Color List",
+          "url": "https://docs.goparagon.com/kb/inventory-color-list/",
+          "path": "data/paradigm_docs/inventory-color-list.md"
+        },
+        {
+          "title": "Import New Item Colors",
+          "url": "https://docs.goparagon.com/kb/import-new-item-colors/",
+          "path": "data/paradigm_docs/import-new-item-colors.md"
+        },
+        {
+          "title": "Inventory Turnover",
+          "url": "https://docs.goparagon.com/kb/inventory-turnover/",
+          "path": "data/paradigm_docs/inventory-turnover.md"
+        },
+        {
+          "title": "Charts",
+          "url": "https://docs.goparagon.com/kb/charts/",
+          "path": "data/paradigm_docs/charts.md"
+        },
+        {
+          "title": "Inventory Import: Inventory Groups",
+          "url": "https://docs.goparagon.com/kb/inventory-import-inventory-groups/",
+          "path": "data/paradigm_docs/inventory-import-inventory-groups.md"
+        },
+        {
+          "title": "Lock/Unlock Prices",
+          "url": "https://docs.goparagon.com/kb/lock-unlock-prices/",
+          "path": "data/paradigm_docs/lock-unlock-prices.md"
+        },
+        {
+          "title": "Slit Coils",
+          "url": "https://docs.goparagon.com/kb/slit-coils/",
+          "path": "data/paradigm_docs/slit-coils.md"
+        },
+        {
+          "title": "Short Length Panels",
+          "url": "https://docs.goparagon.com/kb/short-length-panels/",
+          "path": "data/paradigm_docs/short-length-panels.md"
+        },
+        {
+          "title": "Duplicate Price Levels",
+          "url": "https://docs.goparagon.com/kb/duplicate-price-level/",
+          "path": "data/paradigm_docs/duplicate-price-levels.md"
+        },
+        {
+          "title": "Inventory Import: Inventory Attributes",
+          "url": "https://docs.goparagon.com/kb/inventory-import-inventory-attributes/",
+          "path": "data/paradigm_docs/inventory-import-inventory-attributes.md"
+        },
+        {
+          "title": "Updating Trim Stretchouts",
+          "url": "https://docs.goparagon.com/kb/updating-trim-stretchouts/",
+          "path": "data/paradigm_docs/updating-trim-stretchouts.md"
+        },
+        {
+          "title": "Import New Profiles",
+          "url": "https://docs.goparagon.com/kb/import-new-profiles/",
+          "path": "data/paradigm_docs/import-new-profiles.md"
+        },
+        {
+          "title": "Addon Product",
+          "url": "https://docs.goparagon.com/kb/addon-product/",
+          "path": "data/paradigm_docs/addon-product.md"
+        },
+        {
+          "title": "Shelf Information Preview",
+          "url": "https://docs.goparagon.com/kb/shelf-information-button-preview/",
+          "path": "data/paradigm_docs/shelf-information-preview.md"
+        },
+        {
+          "title": "Low Stock Formatting",
+          "url": "https://docs.goparagon.com/kb/low-stock-formatting/",
+          "path": "data/paradigm_docs/low-stock-formatting.md"
+        },
+        {
+          "title": "Inventory Import: Inventory Vendor",
+          "url": "https://docs.goparagon.com/kb/inventory-import-inventory-vendor/",
+          "path": "data/paradigm_docs/inventory-import-inventory-vendor.md"
+        },
+        {
+          "title": "Color Sets",
+          "url": "https://docs.goparagon.com/kb/color-sets/",
+          "path": "data/paradigm_docs/color-sets.md"
+        },
+        {
+          "title": "Inventory Import: Substitution",
+          "url": "https://docs.goparagon.com/kb/inventory-import-substitution/",
+          "path": "data/paradigm_docs/inventory-import-substitution.md"
+        },
+        {
+          "title": "Inventory Import: Alias",
+          "url": "https://docs.goparagon.com/kb/inventory-import-alias/",
+          "path": "data/paradigm_docs/inventory-import-alias.md"
+        },
+        {
+          "title": "Inventory Import: Production Default",
+          "url": "https://docs.goparagon.com/kb/inventory-import-production-default/",
+          "path": "data/paradigm_docs/inventory-import-production-default.md"
+        },
+        {
+          "title": "Inventory Import: Production",
+          "url": "https://docs.goparagon.com/kb/inventory-import-production/",
+          "path": "data/paradigm_docs/inventory-import-production.md"
+        },
+        {
+          "title": "Inventory Import: Special Prices",
+          "url": "https://docs.goparagon.com/kb/inventory-import-special-prices/",
+          "path": "data/paradigm_docs/inventory-import-special-prices.md"
+        },
+        {
+          "title": "Inventory Import: Price Levels",
+          "url": "https://docs.goparagon.com/kb/inventory-import-price-levels/",
+          "path": "data/paradigm_docs/inventory-import-price-levels.md"
+        },
+        {
+          "title": "Inventory Import: Unit Measure",
+          "url": "https://docs.goparagon.com/kb/inventory-import-unit-measure/",
+          "path": "data/paradigm_docs/inventory-import-unit-measure.md"
+        },
+        {
+          "title": "Inventory Import: Assembly",
+          "url": "https://docs.goparagon.com/kb/inventory-import-assembly/",
+          "path": "data/paradigm_docs/inventory-import-assembly.md"
+        },
+        {
+          "title": "Inventory Import: Inventory By Warehouse",
+          "url": "https://docs.goparagon.com/kb/inventory-import-inventory-by-warehouse/",
+          "path": "data/paradigm_docs/inventory-import-inventory-by-warehouse.md"
+        },
+        {
+          "title": "Cascading Costs from Purchases to Sales for Nonstock Products",
+          "url": "https://docs.goparagon.com/kb/cascading-costs-from-purchases-to-sales-for-nonstock-products/",
+          "path": "data/paradigm_docs/cascading-costs-from-purchases-to-sales-for-nonstock-products.md"
+        },
+        {
+          "title": "Rounding Precision",
+          "url": "https://docs.goparagon.com/kb/rounding-precision/",
+          "path": "data/paradigm_docs/rounding-precision.md"
+        },
+        {
+          "title": "Inventory By Warehouse",
+          "url": "https://docs.goparagon.com/kb/inventory-by-warehouse/",
+          "path": "data/paradigm_docs/inventory-by-warehouse.md"
+        },
+        {
+          "title": "Category and Subcategory",
+          "url": "https://docs.goparagon.com/kb/category-and-subcategory/",
+          "path": "data/paradigm_docs/category-and-subcategory.md"
+        },
+        {
+          "title": "How to Track Mistake Run or Returned Manufactured Items",
+          "url": "https://docs.goparagon.com/kb/how-to-track-mistake-run-or-returned-manufactured-items/",
+          "path": "data/paradigm_docs/how-to-track-mistake-run-or-returned-manufactured-items.md"
+        },
+        {
+          "title": "How to Track CondenStop and DripStop",
+          "url": "https://docs.goparagon.com/kb/how-to-track-condenstop-and-dripstop/",
+          "path": "data/paradigm_docs/how-to-track-condenstop-and-dripstop.md"
+        },
+        {
+          "title": "Prioritize Exclusive Pricing Level Even If Price Is Greater",
+          "url": "https://docs.goparagon.com/kb/prioritize-exclusive-pricing-level-even-if-price-is-greater/",
+          "path": "data/paradigm_docs/prioritize-exclusive-pricing-level-even-if-price-is-greater.md"
+        },
+        {
+          "title": "Pick Up Preferred",
+          "url": "https://docs.goparagon.com/kb/pick-up-preferred/",
+          "path": "data/paradigm_docs/pick-up-preferred.md"
+        },
+        {
+          "title": "Default Lengths",
+          "url": "https://docs.goparagon.com/kb/default-lengths/",
+          "path": "data/paradigm_docs/default-lengths.md"
+        },
+        {
+          "title": "Disallow Release",
+          "url": "https://docs.goparagon.com/kb/disallow-release/",
+          "path": "data/paradigm_docs/disallow-release.md"
+        },
+        {
+          "title": "Multi Warehouse",
+          "url": "https://docs.goparagon.com/kb/multi-warehouse/",
+          "path": "data/paradigm_docs/multi-warehouse.md"
+        },
+        {
+          "title": "LM2 Rounding On Price Levels",
+          "url": "https://docs.goparagon.com/kb/lm2-rounding-on-price-levels/",
+          "path": "data/paradigm_docs/lm2-rounding-on-price-levels.md"
+        },
+        {
+          "title": "Sensitivity Codes",
+          "url": "https://docs.goparagon.com/kb/sensitivity-codes/",
+          "path": "data/paradigm_docs/sensitivity-codes.md"
+        },
+        {
+          "title": "How to Discontinue a Batch of Items",
+          "url": "https://docs.goparagon.com/kb/how-to-discontinue-a-batch-of-items/",
+          "path": "data/paradigm_docs/how-to-discontinue-a-batch-of-items.md"
+        },
+        {
+          "title": "Price Change History",
+          "url": "https://docs.goparagon.com/kb/price-change-history/",
+          "path": "data/paradigm_docs/price-change-history.md"
+        },
+        {
+          "title": "Inventory Count Columns (Warehouse Quantities)",
+          "url": "https://docs.goparagon.com/kb/inventory-count-columns/",
+          "path": "data/paradigm_docs/inventory-count-columns-warehouse-quantities.md"
+        },
+        {
+          "title": "Item Classes",
+          "url": "https://docs.goparagon.com/kb/item-classes/",
+          "path": "data/paradigm_docs/item-classes.md"
+        },
+        {
+          "title": "How to Create Model Attachments",
+          "url": "https://docs.goparagon.com/kb/how-to-create-model-attachments/",
+          "path": "data/paradigm_docs/how-to-create-model-attachments.md"
+        },
+        {
+          "title": "Inventory Transfers",
+          "url": "https://docs.goparagon.com/kb/inventory-transfers/",
+          "path": "data/paradigm_docs/inventory-transfers.md"
+        },
+        {
+          "title": "How to Fix out of Sync Lot Quantities",
+          "url": "https://docs.goparagon.com/kb/how-to-fix-out-of-sync-lot-quantities/",
+          "path": "data/paradigm_docs/how-to-fix-out-of-sync-lot-quantities.md"
+        },
+        {
+          "title": "How do Inventory Special Prices Work?",
+          "url": "https://docs.goparagon.com/kb/how-do-inventory-special-prices-work/",
+          "path": "data/paradigm_docs/how-do-inventory-special-prices-work.md"
+        },
+        {
+          "title": "Promotions",
+          "url": "https://docs.goparagon.com/kb/promotions/",
+          "path": "data/paradigm_docs/promotions.md"
+        },
+        {
+          "title": "Inventory Pricing Columns",
+          "url": "https://docs.goparagon.com/kb/inventory-pricing-columns/",
+          "path": "data/paradigm_docs/inventory-pricing-columns.md"
+        },
+        {
+          "title": "Inventory Warehouse Fields",
+          "url": "https://docs.goparagon.com/kb/inventory-warehouse-fields/",
+          "path": "data/paradigm_docs/inventory-warehouse-fields.md"
+        },
+        {
+          "title": "Unit of Measure Column Names",
+          "url": "https://docs.goparagon.com/kb/inventory-units-of-measure/",
+          "path": "data/paradigm_docs/unit-of-measure-column-names.md"
+        },
+        {
+          "title": "Column Names for Inventory",
+          "url": "https://docs.goparagon.com/kb/column-names-for-inventory/",
+          "path": "data/paradigm_docs/column-names-for-inventory.md"
+        },
+        {
+          "title": "Inventory Tables",
+          "url": "https://docs.goparagon.com/kb/inventory-tables/",
+          "path": "data/paradigm_docs/inventory-tables.md"
+        },
+        {
+          "title": "Value Added Manufacturing Set up (VAM)",
+          "url": "https://docs.goparagon.com/kb/value-added-manufacturing-setup/",
+          "path": "data/paradigm_docs/value-added-manufacturing-set-up-vam.md"
+        },
+        {
+          "title": "Nonexclusive Pricing Levels (Quantity Discounts)",
+          "url": "https://docs.goparagon.com/kb/nonexclusive-pricing-levels-quantity-discounts/",
+          "path": "data/paradigm_docs/nonexclusive-pricing-levels-quantity-discounts.md"
+        },
+        {
+          "title": "Product Finder",
+          "url": "https://docs.goparagon.com/kb/product-finder/",
+          "path": "data/paradigm_docs/product-finder.md"
+        },
+        {
+          "title": "Receive Inventory",
+          "url": "https://docs.goparagon.com/kb/receive-inventory/",
+          "path": "data/paradigm_docs/receive-inventory.md"
+        },
+        {
+          "title": "Minimum Acceptable Margin",
+          "url": "https://docs.goparagon.com/kb/minimum-acceptable-margin/",
+          "path": "data/paradigm_docs/minimum-acceptable-margin.md"
+        },
+        {
+          "title": "Inventory Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/inventory-tips-and-tricks/",
+          "path": "data/paradigm_docs/inventory-tips-and-tricks.md"
+        },
+        {
+          "title": "Inventory Quick Build",
+          "url": "https://docs.goparagon.com/kb/inventory-quick-build/",
+          "path": "data/paradigm_docs/inventory-quick-build.md"
+        },
+        {
+          "title": "Inventory Item Assembly Types",
+          "url": "https://docs.goparagon.com/kb/inventory-item-assembly-types/",
+          "path": "data/paradigm_docs/inventory-item-assembly-types.md"
+        },
+        {
+          "title": "Inventory Discard",
+          "url": "https://docs.goparagon.com/kb/inventory-discard/",
+          "path": "data/paradigm_docs/inventory-discard.md"
+        },
+        {
+          "title": "How To Add Locations To A Warehouse",
+          "url": "https://docs.goparagon.com/kb/how-to-add-locations-to-a-warehouse/",
+          "path": "data/paradigm_docs/how-to-add-locations-to-a-warehouse.md"
+        },
+        {
+          "title": "Discontinued Items",
+          "url": "https://docs.goparagon.com/kb/discontinued-items/",
+          "path": "data/paradigm_docs/discontinued-items.md"
+        },
+        {
+          "title": "Set up UPC Codes For Barcodes and Aliases",
+          "url": "https://docs.goparagon.com/kb/set-up-upc-codes-and-aliases/",
+          "path": "data/paradigm_docs/set-up-upc-codes-for-barcodes-and-aliases.md"
+        },
+        {
+          "title": "TIP (Trim in Process) Unit of Measure",
+          "url": "https://docs.goparagon.com/kb/tip-trim-in-process-unit-of-measure/",
+          "path": "data/paradigm_docs/tip-trim-in-process-unit-of-measure.md"
+        },
+        {
+          "title": "Minimum and Maximum Length",
+          "url": "https://docs.goparagon.com/kb/min-and-max-length/",
+          "path": "data/paradigm_docs/minimum-and-maximum-length.md"
+        },
+        {
+          "title": "Change the Base Unit of Measure Quantity",
+          "url": "https://docs.goparagon.com/kb/change-the-base-unit-of-measure/",
+          "path": "data/paradigm_docs/change-the-base-unit-of-measure-quantity.md"
+        },
+        {
+          "title": "Unit of Measure Set Up",
+          "url": "https://docs.goparagon.com/kb/unit-of-measure-setup/",
+          "path": "data/paradigm_docs/unit-of-measure-set-up.md"
+        }
+      ]
+    },
+    "Job Costing": {
+      "url": "https://docs.goparagon.com/kb-category/job-costing/",
+      "articles": [
+        {
+          "title": "Billable Job Expenses",
+          "url": "https://docs.goparagon.com/kb/billable-job-expenses/",
+          "path": "data/paradigm_docs/billable-job-expenses.md"
+        },
+        {
+          "title": "Job Custom Fields",
+          "url": "https://docs.goparagon.com/kb/job-custom-fields/",
+          "path": "data/paradigm_docs/job-custom-fields.md"
+        },
+        {
+          "title": "Job Refunds",
+          "url": "https://docs.goparagon.com/kb/job-refunds/",
+          "path": "data/paradigm_docs/job-refunds.md"
+        },
+        {
+          "title": "Accounting Flow For The Cost of A WIP Job",
+          "url": "https://docs.goparagon.com/kb/accounting-flow-for-the-cost-of-a-wip-job/",
+          "path": "data/paradigm_docs/accounting-flow-for-the-cost-of-a-wip-job.md"
+        },
+        {
+          "title": "Reassign Purchases to a Different Job",
+          "url": "https://docs.goparagon.com/kb/reassign-purchases-to-a-different-job/",
+          "path": "data/paradigm_docs/reassign-purchases-to-a-different-job.md"
+        },
+        {
+          "title": "Create A Job Transfer for A Purchase Invoice",
+          "url": "https://docs.goparagon.com/kb/create-a-job-transfer-for-a-purchase-invoice/",
+          "path": "data/paradigm_docs/create-a-job-transfer-for-a-purchase-invoice.md"
+        },
+        {
+          "title": "Admin Create Purchase Invoice for Job Transfer",
+          "url": "https://docs.goparagon.com/kb/admin-create-purchase-invoice-for-job-transfer/",
+          "path": "data/paradigm_docs/admin-create-purchase-invoice-for-job-transfer.md"
+        },
+        {
+          "title": "Job Progress Posting",
+          "url": "https://docs.goparagon.com/kb/job-progress-posting/",
+          "path": "data/paradigm_docs/job-progress-posting.md"
+        },
+        {
+          "title": "Job Dashboard",
+          "url": "https://docs.goparagon.com/kb/job-dashboard/",
+          "path": "data/paradigm_docs/job-dashboard.md"
+        },
+        {
+          "title": "Job Classes",
+          "url": "https://docs.goparagon.com/kb/job-classes/",
+          "path": "data/paradigm_docs/job-classes.md"
+        },
+        {
+          "title": "Job Completion And Billing",
+          "url": "https://docs.goparagon.com/kb/job-completion-and-billing/",
+          "path": "data/paradigm_docs/job-completion-and-billing.md"
+        },
+        {
+          "title": "Adding Cost to A Completed Job",
+          "url": "https://docs.goparagon.com/kb/adding-cost-to-a-completed-job/",
+          "path": "data/paradigm_docs/adding-cost-to-a-completed-job.md"
+        },
+        {
+          "title": "Creating And Converting Job Orders",
+          "url": "https://docs.goparagon.com/kb/creating-and-converting-job-orders/",
+          "path": "data/paradigm_docs/creating-and-converting-job-orders.md"
+        },
+        {
+          "title": "Job Prepayments",
+          "url": "https://docs.goparagon.com/kb/job-prepayments/",
+          "path": "data/paradigm_docs/job-prepayments.md"
+        },
+        {
+          "title": "Job Returns",
+          "url": "https://docs.goparagon.com/kb/job-returns/",
+          "path": "data/paradigm_docs/job-returns.md"
+        },
+        {
+          "title": "Creating A Job",
+          "url": "https://docs.goparagon.com/kb/creating-a-job/",
+          "path": "data/paradigm_docs/creating-a-job.md"
+        }
+      ]
+    },
+    "Order Entry and Customers": {
+      "url": "https://docs.goparagon.com/kb-category/order-entry-and-customers/",
+      "articles": [
+        {
+          "title": "Customer Portal: Create Customer Web Logins",
+          "url": "https://docs.goparagon.com/kb/customer-portal-create-customer-web-logins/",
+          "path": "data/paradigm_docs/customer-portal-create-customer-web-logins.md"
+        },
+        {
+          "title": "Customer Portal: Creating Quotes and Orders",
+          "url": "https://docs.goparagon.com/kb/customer-portal-creating-quotes-and-orders/",
+          "path": "data/paradigm_docs/customer-portal-creating-quotes-and-orders.md"
+        },
+        {
+          "title": "Credit Card Surcharges",
+          "url": "https://docs.goparagon.com/kb/credit-card-surcharges/",
+          "path": "data/paradigm_docs/credit-card-surcharges.md"
+        },
+        {
+          "title": "Mileage Calculator/Trip Optimizer",
+          "url": "https://docs.goparagon.com/kb/mileage-calculator-trip-optimizer/",
+          "path": "data/paradigm_docs/mileage-calculator-trip-optimizer.md"
+        },
+        {
+          "title": "Vendor & Customer History",
+          "url": "https://docs.goparagon.com/kb/vendor-customer-history/",
+          "path": "data/paradigm_docs/vendor-customer-history.md"
+        },
+        {
+          "title": "Prepayment Splitting \u2013 Customer Statement Report Changes",
+          "url": "https://docs.goparagon.com/kb/prepayment-splitting-customer-statement-report-changes/",
+          "path": "data/paradigm_docs/prepayment-splitting-customer-statement-report-changes.md"
+        },
+        {
+          "title": "Transaction Line Summaries",
+          "url": "https://docs.goparagon.com/kb/transaction-line-summaries/",
+          "path": "data/paradigm_docs/transaction-line-summaries.md"
+        },
+        {
+          "title": "Online Payments and Confirmations",
+          "url": "https://docs.goparagon.com/kb/online-payments-and-confirmations/",
+          "path": "data/paradigm_docs/online-payments-and-confirmations.md"
+        },
+        {
+          "title": "Row Statuses on Order Detail",
+          "url": "https://docs.goparagon.com/kb/row-statuses-on-order-detail/",
+          "path": "data/paradigm_docs/row-statuses-on-order-detail.md"
+        },
+        {
+          "title": "Customer Credit Holds",
+          "url": "https://docs.goparagon.com/kb/customer-credit-holds/",
+          "path": "data/paradigm_docs/customer-credit-holds.md"
+        },
+        {
+          "title": "Customer Pricing Types",
+          "url": "https://docs.goparagon.com/kb/customer-pricing-types/",
+          "path": "data/paradigm_docs/customer-pricing-types.md"
+        },
+        {
+          "title": "Order Entry and Customer Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/order-entry-and-customer-tips-and-tricks/",
+          "path": "data/paradigm_docs/order-entry-and-customer-tips-and-tricks.md"
+        },
+        {
+          "title": "Transaction Entry Calculations",
+          "url": "https://docs.goparagon.com/kb/transaction-entry-calculations/",
+          "path": "data/paradigm_docs/transaction-entry-calculations.md"
+        },
+        {
+          "title": "Leads And Opportunities",
+          "url": "https://docs.goparagon.com/kb/leads-and-opportunities/",
+          "path": "data/paradigm_docs/leads-and-opportunities.md"
+        },
+        {
+          "title": "Edit Locks",
+          "url": "https://docs.goparagon.com/kb/edit-locks/",
+          "path": "data/paradigm_docs/edit-locks.md"
+        },
+        {
+          "title": "MBS Import",
+          "url": "https://docs.goparagon.com/kb/mbs-import/",
+          "path": "data/paradigm_docs/mbs-import.md"
+        },
+        {
+          "title": "Customer Map",
+          "url": "https://docs.goparagon.com/kb/customer-map/",
+          "path": "data/paradigm_docs/customer-map.md"
+        },
+        {
+          "title": "Template Quotes And Orders",
+          "url": "https://docs.goparagon.com/kb/template-quotes-and-orders/",
+          "path": "data/paradigm_docs/template-quotes-and-orders.md"
+        },
+        {
+          "title": "Order Banner Colors",
+          "url": "https://docs.goparagon.com/kb/order-banner-colors/",
+          "path": "data/paradigm_docs/order-banner-colors.md"
+        },
+        {
+          "title": "Clear Locks",
+          "url": "https://docs.goparagon.com/kb/clear-locks/",
+          "path": "data/paradigm_docs/clear-locks.md"
+        },
+        {
+          "title": "Equipment Rental",
+          "url": "https://docs.goparagon.com/kb/equipment-rental/",
+          "path": "data/paradigm_docs/equipment-rental.md"
+        },
+        {
+          "title": "Unposting Paid Invoices",
+          "url": "https://docs.goparagon.com/kb/unposting-paid-invoices/",
+          "path": "data/paradigm_docs/unposting-paid-invoices.md"
+        },
+        {
+          "title": "Edit Released Orders",
+          "url": "https://docs.goparagon.com/kb/edit-released-orders/",
+          "path": "data/paradigm_docs/edit-released-orders.md"
+        },
+        {
+          "title": "Un-Release Orders",
+          "url": "https://docs.goparagon.com/kb/un-release-orders/",
+          "path": "data/paradigm_docs/un-release-orders.md"
+        },
+        {
+          "title": "Restocking Fees",
+          "url": "https://docs.goparagon.com/kb/restocking-fees/",
+          "path": "data/paradigm_docs/restocking-fees.md"
+        },
+        {
+          "title": "Customer Detail Requirements And Limits",
+          "url": "https://docs.goparagon.com/kb/customer-detail-requirement-limits/",
+          "path": "data/paradigm_docs/customer-detail-requirements-and-limits.md"
+        },
+        {
+          "title": "Partial Invoices",
+          "url": "https://docs.goparagon.com/kb/partial-invoices/",
+          "path": "data/paradigm_docs/partial-invoices.md"
+        },
+        {
+          "title": "Back Ordering",
+          "url": "https://docs.goparagon.com/kb/back-ordering/",
+          "path": "data/paradigm_docs/back-ordering.md"
+        },
+        {
+          "title": "Recording Customer Discounts When Receiving A Payment",
+          "url": "https://docs.goparagon.com/kb/recording-customer-discounts-when-receiving-a-payment/",
+          "path": "data/paradigm_docs/recording-customer-discounts-when-receiving-a-payment.md"
+        },
+        {
+          "title": "Manufacture Order",
+          "url": "https://docs.goparagon.com/kb/manufacture-order/",
+          "path": "data/paradigm_docs/manufacture-order.md"
+        },
+        {
+          "title": "Customer PO Total Required",
+          "url": "https://docs.goparagon.com/kb/customer-po-total-required/",
+          "path": "data/paradigm_docs/customer-po-total-required.md"
+        },
+        {
+          "title": "Color Switcher",
+          "url": "https://docs.goparagon.com/kb/color-switcher/",
+          "path": "data/paradigm_docs/color-switcher.md"
+        },
+        {
+          "title": "Adding A New Customer",
+          "url": "https://docs.goparagon.com/kb/adding-a-new-customer/",
+          "path": "data/paradigm_docs/adding-a-new-customer.md"
+        },
+        {
+          "title": "Converting An Invoice To An Order",
+          "url": "https://docs.goparagon.com/kb/converting-an-invoice-to-an-order/",
+          "path": "data/paradigm_docs/converting-an-invoice-to-an-order.md"
+        },
+        {
+          "title": "Bulk Product Add",
+          "url": "https://docs.goparagon.com/kb/bulk-product-add/",
+          "path": "data/paradigm_docs/bulk-product-add.md"
+        },
+        {
+          "title": "Paradigm ERP\u00a0Sales\u00a0User\u00a0Training\u00a0Topics",
+          "url": "https://docs.goparagon.com/kb/paradigm-erp-sales-user-training-topics/",
+          "path": "data/paradigm_docs/paradigm-erp-sales-user-training-topics.md"
+        },
+        {
+          "title": "Point of Sale: Customer Display",
+          "url": "https://docs.goparagon.com/kb/point-of-sale-customer-display/",
+          "path": "data/paradigm_docs/point-of-sale-customer-display.md"
+        },
+        {
+          "title": "Customer Prepayments",
+          "url": "https://docs.goparagon.com/kb/customer-prepayments/",
+          "path": "data/paradigm_docs/customer-prepayments.md"
+        },
+        {
+          "title": "Splitting Orders And Quotes",
+          "url": "https://docs.goparagon.com/kb/splitting-orders-and-quotes/",
+          "path": "data/paradigm_docs/splitting-orders-and-quotes.md"
+        },
+        {
+          "title": "Overdue Invoices",
+          "url": "https://docs.goparagon.com/kb/overdue-invoices/",
+          "path": "data/paradigm_docs/overdue-invoices.md"
+        },
+        {
+          "title": "Customer Portal: Custom Navbar",
+          "url": "https://docs.goparagon.com/kb/customer-portal-custom-navbar/",
+          "path": "data/paradigm_docs/customer-portal-custom-navbar.md"
+        },
+        {
+          "title": "Customer Portal: Invoices",
+          "url": "https://docs.goparagon.com/kb/customer-portal-invoices/",
+          "path": "data/paradigm_docs/customer-portal-invoices.md"
+        },
+        {
+          "title": "Customer Portal: Adding Subaccounts",
+          "url": "https://docs.goparagon.com/kb/customer-portal-adding-subaccounts/",
+          "path": "data/paradigm_docs/customer-portal-adding-subaccounts.md"
+        },
+        {
+          "title": "Customer Portal: Searching for Items",
+          "url": "https://docs.goparagon.com/kb/customer-portal-searching-for-items/",
+          "path": "data/paradigm_docs/customer-portal-searching-for-items.md"
+        },
+        {
+          "title": "Customer Portal: Importing An Order From An Excel File",
+          "url": "https://docs.goparagon.com/kb/customer-portal-importing-an-order-from-an-excel-file/",
+          "path": "data/paradigm_docs/customer-portal-importing-an-order-from-an-excel-file.md"
+        },
+        {
+          "title": "Customer Portal: Payments",
+          "url": "https://docs.goparagon.com/kb/customer-portal-payments/",
+          "path": "data/paradigm_docs/customer-portal-payments.md"
+        },
+        {
+          "title": "Transfers for An Order",
+          "url": "https://docs.goparagon.com/kb/transfers-for-an-order/",
+          "path": "data/paradigm_docs/transfers-for-an-order.md"
+        },
+        {
+          "title": "Running Customer Statements",
+          "url": "https://docs.goparagon.com/kb/running-customer-statements/",
+          "path": "data/paradigm_docs/running-customer-statements.md"
+        },
+        {
+          "title": "Standard Discount Selection",
+          "url": "https://docs.goparagon.com/kb/standard-discount-selection/",
+          "path": "data/paradigm_docs/standard-discount-selection.md"
+        },
+        {
+          "title": "Drop Shipping",
+          "url": "https://docs.goparagon.com/kb/drop-shipping/",
+          "path": "data/paradigm_docs/drop-shipping.md"
+        },
+        {
+          "title": "Receipt Capture",
+          "url": "https://docs.goparagon.com/kb/receipt-capture/",
+          "path": "data/paradigm_docs/receipt-capture.md"
+        },
+        {
+          "title": "Merging Orders And Quotes",
+          "url": "https://docs.goparagon.com/kb/merging-orders-and-quotes/",
+          "path": "data/paradigm_docs/merging-orders-and-quotes.md"
+        },
+        {
+          "title": "Credit Memos",
+          "url": "https://docs.goparagon.com/kb/credit-memos/",
+          "path": "data/paradigm_docs/credit-memos.md"
+        },
+        {
+          "title": "Columns for Order Detail",
+          "url": "https://docs.goparagon.com/kb/columns-for-order-detail/",
+          "path": "data/paradigm_docs/columns-for-order-detail.md"
+        },
+        {
+          "title": "Batch Post Invoices",
+          "url": "https://docs.goparagon.com/kb/batch-post-invoices/",
+          "path": "data/paradigm_docs/batch-post-invoices.md"
+        },
+        {
+          "title": "How to Refund Tax That was Mistakenly Charged",
+          "url": "https://docs.goparagon.com/kb/how-to-refund-tax-that-was-mistakenly-charged/",
+          "path": "data/paradigm_docs/how-to-refund-tax-that-was-mistakenly-charged.md"
+        },
+        {
+          "title": "Importing A List of Orders",
+          "url": "https://docs.goparagon.com/kb/importing-a-list-of-orders/",
+          "path": "data/paradigm_docs/importing-a-list-of-orders.md"
+        },
+        {
+          "title": "Import Lines Into A Transaction",
+          "url": "https://docs.goparagon.com/kb/import-lines-into-a-transaction/",
+          "path": "data/paradigm_docs/import-lines-into-a-transaction.md"
+        },
+        {
+          "title": "Bundle and Comment Lines",
+          "url": "https://docs.goparagon.com/kb/bundle-and-comment-lines/",
+          "path": "data/paradigm_docs/bundle-and-comment-lines.md"
+        },
+        {
+          "title": "Posting a Transaction With a Zero Dollar Line",
+          "url": "https://docs.goparagon.com/kb/posting-a-transaction-with-a-zero-dollar-line/",
+          "path": "data/paradigm_docs/posting-a-transaction-with-a-zero-dollar-line.md"
+        },
+        {
+          "title": "Apply Credits",
+          "url": "https://docs.goparagon.com/kb/apply-credits/",
+          "path": "data/paradigm_docs/apply-credits.md"
+        },
+        {
+          "title": "Auto Freight",
+          "url": "https://docs.goparagon.com/kb/auto-freight/",
+          "path": "data/paradigm_docs/auto-freight.md"
+        },
+        {
+          "title": "Require Ship to Addresses",
+          "url": "https://docs.goparagon.com/kb/require-ship-to-addresses/",
+          "path": "data/paradigm_docs/require-ship-to-addresses.md"
+        },
+        {
+          "title": "Require a Signature for a Customer",
+          "url": "https://docs.goparagon.com/kb/require-a-signature-for-a-customer/",
+          "path": "data/paradigm_docs/require-a-signature-for-a-customer.md"
+        },
+        {
+          "title": "Collect Customer Signatures",
+          "url": "https://docs.goparagon.com/kb/collect-customer-signatures/",
+          "path": "data/paradigm_docs/collect-customer-signatures.md"
+        },
+        {
+          "title": "Customer Saved Ship to Addresses",
+          "url": "https://docs.goparagon.com/kb/customer-saved-ship-to-addresses/",
+          "path": "data/paradigm_docs/customer-saved-ship-to-addresses.md"
+        },
+        {
+          "title": "Customer Special Pricing",
+          "url": "https://docs.goparagon.com/kb/customer-special-pricing/",
+          "path": "data/paradigm_docs/customer-special-pricing.md"
+        },
+        {
+          "title": "Prepay An Order (Simple)",
+          "url": "https://docs.goparagon.com/kb/prepay-an-order-simple/",
+          "path": "data/paradigm_docs/prepay-an-order-simple.md"
+        },
+        {
+          "title": "Receive/Make Payments Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/receiving-making-payments-tips-and-tricks/",
+          "path": "data/paradigm_docs/receive-make-payments-tips-and-tricks.md"
+        },
+        {
+          "title": "Customer Contacts",
+          "url": "https://docs.goparagon.com/kb/customer-contacts/",
+          "path": "data/paradigm_docs/customer-contacts.md"
+        },
+        {
+          "title": "Statuses And Types",
+          "url": "https://docs.goparagon.com/kb/statuses-and-types/",
+          "path": "data/paradigm_docs/statuses-and-types.md"
+        },
+        {
+          "title": "Update Order and Quote Prices",
+          "url": "https://docs.goparagon.com/kb/update-order-and-quote-prices/",
+          "path": "data/paradigm_docs/update-order-and-quote-prices.md"
+        },
+        {
+          "title": "Units Buildable",
+          "url": "https://docs.goparagon.com/kb/units-buildable/",
+          "path": "data/paradigm_docs/units-buildable.md"
+        },
+        {
+          "title": "Lock a Shipping Price",
+          "url": "https://docs.goparagon.com/kb/lock-shipping-price/",
+          "path": "data/paradigm_docs/lock-a-shipping-price.md"
+        },
+        {
+          "title": "Calculate Sales Price From a Given Margin",
+          "url": "https://docs.goparagon.com/kb/calculate-sales-price-from-a-given-margin/",
+          "path": "data/paradigm_docs/calculate-sales-price-from-a-given-margin.md"
+        },
+        {
+          "title": "Lot Selection Form On Orders",
+          "url": "https://docs.goparagon.com/kb/lot-selection-form-on-orders/",
+          "path": "data/paradigm_docs/lot-selection-form-on-orders.md"
+        },
+        {
+          "title": "Gift Cards",
+          "url": "https://docs.goparagon.com/kb/gift-cards/",
+          "path": "data/paradigm_docs/gift-cards.md"
+        },
+        {
+          "title": "Receive Payments",
+          "url": "https://docs.goparagon.com/kb/receive-payments/",
+          "path": "data/paradigm_docs/receive-payments.md"
+        },
+        {
+          "title": "Point Of Sale (POS)",
+          "url": "https://docs.goparagon.com/kb/point-of-sale/",
+          "path": "data/paradigm_docs/point-of-sale-pos.md"
+        }
+      ]
+    },
+    "Purchase Order and Vendors": {
+      "url": "https://docs.goparagon.com/kb-category/purchase-order-and-vendors/",
+      "articles": [
+        {
+          "title": "Splitting Purchase Orders And Purchase Invoices",
+          "url": "https://docs.goparagon.com/kb/splitting-purchase-orders-and-purchase-invoices/",
+          "path": "data/paradigm_docs/splitting-purchase-orders-and-purchase-invoices.md"
+        },
+        {
+          "title": "Create Purchase Orders by Default",
+          "url": "https://docs.goparagon.com/kb/create-purchase-orders-by-default/",
+          "path": "data/paradigm_docs/create-purchase-orders-by-default.md"
+        },
+        {
+          "title": "Special Order Purchasing",
+          "url": "https://docs.goparagon.com/kb/special-order-purchasing-screen/",
+          "path": "data/paradigm_docs/special-order-purchasing.md"
+        },
+        {
+          "title": "How to Deposit a Check or Reimbursement from a Vendor",
+          "url": "https://docs.goparagon.com/kb/how-to-deposit-a-check-or-reimbursement-from-a-vendor/",
+          "path": "data/paradigm_docs/how-to-deposit-a-check-or-reimbursement-from-a-vendor.md"
+        },
+        {
+          "title": "Purchasing Agent and Reorder Points",
+          "url": "https://docs.goparagon.com/kb/purchasing-agent-and-reorder-points/",
+          "path": "data/paradigm_docs/purchasing-agent-and-reorder-points.md"
+        },
+        {
+          "title": "Voucher Lot Receive Import",
+          "url": "https://docs.goparagon.com/kb/voucher-lot-receiving-import/",
+          "path": "data/paradigm_docs/voucher-lot-receive-import.md"
+        },
+        {
+          "title": "Debit Memos",
+          "url": "https://docs.goparagon.com/kb/debit-memos/",
+          "path": "data/paradigm_docs/debit-memos.md"
+        },
+        {
+          "title": "Pay Bills Multi-Vendor",
+          "url": "https://docs.goparagon.com/kb/pay-bills-multi-vendor/",
+          "path": "data/paradigm_docs/pay-bills-multi-vendor.md"
+        },
+        {
+          "title": "Vendor Preferred Payment Methods",
+          "url": "https://docs.goparagon.com/kb/vendor-preferred-payment-methods/",
+          "path": "data/paradigm_docs/vendor-preferred-payment-methods.md"
+        },
+        {
+          "title": "Voucher Receive Import",
+          "url": "https://docs.goparagon.com/kb/voucher-receive-import/",
+          "path": "data/paradigm_docs/voucher-receive-import.md"
+        },
+        {
+          "title": "Vendor Prepayments",
+          "url": "https://docs.goparagon.com/kb/vendor-prepayments/",
+          "path": "data/paradigm_docs/vendor-prepayments.md"
+        },
+        {
+          "title": "Purchasing Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/purchasing-tips-and-tricks/",
+          "path": "data/paradigm_docs/purchasing-tips-and-tricks.md"
+        },
+        {
+          "title": "Adding A New Vendor",
+          "url": "https://docs.goparagon.com/kb/adding-a-new-vendor/",
+          "path": "data/paradigm_docs/adding-a-new-vendor.md"
+        },
+        {
+          "title": "How to Use Current Cost Instead of Standard Cost on POs and Purchase Invoices",
+          "url": "https://docs.goparagon.com/kb/how-to-use-current-cost-instead-of-standard-cost-on-pos-and-purchase-invoices/",
+          "path": "data/paradigm_docs/how-to-use-current-cost-instead-of-standard-cost-on-pos-and-purchase-invoices.md"
+        },
+        {
+          "title": "Distribute Freight or Other",
+          "url": "https://docs.goparagon.com/kb/distribute-freight-or-other/",
+          "path": "data/paradigm_docs/distribute-freight-or-other.md"
+        },
+        {
+          "title": "Freight Charges to A Different Vendor",
+          "url": "https://docs.goparagon.com/kb/freight-charges-to-a-different-vendor/",
+          "path": "data/paradigm_docs/freight-charges-to-a-different-vendor.md"
+        },
+        {
+          "title": "Vendor To Remit Address",
+          "url": "https://docs.goparagon.com/kb/vendor-to-remit-address/",
+          "path": "data/paradigm_docs/vendor-to-remit-address.md"
+        },
+        {
+          "title": "Transfer Cost From Order to PO",
+          "url": "https://docs.goparagon.com/kb/transfer-cost-from-order-to-po/",
+          "path": "data/paradigm_docs/transfer-cost-from-order-to-po.md"
+        },
+        {
+          "title": "How to Receive Inventory Items By Scanning Them",
+          "url": "https://docs.goparagon.com/kb/how-to-receive-inventory-items-by-scanning-them/",
+          "path": "data/paradigm_docs/how-to-receive-inventory-items-by-scanning-them.md"
+        },
+        {
+          "title": "Set Up Alternate Vendors",
+          "url": "https://docs.goparagon.com/kb/set-up-alternate-vendors/",
+          "path": "data/paradigm_docs/set-up-alternate-vendors.md"
+        }
+      ]
+    },
+    "Production": {
+      "url": "https://docs.goparagon.com/kb-category/production/",
+      "articles": [
+        {
+          "title": "Assign To Different Machine",
+          "url": "https://docs.goparagon.com/kb/assign-to-different-machine/",
+          "path": "data/paradigm_docs/assign-to-different-machine.md"
+        },
+        {
+          "title": "Machine List",
+          "url": "https://docs.goparagon.com/kb/machine-list/",
+          "path": "data/paradigm_docs/machine-list.md"
+        },
+        {
+          "title": "Remove A Build From Production",
+          "url": "https://docs.goparagon.com/kb/remove-a-build-from-production/",
+          "path": "data/paradigm_docs/remove-a-build-from-production.md"
+        },
+        {
+          "title": "Machine Groups",
+          "url": "https://docs.goparagon.com/kb/machine-groups/",
+          "path": "data/paradigm_docs/machine-groups.md"
+        },
+        {
+          "title": "Pull Item From Stock in Production",
+          "url": "https://docs.goparagon.com/kb/pull-item-from-stock-in-production/",
+          "path": "data/paradigm_docs/pull-item-from-stock-in-production.md"
+        },
+        {
+          "title": "Configuring a Product for Export to Connex",
+          "url": "https://docs.goparagon.com/kb/configuring-a-product-for-export-to-connex/",
+          "path": "data/paradigm_docs/configuring-a-product-for-export-to-connex.md"
+        },
+        {
+          "title": "Production Settings",
+          "url": "https://docs.goparagon.com/kb/production-settings/",
+          "path": "data/paradigm_docs/production-settings.md"
+        },
+        {
+          "title": "Production Screens",
+          "url": "https://docs.goparagon.com/kb/production-screens/",
+          "path": "data/paradigm_docs/production-screens.md"
+        },
+        {
+          "title": "Manufactured To Order Items With Low Stock",
+          "url": "https://docs.goparagon.com/kb/manufactured-to-order-items-with-low-stock/",
+          "path": "data/paradigm_docs/manufactured-to-order-items-with-low-stock.md"
+        },
+        {
+          "title": "Machine Options",
+          "url": "https://docs.goparagon.com/kb/machine-options/",
+          "path": "data/paradigm_docs/machine-options.md"
+        },
+        {
+          "title": "Production: Lock Build when Printing",
+          "url": "https://docs.goparagon.com/kb/production-lock-build-when-printing/",
+          "path": "data/paradigm_docs/production-lock-build-when-printing.md"
+        },
+        {
+          "title": "Edit Production Dates",
+          "url": "https://docs.goparagon.com/kb/edit-production-dates/",
+          "path": "data/paradigm_docs/edit-production-dates.md"
+        },
+        {
+          "title": "Production Lines Added to A Bundle",
+          "url": "https://docs.goparagon.com/kb/production-lines-added-to-a-bundle/",
+          "path": "data/paradigm_docs/production-lines-added-to-a-bundle.md"
+        },
+        {
+          "title": "Configuring a Product For Export To Eclipse",
+          "url": "https://docs.goparagon.com/kb/configuring-a-product-for-export-to-eclipse/",
+          "path": "data/paradigm_docs/configuring-a-product-for-export-to-eclipse.md"
+        },
+        {
+          "title": "Changing Pieces Ordered",
+          "url": "https://docs.goparagon.com/kb/changing-pieces-ordered/",
+          "path": "data/paradigm_docs/changing-pieces-ordered.md"
+        },
+        {
+          "title": "Capture Coil",
+          "url": "https://docs.goparagon.com/kb/capture-coil/",
+          "path": "data/paradigm_docs/capture-coil.md"
+        },
+        {
+          "title": "Purging a Job From Beck/Connex or AMS/Eclipse",
+          "url": "https://docs.goparagon.com/kb/purging-a-job-from-beck-connex-or-ams-eclipse/",
+          "path": "data/paradigm_docs/purging-a-job-from-beck-connex-or-ams-eclipse.md"
+        },
+        {
+          "title": "Scrap Calculations",
+          "url": "https://docs.goparagon.com/kb/scrap-calculations/",
+          "path": "data/paradigm_docs/scrap-calculations.md"
+        },
+        {
+          "title": "Multi-Stage Production",
+          "url": "https://docs.goparagon.com/kb/multi-stage-production/",
+          "path": "data/paradigm_docs/multi-stage-production.md"
+        },
+        {
+          "title": "Assigning Staging Areas In Production",
+          "url": "https://docs.goparagon.com/kb/assigning-staging-areas-in-production/",
+          "path": "data/paradigm_docs/assigning-staging-areas-in-production.md"
+        },
+        {
+          "title": "Production Lead Days",
+          "url": "https://docs.goparagon.com/kb/production-lead-days/",
+          "path": "data/paradigm_docs/production-lead-days.md"
+        },
+        {
+          "title": "Component Tree",
+          "url": "https://docs.goparagon.com/kb/component-tree/",
+          "path": "data/paradigm_docs/component-tree.md"
+        },
+        {
+          "title": "Production: Export Button",
+          "url": "https://docs.goparagon.com/kb/production-export-button/",
+          "path": "data/paradigm_docs/production-export-button.md"
+        },
+        {
+          "title": "Production: Recently Completed",
+          "url": "https://docs.goparagon.com/kb/production-recently-completed/",
+          "path": "data/paradigm_docs/production-recently-completed.md"
+        },
+        {
+          "title": "Production: Coil History",
+          "url": "https://docs.goparagon.com/kb/production-coil-history/",
+          "path": "data/paradigm_docs/production-coil-history.md"
+        },
+        {
+          "title": "Production By Piece",
+          "url": "https://docs.goparagon.com/kb/production-by-piece/",
+          "path": "data/paradigm_docs/production-by-piece.md"
+        },
+        {
+          "title": "Production: One Label Per Build",
+          "url": "https://docs.goparagon.com/kb/production-one-label-per-build/",
+          "path": "data/paradigm_docs/production-one-label-per-build.md"
+        },
+        {
+          "title": "Work Order List Filter/Sort Options",
+          "url": "https://docs.goparagon.com/kb/work-order-list-filter-sort-options/",
+          "path": "data/paradigm_docs/work-order-list-filter-sort-options.md"
+        },
+        {
+          "title": "Production Scan Tab",
+          "url": "https://docs.goparagon.com/kb/production-scan-tab/",
+          "path": "data/paradigm_docs/production-scan-tab.md"
+        },
+        {
+          "title": "Production: Line Split",
+          "url": "https://docs.goparagon.com/kb/production-line-splitting/",
+          "path": "data/paradigm_docs/production-line-split.md"
+        },
+        {
+          "title": "Production: Line Split By Label",
+          "url": "https://docs.goparagon.com/kb/production-line-split-by-labels/",
+          "path": "data/paradigm_docs/production-line-split-by-label.md"
+        },
+        {
+          "title": "Show/Hide Locked Builds",
+          "url": "https://docs.goparagon.com/kb/show-hide-locked-builds/",
+          "path": "data/paradigm_docs/show-hide-locked-builds.md"
+        },
+        {
+          "title": "Production Coil Split",
+          "url": "https://docs.goparagon.com/kb/production-coil-split/",
+          "path": "data/paradigm_docs/production-coil-split.md"
+        },
+        {
+          "title": "Production Tips and Tricks",
+          "url": "https://docs.goparagon.com/kb/production-tips-and-tricks/",
+          "path": "data/paradigm_docs/production-tips-and-tricks.md"
+        },
+        {
+          "title": "Adding/Deleting Bundles From Production",
+          "url": "https://docs.goparagon.com/kb/adding-deleting-bundles-from-production/",
+          "path": "data/paradigm_docs/adding-deleting-bundles-from-production.md"
+        },
+        {
+          "title": "Production Multi-Build Printing",
+          "url": "https://docs.goparagon.com/kb/production-multi-build-printing/",
+          "path": "data/paradigm_docs/production-multi-build-printing.md"
+        },
+        {
+          "title": "Production Batching",
+          "url": "https://docs.goparagon.com/kb/production-batching/",
+          "path": "data/paradigm_docs/production-batching.md"
+        }
+      ]
+    },
+    "Dispatching": {
+      "url": "https://docs.goparagon.com/kb-category/dispatching/",
+      "articles": [
+        {
+          "title": "Daily Deliveries",
+          "url": "https://docs.goparagon.com/kb/daily-deliveries/",
+          "path": "data/paradigm_docs/daily-deliveries.md"
+        },
+        {
+          "title": "Samsara Integration",
+          "url": "https://docs.goparagon.com/kb/samsara-integration/",
+          "path": "data/paradigm_docs/samsara-integration.md"
+        },
+        {
+          "title": "Trip Info",
+          "url": "https://docs.goparagon.com/kb/trip-info/",
+          "path": "data/paradigm_docs/trip-info.md"
+        },
+        {
+          "title": "Address List",
+          "url": "https://docs.goparagon.com/kb/address-list/",
+          "path": "data/paradigm_docs/address-list.md"
+        },
+        {
+          "title": "Fulfillment Pro: Trip Is Full",
+          "url": "https://docs.goparagon.com/kb/fulfillment-pro-trip-is-full/",
+          "path": "data/paradigm_docs/fulfillment-pro-trip-is-full.md"
+        },
+        {
+          "title": "Multiple Orders",
+          "url": "https://docs.goparagon.com/kb/multiple-orders/",
+          "path": "data/paradigm_docs/multiple-orders.md"
+        },
+        {
+          "title": "Dispatching Settings",
+          "url": "https://docs.goparagon.com/kb/dispatching-settings/",
+          "path": "data/paradigm_docs/dispatching-settings.md"
+        },
+        {
+          "title": "Dispatching Map",
+          "url": "https://docs.goparagon.com/kb/dispatching-map/",
+          "path": "data/paradigm_docs/dispatching-map.md"
+        },
+        {
+          "title": "Transfer Lead Times",
+          "url": "https://docs.goparagon.com/kb/transfer-lead-times/",
+          "path": "data/paradigm_docs/transfer-lead-times.md"
+        },
+        {
+          "title": "Trip History",
+          "url": "https://docs.goparagon.com/kb/trip-history/",
+          "path": "data/paradigm_docs/trip-history.md"
+        },
+        {
+          "title": "Delivery Notification",
+          "url": "https://docs.goparagon.com/kb/delivery-notification/",
+          "path": "data/paradigm_docs/delivery-notification.md"
+        },
+        {
+          "title": "Outside Deliveries",
+          "url": "https://docs.goparagon.com/kb/outside-deliveries/",
+          "path": "data/paradigm_docs/outside-deliveries.md"
+        },
+        {
+          "title": "Dispatching: Product Exclusions from the Length Check",
+          "url": "https://docs.goparagon.com/kb/dispatching-product-exclusions-from-the-length-check/",
+          "path": "data/paradigm_docs/dispatching-product-exclusions-from-the-length-check.md"
+        },
+        {
+          "title": "Truck Summary",
+          "url": "https://docs.goparagon.com/kb/truck-summary/",
+          "path": "data/paradigm_docs/truck-summary.md"
+        },
+        {
+          "title": "Trip Statuses",
+          "url": "https://docs.goparagon.com/kb/trip-statuses/",
+          "path": "data/paradigm_docs/trip-statuses.md"
+        },
+        {
+          "title": "Why does the same order show up on Multiple Lines in Daily Deliveries?",
+          "url": "https://docs.goparagon.com/kb/why-does-the-same-order-show-up-on-multiple-lines-in-daily-deliveries/",
+          "path": "data/paradigm_docs/why-does-the-same-order-show-up-on-multiple-lines-in-daily-deliveries.md"
+        },
+        {
+          "title": "Daily Pickups",
+          "url": "https://docs.goparagon.com/kb/daily-pickups/",
+          "path": "data/paradigm_docs/daily-pickups.md"
+        },
+        {
+          "title": "Max Length Categories",
+          "url": "https://docs.goparagon.com/kb/max-length-categories/",
+          "path": "data/paradigm_docs/max-length-categories.md"
+        },
+        {
+          "title": "Trailer List",
+          "url": "https://docs.goparagon.com/kb/trailer-list/",
+          "path": "data/paradigm_docs/trailer-list.md"
+        },
+        {
+          "title": "Driver List",
+          "url": "https://docs.goparagon.com/kb/driver-list/",
+          "path": "data/paradigm_docs/driver-list.md"
+        },
+        {
+          "title": "Truck List",
+          "url": "https://docs.goparagon.com/kb/truck-list/",
+          "path": "data/paradigm_docs/truck-list.md"
+        },
+        {
+          "title": "Trips List",
+          "url": "https://docs.goparagon.com/kb/trips-list/",
+          "path": "data/paradigm_docs/trips-list.md"
+        },
+        {
+          "title": "Ship Vias",
+          "url": "https://docs.goparagon.com/kb/ship-vias/",
+          "path": "data/paradigm_docs/ship-vias.md"
+        },
+        {
+          "title": "Create Dispatching Filters",
+          "url": "https://docs.goparagon.com/kb/creating-dispatching-filters/",
+          "path": "data/paradigm_docs/create-dispatching-filters.md"
+        }
+      ]
+    }
+  }
+}

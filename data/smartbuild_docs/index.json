@@ -1,0 +1,285 @@
+{
+  "source": {
+    "youtube_channel": "https://www.youtube.com/@smartbuildsystems3845",
+    "support_home": "https://support.smartbuildsystems.com/support/home"
+  },
+  "generated_at": "2026-02-17T15:42:19Z",
+  "counts": {
+    "support_articles": 38,
+    "youtube_videos": 3,
+    "total": 41
+  },
+  "sections": {
+    "support_articles": [
+      {
+        "title": "10 Minute Basic Training VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000180189-10-minute-basic-training-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000180189-10-minute-basic-training-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "2 Minute Portable Shed Design VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515564-2-minute-portable-shed-design-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515564-2-minute-portable-shed-design-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "3 Minute Red Iron Design VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515565-3-minute-red-iron-design-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515565-3-minute-red-iron-design-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "37 Minute Basic Post Frame VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000269280-37-minute-basic-post-frame-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000269280-37-minute-basic-post-frame-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "5 Minute - Steel Barndo Design",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515563-5-minute-steel-barndo-design",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515563-5-minute-steel-barndo-design.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Adding a New User",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000520173-adding-a-new-user",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000520173-adding-a-new-user.md",
+        "type": "support-article"
+      },
+      {
+        "title": "AutoCad and DXF outputs",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000529500-autocad-and-dxf-outputs",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000529500-autocad-and-dxf-outputs.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Basic User Guide",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000522531-basic-user-guide",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000522531-basic-user-guide.md",
+        "attachments": [
+          {
+            "label": "SmartBuild U...",
+            "url": "https://support.smartbuildsystems.com/helpdesk/attachments/36208126447",
+            "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/attachments/36000522531/basic-user-guide-attachment-1.pdf"
+          }
+        ],
+        "type": "support-article"
+      },
+      {
+        "title": "Becoming a Distributor &amp; managing Builders",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000533245-becoming-a-distributor-managing-builders",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000533245-becoming-a-distributor-amp-managing-builders.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Can I change colors on doors and windows?",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000521954-can-i-change-colors-on-doors-and-windows-",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000521954-can-i-change-colors-on-doors-and-windows.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Can I show a room in the attic trusses?",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000529499-can-i-show-a-room-in-the-attic-trusses-",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000529499-can-i-show-a-room-in-the-attic-trusses.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Document Templates - Quotes, Proposals and Quick Parts",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000531041-document-templates-quotes-proposals-and-quick-parts",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000531041-document-templates-quotes-proposals-and-quick-parts.md",
+        "attachments": [
+          {
+            "label": "new quote.docx",
+            "url": "https://support.smartbuildsystems.com/helpdesk/attachments/36212916444",
+            "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/attachments/36000531041/document-templates-quotes-proposals-and-quick-parts-attachment-1.docx"
+          }
+        ],
+        "type": "support-article"
+      },
+      {
+        "title": "Integrating with Paradigm",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000578267-integrating-with-paradigm",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000578267-integrating-with-paradigm.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Interactive Window and Door Colors",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000521953-interactive-window-and-door-colors",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000521953-interactive-window-and-door-colors.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Interior Floor Plan Design VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515566-interior-floor-plan-design-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515566-interior-floor-plan-design-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Latest Release Notes",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000179158-latest-release-notes",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000179158-latest-release-notes.md",
+        "type": "support-article"
+      },
+      {
+        "title": "More Video Links",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000179160-more-video-links",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000179160-more-video-links.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Point Of Sale Systems",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515568-point-of-sale-systems",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515568-point-of-sale-systems.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Post",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515562-post-spacing",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515562-post.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Rolling out SmartBuild \u2013 Who, What and When",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000183044-rolling-out-smartbuild-who-what-and-when",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000183044-rolling-out-smartbuild-who-what-and-when.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Roofing Passport VIDEO",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515567-roofing-passport-video",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515567-roofing-passport-video.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Scaled Blueprint Drawings",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000529501-scaled-blueprint-drawings",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000529501-scaled-blueprint-drawings.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Setting up Span tables",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000531028-setting-up-span-tables",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000531028-setting-up-span-tables.md",
+        "type": "support-article"
+      },
+      {
+        "title": "SketchUp + Condoc Tools",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000515543-sketchup-condoc-tools",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000515543-sketchup-condoc-tools.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Smartbuild - Learning the basics",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000520156-smartbuild-learning-the-basics",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000520156-smartbuild-learning-the-basics.md",
+        "type": "support-article"
+      },
+      {
+        "title": "SmartBuild output of SketchUp file",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000188898-smartbuild-output-of-sketchup-file",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000188898-smartbuild-output-of-sketchup-file.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Support Hours",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000040795-support-hours",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000040795-support-hours.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Updating your Pricing",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000523762-updating-your-pricing",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000523762-updating-your-pricing.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Updating your Pricing",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000578332-updating-your-pricing",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000578332-updating-your-pricing.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Create Post Layout Drawings and More!",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000432229-video-create-post-layout-drawings-and-more-",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000432229-video-create-post-layout-drawings-and-more.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Framing Part Colors",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000429592-video-framing-part-colors",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000429592-video-framing-part-colors.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Product Systems Overview",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000429588-video-product-systems-overview",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000429588-video-product-systems-overview.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Product Systems Overview",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000429590-video-product-systems-overview",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000429590-video-product-systems-overview.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Shingles Siding and Stone Textures",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000429593-video-shingles-siding-and-stone-textures",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000429593-video-shingles-siding-and-stone-textures.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Video: Sliding Doors",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000429591-video-sliding-doors",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000429591-video-sliding-doors.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Webinar Recordings",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000179159-webinar-recordings",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000179159-webinar-recordings.md",
+        "type": "support-article"
+      },
+      {
+        "title": "Welcome to SmartBuild - Steps to Getting Started",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000179156-welcome-to-smartbuild-steps-to-getting-started",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/36000179156-welcome-to-smartbuild-steps-to-getting-started.md",
+        "attachments": [
+          {
+            "label": "SB-P.F. Impl...",
+            "url": "https://support.smartbuildsystems.com/helpdesk/attachments/36233955468",
+            "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/attachments/36000179156/welcome-to-smartbuild-steps-to-getting-started-attachment-1.pdf"
+          }
+        ],
+        "type": "support-article"
+      },
+      {
+        "title": "Welcome to SmartBuild - Steps to Getting Started (Full Manual)",
+        "url": "https://support.smartbuildsystems.com/support/solutions/articles/36000179156-welcome-to-smartbuild-steps-to-getting-started",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/articles/manual-welcome-to-smartbuild-steps-to-getting-started-full-guide.md",
+        "type": "support-article"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Smartbuild RF - Smartbuild for Roofing",
+        "url": "https://www.youtube.com/watch?v=RmgKvpDZa2k",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/videos/rmgkvpdza2k-smartbuild-rf-smartbuild-for-roofing.md",
+        "type": "youtube-video"
+      },
+      {
+        "title": "Post Wraps and Beam Wraps on Porches",
+        "url": "https://www.youtube.com/watch?v=--p5sCsKIlE",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/videos/p5scskile-post-wraps-and-beam-wraps-on-porches.md",
+        "type": "youtube-video"
+      },
+      {
+        "title": "Smartbuild Webinar 1.103",
+        "url": "https://www.youtube.com/watch?v=L9M1KnRsFPs",
+        "path": "F:/Western Intel V2/Western Intel/data/smartbuild_docs/videos/l9m1knrsfps-smartbuild-webinar-1-103.md",
+        "type": "youtube-video"
+      }
+    ]
+  }
+}
