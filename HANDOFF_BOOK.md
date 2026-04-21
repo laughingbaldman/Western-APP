@@ -14,6 +14,7 @@ This clean package is a rebuild-focused runtime handoff, not a full historical r
 
 ## Included Components
 - `Start-Western-Intelligence.bat`
+- `Start-Western-Intelligence.py`
 - `app` runtime folder (source, UI, package manifests, patches)
 - `Western Building Supply knowledgebase.md`
 - `data\smartbuild_docs`

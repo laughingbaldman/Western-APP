@@ -12,7 +12,7 @@ This runbook is for end users and technicians who need to run, support, and trou
 - Startup launcher
 
 ## Standard Startup
-1. Open `Start-Western-Intelligence.bat` from the clean build root.
+1. Open `Start-Western-Intelligence.bat` from the clean build root (it now prefers `Start-Western-Intelligence.py` when Python is available).
 2. The launcher attempts to start LM Studio if installed at `C:\Program Files\LM Studio\LM Studio.exe`.
 3. The app then starts through `app\run.bat`.
 
@@ -32,6 +32,7 @@ This runbook is for end users and technicians who need to run, support, and trou
 - App entry: `app\src\main.js`
 - Renderer page: `app\public\index.html`
 - Launcher: `Start-Western-Intelligence.bat`
+- Python launcher: `Start-Western-Intelligence.py`
 - App runner: `app\run.bat`
 - Primary knowledge base: `Western Building Supply knowledgebase.md`
 - SmartBuild docs: `data\smartbuild_docs`

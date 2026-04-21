@@ -13,6 +13,20 @@ if /I not "%WESTERN_INTEL_SHOW_CONSOLE%"=="1" (
 
 if /I "%~1"=="--hidden" shift /1
 
+set "PY_LAUNCHER=%~dp0Start-Western-Intelligence.py"
+if exist "%PY_LAUNCHER%" (
+	where py >nul 2>&1
+	if not errorlevel 1 (
+		py -3 "%PY_LAUNCHER%" %*
+		exit /b %ERRORLEVEL%
+	)
+	where python >nul 2>&1
+	if not errorlevel 1 (
+		python "%PY_LAUNCHER%" %*
+		exit /b %ERRORLEVEL%
+	)
+)
+
 set "LOG_DIR=%LOCALAPPDATA%\Western Intelligence"
 if not exist "%LOG_DIR%" mkdir "%LOG_DIR%"
 set "LOG_FILE=%LOG_DIR%\startup.log"
