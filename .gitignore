@@ -3,3 +3,5 @@ app/dist/
 app/out/
 app/.cache/
 Western APP/
+__pycache__/
+*.pyc
